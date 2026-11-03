@@ -1,0 +1,8760 @@
+{
+ "meta": {
+  "cliente": "ALP / Brucker",
+  "transportadora": "G1 Transporte",
+  "periodo": "jul a out/2026",
+  "meses": [
+   "2026-07",
+   "2026-08",
+   "2026-09",
+   "2026-10"
+  ],
+  "placas": [
+   "SEI2B55",
+   "SEI2B56",
+   "SEI2B52",
+   "SEI0H92",
+   "JCG8H84",
+   "JCF7A22",
+   "JCF7A27",
+   "JCG0H51"
+  ],
+  "gerado": "2026-11-02",
+  "estimativas": {
+   "2026-07": "Sem relatório do Sienge. Despesas G1 estimadas com o modelo de agosto, já com a folha, mais R$ 10.000.",
+   "2026-08": "Folha de pagamento completada com o modelo de setembro, com salários, INSS e FGTS, e R$ 2.500 a mais na JCG0H51."
+  },
+  "premissas": [
+   "Julho a setembro vêm das fichas de acerto da ALP. Outubro vem do Excel de faturamento, com combustível, parcela e manutenção, IPVA e seguro do resumo por placa.",
+   "Despesas G1 vêm dos relatórios do Sienge, só contas filhas de saídas. Contas pai não são somadas e as receitas são ignoradas.",
+   "Impostos fora da conta: PIS, COFINS, CSLL, ICMS, reparcelamentos e retenções. Ficam apenas INSS e FGTS.",
+   "Ajuda de custo cortada pela metade em setembro e outubro. Em agosto, a conta Benefícios fica integral.",
+   "Despesas extras Adm somadas ao resultado e rateadas igualmente entre as 8 placas: salário TS, aluguel e telefone, R$ 6.763 por mês.",
+   "Agosto: folha completada com a de setembro e R$ 2.500 a mais na JCG0H51. Julho: sem relatório, usa o modelo de agosto mais R$ 10.000. Os ajustes estimados entram metade em peças e pneus e metade em mão de obra. Meses marcados com * têm parte estimada.",
+   "Peso só existe para outubro. Para julho a setembro não há fonte de peso na pasta de dados.",
+   "Km rodado: julho e agosto vêm das planilhas de abastecimento. Setembro e outubro são a diferença entre as últimas leituras de hodômetro de cada mês (relatório do cartão e aba Abastecimento do Excel de outubro). A JCG0H51 não tem leitura em setembro, então o km de setembro e outubro dela é o rodado entre agosto e outubro dividido pelos litros de cada mês."
+  ]
+ },
+ "placaMes": [
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "fretes": 17,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 83855.03,
+   "despesaAlp": 20963.72,
+   "pctAlp": 0.25,
+   "combustivel": 16190.83,
+   "parcela": 0.0,
+   "manutencaoIpvaSeguro": 2751.18,
+   "livreG1": 43949.3,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 2751.18,
+   "sienge": {
+    "Materiais": 716.32,
+    "Mão de obra": 11573.76,
+    "Veículos, peças e pneus": 5365.68,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 22467.21,
+   "siengeEstimado": 22467.21,
+   "resultadoG1": 20636.71,
+   "manutencaoG1": 5365.68,
+   "manutencaoTotal": 8116.86
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "fretes": 8,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 66370.1,
+   "despesaAlp": 16592.51,
+   "pctAlp": 0.25,
+   "combustivel": 20499.33,
+   "parcela": 0.0,
+   "manutencaoIpvaSeguro": 1866.95,
+   "livreG1": 27411.31,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 1866.95,
+   "sienge": {
+    "Materiais": 716.32,
+    "Mão de obra": 11573.76,
+    "Veículos, peças e pneus": 1727.58,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 18829.11,
+   "siengeEstimado": 18829.11,
+   "resultadoG1": 7736.83,
+   "manutencaoG1": 1667.59,
+   "manutencaoTotal": 3534.54
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "fretes": 6,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 37714.93,
+   "despesaAlp": 9428.72,
+   "pctAlp": 0.25,
+   "combustivel": 12161.05,
+   "parcela": 0.0,
+   "manutencaoIpvaSeguro": 1866.95,
+   "livreG1": 14258.21,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 1866.95,
+   "sienge": {
+    "Materiais": 716.44,
+    "Mão de obra": 11586.32,
+    "Veículos, peças e pneus": 5472.71,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 22586.92,
+   "siengeEstimado": 22586.92,
+   "resultadoG1": -9174.08,
+   "manutencaoG1": 5472.71,
+   "manutencaoTotal": 7339.66
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "fretes": 12,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 89318.11,
+   "despesaAlp": 22329.5,
+   "pctAlp": 0.25,
+   "combustivel": 26437.65,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 2883.23,
+   "livreG1": 27667.73,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 2883.23,
+   "sienge": {
+    "Materiais": 304.69,
+    "Mão de obra": 11573.76,
+    "Veículos, peças e pneus": 5821.88,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 22511.78,
+   "siengeEstimado": 22511.78,
+   "resultadoG1": 4310.58,
+   "manutencaoG1": 5821.88,
+   "manutencaoTotal": 8705.11
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "fretes": 13,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 74206.29,
+   "despesaAlp": 18551.57,
+   "pctAlp": 0.25,
+   "combustivel": 25031.33,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 6114.9,
+   "livreG1": 14508.49,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 6114.9,
+   "sienge": {
+    "Materiais": 519.83,
+    "Mão de obra": 11573.76,
+    "Veículos, peças e pneus": 2070.59,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 18975.63,
+   "siengeEstimado": 18975.63,
+   "resultadoG1": -5312.52,
+   "manutencaoG1": 2070.59,
+   "manutencaoTotal": 8185.49
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "fretes": 11,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 68619.37,
+   "despesaAlp": 17154.83,
+   "pctAlp": 0.25,
+   "combustivel": 23383.05,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 5546.45,
+   "livreG1": 12535.04,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 5546.45,
+   "sienge": {
+    "Materiais": 7.95,
+    "Mão de obra": 11573.76,
+    "Veículos, peças e pneus": 2350.09,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 18743.25,
+   "siengeEstimado": 18743.25,
+   "resultadoG1": -7053.59,
+   "manutencaoG1": 2350.09,
+   "manutencaoTotal": 7896.54
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "fretes": 16,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 135440.91,
+   "despesaAlp": 37923.47,
+   "pctAlp": 0.28,
+   "combustivel": 37576.01,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 5719.59,
+   "livreG1": 44221.84,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 5719.59,
+   "sienge": {
+    "Materiais": 7.95,
+    "Mão de obra": 11573.76,
+    "Veículos, peças e pneus": 3126.07,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 19519.23,
+   "siengeEstimado": 19519.23,
+   "resultadoG1": 23857.24,
+   "manutencaoG1": 3126.07,
+   "manutencaoTotal": 8845.66
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "fretes": 13,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 94951.32,
+   "despesaAlp": 23737.83,
+   "pctAlp": 0.25,
+   "combustivel": 33323.87,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 8959.06,
+   "livreG1": 18930.56,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 8959.06,
+   "sienge": {
+    "Materiais": 7.95,
+    "Mão de obra": 11580.33,
+    "Veículos, peças e pneus": 2915.19,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 19314.92,
+   "siengeEstimado": 19314.92,
+   "resultadoG1": -1229.73,
+   "manutencaoG1": 2915.19,
+   "manutencaoTotal": 11874.25
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "fretes": 19,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 98330.25,
+   "despesaAlp": 24582.55,
+   "pctAlp": 0.25,
+   "combustivel": 20977.02,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 2751.18,
+   "livreG1": 40019.5,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 2751.18,
+   "sienge": {
+    "Materiais": 716.32,
+    "Mão de obra": 10948.76,
+    "Veículos, peças e pneus": 4740.68,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 21217.21,
+   "siengeEstimado": 10234.87,
+   "resultadoG1": 17956.91,
+   "manutencaoG1": 4740.68,
+   "manutencaoTotal": 7491.86
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "fretes": 12,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 81426.48,
+   "despesaAlp": 20356.61,
+   "pctAlp": 0.25,
+   "combustivel": 27519.71,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 2766.62,
+   "livreG1": 20783.54,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 2766.62,
+   "sienge": {
+    "Materiais": 716.32,
+    "Mão de obra": 10948.76,
+    "Veículos, peças e pneus": 1102.58,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 17579.11,
+   "siengeEstimado": 10234.87,
+   "resultadoG1": 2359.06,
+   "manutencaoG1": 1042.59,
+   "manutencaoTotal": 3809.21
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "fretes": 12,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 92055.19,
+   "despesaAlp": 23013.79,
+   "pctAlp": 0.25,
+   "combustivel": 27503.9,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 1866.95,
+   "livreG1": 29670.55,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 1866.95,
+   "sienge": {
+    "Materiais": 716.44,
+    "Mão de obra": 12211.32,
+    "Veículos, peças e pneus": 6097.71,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 23836.92,
+   "siengeEstimado": 13466.71,
+   "resultadoG1": 4988.25,
+   "manutencaoG1": 6097.71,
+   "manutencaoTotal": 7964.66
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "fretes": 15,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 114929.37,
+   "despesaAlp": 28732.3,
+   "pctAlp": 0.25,
+   "combustivel": 25861.71,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 2883.23,
+   "livreG1": 47452.13,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 2883.23,
+   "sienge": {
+    "Materiais": 304.69,
+    "Mão de obra": 10948.76,
+    "Veículos, peças e pneus": 5196.88,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 21261.78,
+   "siengeEstimado": 10741.55,
+   "resultadoG1": 25344.97,
+   "manutencaoG1": 5196.88,
+   "manutencaoTotal": 8080.11
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "fretes": 12,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 80299.06,
+   "despesaAlp": 20074.76,
+   "pctAlp": 0.25,
+   "combustivel": 23411.2,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 4804.87,
+   "livreG1": 22008.23,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 4804.87,
+   "sienge": {
+    "Materiais": 519.83,
+    "Mão de obra": 10948.76,
+    "Veículos, peças e pneus": 1445.59,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 17725.63,
+   "siengeEstimado": 10269.62,
+   "resultadoG1": 3437.23,
+   "manutencaoG1": 1445.59,
+   "manutencaoTotal": 6250.46
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "fretes": 16,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 91686.33,
+   "despesaAlp": 22921.54,
+   "pctAlp": 0.25,
+   "combustivel": 24141.31,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 6118.25,
+   "livreG1": 28505.23,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 6118.25,
+   "sienge": {
+    "Materiais": 7.95,
+    "Mão de obra": 10948.76,
+    "Veículos, peças e pneus": 1725.09,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 17493.25,
+   "siengeEstimado": 10353.42,
+   "resultadoG1": 10166.61,
+   "manutencaoG1": 1725.09,
+   "manutencaoTotal": 7843.34
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "fretes": 13,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 108314.87,
+   "despesaAlp": 30328.16,
+   "pctAlp": 0.28,
+   "combustivel": 22602.44,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 4660.39,
+   "livreG1": 40723.88,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 4660.39,
+   "sienge": {
+    "Materiais": 7.95,
+    "Mão de obra": 10948.76,
+    "Veículos, peças e pneus": 2501.07,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 18269.23,
+   "siengeEstimado": 9351.1,
+   "resultadoG1": 21609.27,
+   "manutencaoG1": 2501.07,
+   "manutencaoTotal": 7161.46
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "fretes": 17,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 95716.98,
+   "despesaAlp": 23929.23,
+   "pctAlp": 0.25,
+   "combustivel": 21760.76,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 6784.64,
+   "livreG1": 33242.35,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 6784.64,
+   "sienge": {
+    "Materiais": 7.95,
+    "Mão de obra": 10955.33,
+    "Veículos, peças e pneus": 2290.19,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 18064.92,
+   "siengeEstimado": 9958.44,
+   "resultadoG1": 14332.06,
+   "manutencaoG1": 2290.19,
+   "manutencaoTotal": 9074.83
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A22",
+   "fretes": 13,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 68507.79,
+   "despesaAlp": 17126.92,
+   "pctAlp": 0.25,
+   "combustivel": 17028.48,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 5457.67,
+   "livreG1": 18894.72,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 5457.67,
+   "sienge": {
+    "Mão de obra": 8650.81,
+    "Veículos, peças e pneus": 5350.57,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 18812.83,
+   "siengeEstimado": 0.0,
+   "resultadoG1": -763.49,
+   "manutencaoG1": 5350.57,
+   "manutencaoTotal": 10808.24
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "fretes": 10,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 66053.04,
+   "despesaAlp": 16513.24,
+   "pctAlp": 0.25,
+   "combustivel": 19977.46,
+   "parcela": -10000.0,
+   "manutencaoIpvaSeguro": 3989.53,
+   "livreG1": 35572.81,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [
+    "Crédito na seção 2 da ficha; valor negativo para abater o débito"
+   ],
+   "manutencaoAlp": 3989.53,
+   "sienge": {
+    "Mão de obra": 15896.68,
+    "Veículos, peças e pneus": 2232.17,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 22940.3,
+   "siengeEstimado": 0.0,
+   "resultadoG1": 11787.13,
+   "manutencaoG1": 2232.17,
+   "manutencaoTotal": 6221.7
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "fretes": 11,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 69760.75,
+   "despesaAlp": 17440.16,
+   "pctAlp": 0.25,
+   "combustivel": 23009.65,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 3817.94,
+   "livreG1": 15493.0,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 3817.94,
+   "sienge": {
+    "Mão de obra": 8767.24,
+    "Veículos, peças e pneus": 5881.96,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 19460.65,
+   "siengeEstimado": 0.0,
+   "resultadoG1": -4813.03,
+   "manutencaoG1": 5881.96,
+   "manutencaoTotal": 9699.9
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "fretes": 11,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 78498.92,
+   "despesaAlp": 19624.7,
+   "pctAlp": 0.25,
+   "combustivel": 25900.97,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 3526.02,
+   "livreG1": 19447.23,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 3526.02,
+   "sienge": {
+    "Mão de obra": 1620.73,
+    "Veículos, peças e pneus": 7022.77,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 13454.95,
+   "siengeEstimado": 0.0,
+   "resultadoG1": 5146.9,
+   "manutencaoG1": 7022.77,
+   "manutencaoTotal": 10548.79
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "fretes": 13,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 80000.72,
+   "despesaAlp": 20000.16,
+   "pctAlp": 0.25,
+   "combustivel": 28952.42,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 5904.43,
+   "livreG1": 15143.71,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 5904.43,
+   "sienge": {
+    "Mão de obra": 8336.58,
+    "Veículos, peças e pneus": 1414.57,
+    "Materiais": 511.88,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 15074.48,
+   "siengeEstimado": 0.0,
+   "resultadoG1": -776.15,
+   "manutencaoG1": 1414.57,
+   "manutencaoTotal": 7319.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "fretes": 12,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 77660.31,
+   "despesaAlp": 19415.06,
+   "pctAlp": 0.25,
+   "combustivel": 23456.93,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 6194.71,
+   "livreG1": 18593.61,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 6194.71,
+   "sienge": {
+    "Mão de obra": 7955.38,
+    "Veículos, peças e pneus": 3115.43,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 15882.26,
+   "siengeEstimado": 0.0,
+   "resultadoG1": 1865.97,
+   "manutencaoG1": 3115.43,
+   "manutencaoTotal": 9310.14
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "fretes": 15,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 91743.17,
+   "despesaAlp": 25688.1,
+   "pctAlp": 0.28,
+   "combustivel": 29945.76,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 8671.18,
+   "livreG1": 17438.13,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 8671.18,
+   "sienge": {
+    "Mão de obra": 8335.71,
+    "Veículos, peças e pneus": 3057.65,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 16204.81,
+   "siengeEstimado": 0.0,
+   "resultadoG1": 387.95,
+   "manutencaoG1": 3057.65,
+   "manutencaoTotal": 11728.83
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "fretes": 12,
+   "semCte": 0,
+   "pesoKg": null,
+   "faturamento": 73405.67,
+   "despesaAlp": 18351.4,
+   "pctAlp": 0.25,
+   "combustivel": 28529.93,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 3809.01,
+   "livreG1": 12715.33,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 3809.01,
+   "sienge": {
+    "Materiais": 833.62,
+    "Mão de obra": 8837.75,
+    "Veículos, peças e pneus": 4299.88,
+    "Encargos INSS e FGTS": 4811.45
+   },
+   "siengeTotal": 18782.7,
+   "siengeEstimado": 0.0,
+   "resultadoG1": -6912.75,
+   "manutencaoG1": 4299.88,
+   "manutencaoTotal": 8108.89
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "fretes": 16,
+   "semCte": 0,
+   "pesoKg": 381190.0,
+   "faturamento": 73538.27,
+   "despesaAlp": 18384.57,
+   "pctAlp": 0.25,
+   "combustivel": 18027.0,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 5457.67,
+   "livreG1": 21669.03,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 5457.67,
+   "sienge": {
+    "Materiais": 429.16,
+    "Mão de obra": 10771.28,
+    "Veículos, peças e pneus": 6822.02,
+    "Encargos INSS e FGTS": 4545.35
+   },
+   "siengeTotal": 22567.81,
+   "siengeEstimado": 0.0,
+   "resultadoG1": -1744.16,
+   "manutencaoG1": 6822.02,
+   "manutencaoTotal": 12279.69
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "fretes": 6,
+   "semCte": 1,
+   "pesoKg": 147340.0,
+   "faturamento": 43935.88,
+   "despesaAlp": 10983.97,
+   "pctAlp": 0.25,
+   "combustivel": 16599.57,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 3989.53,
+   "livreG1": 2362.81,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 3989.53,
+   "sienge": {
+    "Outros": 360.0,
+    "Materiais": 429.16,
+    "Mão de obra": 13646.56,
+    "Veículos, peças e pneus": 8037.41,
+    "Encargos INSS e FGTS": 4545.35
+   },
+   "siengeTotal": 27018.48,
+   "siengeEstimado": 0.0,
+   "resultadoG1": -25501.05,
+   "manutencaoG1": 8037.41,
+   "manutencaoTotal": 12026.94
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "fretes": 10,
+   "semCte": 1,
+   "pesoKg": 252090.0,
+   "faturamento": 77551.78,
+   "despesaAlp": 19387.94,
+   "pctAlp": 0.25,
+   "combustivel": 20843.5,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 3817.91,
+   "livreG1": 23502.43,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 3817.91,
+   "sienge": {
+    "Materiais": 429.16,
+    "Mão de obra": 11615.58,
+    "Veículos, peças e pneus": 6938.66,
+    "Encargos INSS e FGTS": 4545.35
+   },
+   "siengeTotal": 23528.75,
+   "siengeEstimado": 0.0,
+   "resultadoG1": -871.7,
+   "manutencaoG1": 6938.66,
+   "manutencaoTotal": 10756.57
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "fretes": 9,
+   "semCte": 1,
+   "pesoKg": 244440.0,
+   "faturamento": 83520.33,
+   "despesaAlp": 20880.08,
+   "pctAlp": 0.25,
+   "combustivel": 28418.18,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 3526.03,
+   "livreG1": 20696.04,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 3526.03,
+   "sienge": {
+    "Materiais": 429.16,
+    "Mão de obra": 12198.21,
+    "Veículos, peças e pneus": 4390.09,
+    "Encargos INSS e FGTS": 4545.35
+   },
+   "siengeTotal": 21562.81,
+   "siengeEstimado": 0.0,
+   "resultadoG1": -1712.15,
+   "manutencaoG1": 4330.09,
+   "manutencaoTotal": 7856.12
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "fretes": 12,
+   "semCte": 0,
+   "pesoKg": 280630.0,
+   "faturamento": 83630.21,
+   "despesaAlp": 20000.16,
+   "pctAlp": 0.25,
+   "combustivel": 28048.06,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 5904.43,
+   "livreG1": 19677.56,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [
+    "Despesa ALP do Excel, R$ 20.000,16, digitada à mão: 23,9% do frete, não 25%."
+   ],
+   "manutencaoAlp": 5904.43,
+   "sienge": {
+    "Materiais": 941.04,
+    "Mão de obra": 10382.25,
+    "Veículos, peças e pneus": 1403.57,
+    "Encargos INSS e FGTS": 4545.35
+   },
+   "siengeTotal": 17272.21,
+   "siengeEstimado": 0.0,
+   "resultadoG1": 1559.97,
+   "manutencaoG1": 1403.57,
+   "manutencaoTotal": 7308.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "fretes": 13,
+   "semCte": 0,
+   "pesoKg": 289070.0,
+   "faturamento": 82118.33,
+   "despesaAlp": 20529.58,
+   "pctAlp": 0.25,
+   "combustivel": 26389.64,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 6194.69,
+   "livreG1": 19004.42,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 6194.69,
+   "sienge": {
+    "Materiais": 429.16,
+    "Mão de obra": 11099.68,
+    "Veículos, peças e pneus": 5816.87,
+    "Encargos INSS e FGTS": 4545.35
+   },
+   "siengeTotal": 21891.06,
+   "siengeEstimado": 0.0,
+   "resultadoG1": -3732.02,
+   "manutencaoG1": 5816.87,
+   "manutencaoTotal": 12011.56
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "fretes": 10,
+   "semCte": 0,
+   "pesoKg": 294550.0,
+   "faturamento": 91479.2,
+   "despesaAlp": 25614.18,
+   "pctAlp": 0.28,
+   "combustivel": 31298.78,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 8671.18,
+   "livreG1": 15895.06,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 8671.18,
+   "sienge": {
+    "Materiais": 431.57,
+    "Mão de obra": 12239.07,
+    "Veículos, peças e pneus": 2638.87,
+    "Encargos INSS e FGTS": 4545.35
+   },
+   "siengeTotal": 19854.86,
+   "siengeEstimado": 0.0,
+   "resultadoG1": -4805.18,
+   "manutencaoG1": 2578.87,
+   "manutencaoTotal": 11250.05
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "fretes": 10,
+   "semCte": 0,
+   "pesoKg": 258350.0,
+   "faturamento": 67210.84,
+   "despesaAlp": 16802.71,
+   "pctAlp": 0.25,
+   "combustivel": 29562.0,
+   "parcela": 10000.0,
+   "manutencaoIpvaSeguro": 3808.99,
+   "livreG1": 7037.14,
+   "despesasExtrasRateio": 845.38,
+   "alertas": [],
+   "manutencaoAlp": 3808.99,
+   "sienge": {
+    "Materiais": 429.16,
+    "Mão de obra": 11090.39,
+    "Veículos, peças e pneus": 3273.41,
+    "Encargos INSS e FGTS": 4545.35
+   },
+   "siengeTotal": 19338.31,
+   "siengeEstimado": 0.0,
+   "resultadoG1": -13146.55,
+   "manutencaoG1": 3273.41,
+   "manutencaoTotal": 7082.4
+  }
+ ],
+ "extras": [
+  {
+   "mes": "2026-07",
+   "plano": "Aluguel",
+   "descricao": "Aluguel Escritório",
+   "valor": 2563.0
+  },
+  {
+   "mes": "2026-07",
+   "plano": "Conta  Telefone",
+   "descricao": "Vivo",
+   "valor": 1200.0
+  },
+  {
+   "mes": "2026-07",
+   "plano": "Salário",
+   "descricao": "Salario Ts",
+   "valor": 3000.0
+  },
+  {
+   "mes": "2026-08",
+   "plano": "Aluguel",
+   "descricao": "Aluguel Escritório",
+   "valor": 2563.0
+  },
+  {
+   "mes": "2026-08",
+   "plano": "Conta  Telefone",
+   "descricao": "Vivo",
+   "valor": 1200.0
+  },
+  {
+   "mes": "2026-08",
+   "plano": "Salário",
+   "descricao": "Salario Ts",
+   "valor": 3000.0
+  },
+  {
+   "mes": "2026-09",
+   "plano": "Aluguel",
+   "descricao": "Aluguel Escritório",
+   "valor": 2563.0
+  },
+  {
+   "mes": "2026-09",
+   "plano": "Conta  Telefone",
+   "descricao": "Vivo",
+   "valor": 1200.0
+  },
+  {
+   "mes": "2026-09",
+   "plano": "Salário",
+   "descricao": "Salario Ts",
+   "valor": 3000.0
+  },
+  {
+   "mes": "2026-10",
+   "plano": "Aluguel",
+   "descricao": "Aluguel Escritório",
+   "valor": 2563.0
+  },
+  {
+   "mes": "2026-10",
+   "plano": "Conta  Telefone",
+   "descricao": "Vivo",
+   "valor": 1200.0
+  },
+  {
+   "mes": "2026-10",
+   "plano": "Salário",
+   "descricao": "Salario Ts",
+   "valor": 3000.0
+  }
+ ],
+ "sienge": [
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 7.95
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.09",
+   "conta": "Fardamentos e EPI/EPC",
+   "valor": 411.63,
+   "estimado": 411.63
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "grupo": "Materiais",
+   "codigo": "2.01.10.06",
+   "conta": "Peças e Componentes - Móveis e Utensílios",
+   "valor": 296.74,
+   "estimado": 296.74
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 7143.56
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.99",
+   "conta": "Ajuste estimado: metade em mão de obra",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 591.49,
+   "estimado": 591.49
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3213.71,
+   "estimado": 3213.71
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 555.68,
+   "estimado": 555.68
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4185.0,
+   "estimado": 4185.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.99",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 7.95
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.09",
+   "conta": "Fardamentos e EPI/EPC",
+   "valor": 411.63,
+   "estimado": 411.63
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "grupo": "Materiais",
+   "codigo": "2.01.10.06",
+   "conta": "Peças e Componentes - Móveis e Utensílios",
+   "valor": 296.74,
+   "estimado": 296.74
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 7143.56
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.99",
+   "conta": "Ajuste estimado: metade em mão de obra",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 591.49,
+   "estimado": 591.49
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3213.71,
+   "estimado": 3213.71
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 511.88,
+   "estimado": 511.88
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 65.71,
+   "estimado": 65.71
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.10",
+   "conta": "Combustível/Abastecimento",
+   "valor": 59.99,
+   "estimado": 59.99
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 465.0,
+   "estimado": 465.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.99",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 7.95
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.09",
+   "conta": "Fardamentos e EPI/EPC",
+   "valor": 411.75,
+   "estimado": 411.75
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "grupo": "Materiais",
+   "codigo": "2.01.10.06",
+   "conta": "Peças e Componentes - Móveis e Utensílios",
+   "valor": 296.74,
+   "estimado": 296.74
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 7143.56
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.99",
+   "conta": "Ajuste estimado: metade em mão de obra",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 594.8,
+   "estimado": 594.8
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3222.96,
+   "estimado": 3222.96
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 565.21,
+   "estimado": 565.21
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 65.0,
+   "estimado": 65.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4217.5,
+   "estimado": 4217.5
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.99",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 7.95
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "grupo": "Materiais",
+   "codigo": "2.01.10.06",
+   "conta": "Peças e Componentes - Móveis e Utensílios",
+   "valor": 296.74,
+   "estimado": 296.74
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 7143.56
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.99",
+   "conta": "Ajuste estimado: metade em mão de obra",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 591.49,
+   "estimado": 591.49
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3213.71,
+   "estimado": 3213.71
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 511.88,
+   "estimado": 511.88
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4685.0,
+   "estimado": 4685.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.99",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 7.95
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "grupo": "Materiais",
+   "codigo": "2.01.10.06",
+   "conta": "Peças e Componentes - Móveis e Utensílios",
+   "valor": 511.88,
+   "estimado": 511.88
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 7143.56
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.99",
+   "conta": "Ajuste estimado: metade em mão de obra",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 591.49,
+   "estimado": 591.49
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3213.71,
+   "estimado": 3213.71
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 914.64,
+   "estimado": 914.64
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 10.95,
+   "estimado": 10.95
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 520.0,
+   "estimado": 520.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.99",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 7.95
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 7143.56
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.99",
+   "conta": "Ajuste estimado: metade em mão de obra",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 591.49,
+   "estimado": 591.49
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3213.71,
+   "estimado": 3213.71
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1053.08,
+   "estimado": 1053.08
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 189.51,
+   "estimado": 189.51
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 482.5,
+   "estimado": 482.5
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.99",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 7.95
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 7143.56
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.99",
+   "conta": "Ajuste estimado: metade em mão de obra",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 591.49,
+   "estimado": 591.49
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3213.71,
+   "estimado": 3213.71
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1390.81,
+   "estimado": 1390.81
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 635.26,
+   "estimado": 635.26
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 475.0,
+   "estimado": 475.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.99",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 7.95
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 7143.56
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.99",
+   "conta": "Ajuste estimado: metade em mão de obra",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 591.49,
+   "estimado": 591.49
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3220.28,
+   "estimado": 3220.28
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1954.88,
+   "estimado": 1954.88
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 335.31,
+   "estimado": 335.31
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.99",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0,
+   "estimado": 625.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.09",
+   "conta": "Fardamentos e EPI/EPC",
+   "valor": 411.63,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "grupo": "Materiais",
+   "codigo": "2.01.10.06",
+   "conta": "Peças e Componentes - Móveis e Utensílios",
+   "valor": 296.74,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 5423.42
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 591.49,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3213.71,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 555.68,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4185.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.09",
+   "conta": "Fardamentos e EPI/EPC",
+   "valor": 411.63,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "grupo": "Materiais",
+   "codigo": "2.01.10.06",
+   "conta": "Peças e Componentes - Móveis e Utensílios",
+   "valor": 296.74,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 5423.42
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 591.49,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3213.71,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 511.88,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 65.71,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.10",
+   "conta": "Combustível/Abastecimento",
+   "valor": 59.99,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 465.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.09",
+   "conta": "Fardamentos e EPI/EPC",
+   "valor": 411.75,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "grupo": "Materiais",
+   "codigo": "2.01.10.06",
+   "conta": "Peças e Componentes - Móveis e Utensílios",
+   "valor": 296.74,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 6155.26
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.99",
+   "conta": "Ajuste estimado: metade em mão de obra",
+   "valor": 1250.0,
+   "estimado": 1250.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 594.8,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3222.96,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 565.21,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 65.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4217.5,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.99",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 1250.0,
+   "estimado": 1250.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "grupo": "Materiais",
+   "codigo": "2.01.10.06",
+   "conta": "Peças e Componentes - Móveis e Utensílios",
+   "valor": 296.74,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 5930.1
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 591.49,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3213.71,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 511.88,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4685.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "grupo": "Materiais",
+   "codigo": "2.01.10.06",
+   "conta": "Peças e Componentes - Móveis e Utensílios",
+   "valor": 511.88,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 5458.17
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 591.49,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3213.71,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 914.64,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 10.95,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 520.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 5541.97
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 591.49,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3213.71,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1053.08,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 189.51,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 482.5,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 4539.65
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 591.49,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3213.71,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1390.81,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 635.26,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 475.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 4114.67
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 696.78
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.08",
+   "conta": "Ferramentas Adquiridas",
+   "valor": 7.95,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7143.56,
+   "estimado": 5146.99
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 591.49,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.14",
+   "conta": "Benefícios",
+   "valor": 3220.28,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1954.88,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 335.31,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A22",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A22",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A22",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7110.81,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A22",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 1540.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A22",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 555.68,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A22",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4794.89,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 14466.68,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 1430.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 833.88,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 185.71,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 1082.58,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.14",
+   "conta": "Serviços de Lavagem",
+   "valor": 130.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7142.29,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 1485.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.18",
+   "conta": "Uniformes",
+   "valor": 139.95,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 716.87,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4865.09,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.14",
+   "conta": "Serviços de Lavagem",
+   "valor": 300.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 683.28,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 797.5,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.18",
+   "conta": "Uniformes",
+   "valor": 139.95,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 871.87,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 425.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 5725.9,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "grupo": "Materiais",
+   "codigo": "2.01.10.06",
+   "conta": "Peças e Componentes - Móveis e Utensílios",
+   "valor": 511.88,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 6934.08,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 1402.5,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 141.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 55.95,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 1087.62,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.14",
+   "conta": "Serviços de Lavagem",
+   "valor": 130.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 6497.88,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 1457.5,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 605.88,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 139.51,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 2070.04,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.14",
+   "conta": "Serviços de Lavagem",
+   "valor": 300.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 6905.71,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 1430.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1198.37,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 353.76,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 1505.52,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 4114.67,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 696.78,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.09",
+   "conta": "Fardamentos e EPI/EPC",
+   "valor": 833.62,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7407.75,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 1430.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 3241.68,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 110.31,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 647.89,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.14",
+   "conta": "Serviços de Lavagem",
+   "valor": 300.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 3699.62,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 845.73,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.01",
+   "conta": "Materiais Civis",
+   "valor": 429.16,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 6976.16,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 1222.07,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 2573.05,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 511.88,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 6310.14,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 3699.62,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 845.73,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.01",
+   "conta": "Materiais Civis",
+   "valor": 429.16,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7652.22,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.10",
+   "conta": "Custo de Rescisões",
+   "valor": 2857.27,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.08",
+   "conta": "Medicina Ocupacional",
+   "valor": 1027.5,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 1222.07,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 887.5,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "grupo": "Outros",
+   "codigo": "2.00",
+   "conta": "Despesas viagens",
+   "valor": 360.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 2939.88,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 250.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 1287.53,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.15",
+   "conta": "Serviços de guincho",
+   "valor": 3560.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 3699.62,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 845.73,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.01",
+   "conta": "Materiais Civis",
+   "valor": 429.16,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 7590.96,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 1222.07,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 2476.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.18",
+   "conta": "Uniformes",
+   "valor": 326.55,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1548.62,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 350.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 5040.04,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 3699.62,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 845.73,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.01",
+   "conta": "Materiais Civis",
+   "valor": 429.16,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 8057.85,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 1222.07,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 2591.74,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.18",
+   "conta": "Uniformes",
+   "valor": 326.55,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 2532.57,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 470.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.09",
+   "conta": "Pedágio/Estacionamento",
+   "valor": 60.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 1327.52,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 3699.62,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 845.73,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.01",
+   "conta": "Materiais Civis",
+   "valor": 429.16,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "grupo": "Materiais",
+   "codigo": "2.01.10.06",
+   "conta": "Peças e Componentes - Móveis e Utensílios",
+   "valor": 511.88,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 6667.17,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 1222.07,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 2493.01,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 21.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 1382.57,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 3699.62,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 845.73,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.01",
+   "conta": "Materiais Civis",
+   "valor": 429.16,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 6210.11,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.08",
+   "conta": "Medicina Ocupacional",
+   "valor": 1027.5,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 1222.07,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 2640.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1841.88,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 335.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 3639.99,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 3699.62,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 845.73,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.01",
+   "conta": "Materiais Civis",
+   "valor": 431.57,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 8351.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.08",
+   "conta": "Medicina Ocupacional",
+   "valor": 1027.5,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 1222.07,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 1638.5,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 816.37,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.09",
+   "conta": "Pedágio/Estacionamento",
+   "valor": 60.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 1762.5,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.01",
+   "conta": "INSS Funcionários",
+   "valor": 3699.62,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "grupo": "Encargos INSS e FGTS",
+   "codigo": "2.04.02.03",
+   "conta": "FGTS",
+   "valor": 845.73,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "grupo": "Materiais",
+   "codigo": "2.01.01.01",
+   "conta": "Materiais Civis",
+   "valor": 429.16,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.03.01",
+   "conta": "Salários e Ordenados",
+   "valor": 6452.27,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.08",
+   "conta": "Medicina Ocupacional",
+   "valor": 1027.5,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.11",
+   "conta": "Plano de Saúde Funcionários",
+   "valor": 1222.07,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "grupo": "Mão de obra",
+   "codigo": "2.01.04.13",
+   "conta": "Ajuda de custo colaboradores",
+   "valor": 2388.55,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.05",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 2010.88,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.06",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 140.0,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.13",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 822.53,
+   "estimado": 0.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "grupo": "Veículos, peças e pneus",
+   "codigo": "2.01.05.14",
+   "conta": "Serviços de Lavagem",
+   "valor": 300.0,
+   "estimado": 0.0
+  }
+ ],
+ "siengeGrupos": {
+  "2.01.01": "MATERIAIS/FERRAMENTAS APLICADOS EM OBRAS",
+  "2.01.03": "MÃO DE OBRA PRÓPRIA E ENCARGOS",
+  "2.01.04": "OUTROS GASTOS COM MÃO DE OBRA PRÓPRIA",
+  "2.01.05": "VEICULOS,EQUIPAMENTOS E MAQUINAS",
+  "2.01.10": "ADMINISTRAÇÃO",
+  "2.04.02": "TRIBUTOS E ENCARGOS DE FOLHA DE PGTO"
+ },
+ "manutencao": [
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 884.23
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 450.86
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1416.09
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 450.86
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1416.09
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 450.86
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1416.09
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 428.67
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 571.8
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1882.76
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 2714.3
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 487.14
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1882.76
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 2632.99
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1882.76
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 1875.67
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Multas",
+   "valor": 359.2
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 571.26
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1882.76
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 5483.11
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 562.49
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1882.76
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 884.23
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 450.86
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1416.09
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 899.67
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 450.86
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1416.09
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 450.86
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1416.09
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 428.67
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 571.8
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1882.76
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 1209.67
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 681.74
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1882.76
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 2632.99
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 571.8
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1882.76
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 1175.67
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 571.26
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1882.76
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 3308.69
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 562.49
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1882.76
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A22",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 3546.61
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A22",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 450.86
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A22",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1460.2
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 1934.6
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "origem": "ALP",
+   "conta": "Multas",
+   "valor": 156.19
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 450.86
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1447.88
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 1912.94
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 450.86
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1454.14
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 1035.57
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 571.8
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1918.65
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 2772.61
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 170.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1931.12
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 2171.81
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "Outros",
+   "valor": 504.32
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 571.8
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1916.08
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 2673.38
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Multas",
+   "valor": 312.36
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Outros",
+   "valor": 2154.15
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 571.26
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1929.33
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 282.75
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 562.49
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1933.07
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 3997.47
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1460.2
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 3989.53
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 2363.8
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1454.11
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 1035.57
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 571.8
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1918.66
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 2771.91
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 170.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1931.82
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 2171.81
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "Outros",
+   "valor": 504.32
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 571.8
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1916.06
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 2985.74
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Outros",
+   "valor": 2154.15
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 571.26
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1929.33
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "IPVA/Licenciamento",
+   "valor": 1030.7
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "Manutenção",
+   "valor": 282.75
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 562.49
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1933.05
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 555.68
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4185.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "origem": "G1",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 511.88
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 65.71
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 465.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 565.21
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 65.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4217.5
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "origem": "G1",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 511.88
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4685.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "origem": "G1",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 914.64
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 10.95
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 520.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "origem": "G1",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1053.08
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 189.51
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 482.5
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "origem": "G1",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1390.81
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 635.26
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 475.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "origem": "G1",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1954.88
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 335.31
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "origem": "G1",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 625.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 555.68
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4185.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 511.88
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 65.71
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 465.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 565.21
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 65.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4217.5
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "origem": "G1",
+   "conta": "Ajuste estimado: metade em peças e pneus",
+   "valor": 1250.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 511.88
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4685.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 914.64
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 10.95
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 520.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1053.08
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 189.51
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 482.5
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1390.81
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 635.26
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 475.0
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1954.88
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 335.31
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A22",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 555.68
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A22",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4794.89
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 833.88
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 185.71
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 1082.58
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Serviços de Lavagem",
+   "valor": 130.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 716.87
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 4865.09
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "origem": "G1",
+   "conta": "Serviços de Lavagem",
+   "valor": 300.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 871.87
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 425.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 5725.9
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 141.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 55.95
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 1087.62
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "origem": "G1",
+   "conta": "Serviços de Lavagem",
+   "valor": 130.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 605.88
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 139.51
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 2070.04
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "origem": "G1",
+   "conta": "Serviços de Lavagem",
+   "valor": 300.0
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1198.37
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 353.76
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 1505.52
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 3241.68
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 110.31
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 647.89
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "origem": "G1",
+   "conta": "Serviços de Lavagem",
+   "valor": 300.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 511.88
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 6310.14
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 2939.88
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 250.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 1287.53
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "origem": "G1",
+   "conta": "Serviços de guincho",
+   "valor": 3560.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1548.62
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 350.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 5040.04
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 2532.57
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 470.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 1327.52
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 21.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 1382.57
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 1841.88
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 335.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 3639.99
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 816.37
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 1762.5
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "origem": "G1",
+   "conta": "Peças e Componentes - Equip/Veiculos/ Maquina",
+   "valor": 2010.88
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "origem": "G1",
+   "conta": "Serviços de Manutenção - Equip,Veiculos e Maquinas",
+   "valor": 140.0
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "origem": "G1",
+   "conta": "Pneus e Serviço de Borracharia",
+   "valor": 822.53
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "origem": "G1",
+   "conta": "Serviços de Lavagem",
+   "valor": 300.0
+  }
+ ],
+ "comparativo": [
+  {
+   "mes": "2026-08",
+   "data": "2026-08-28",
+   "cte": 8657,
+   "placa": "SEI2B52",
+   "destino": "Londrina",
+   "kg": 25890,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8633,
+   "freteAnterior": 7380.46,
+   "perda": 423.33,
+   "observacao": null
+  },
+  {
+   "mes": "2026-08",
+   "data": "2026-08-28",
+   "cte": 8658,
+   "placa": "SEI0H92",
+   "destino": "Jaguariaiva",
+   "kg": 26980,
+   "freteAtual": 4583.28,
+   "cteAnterior": 8547,
+   "freteAnterior": 4974.23,
+   "perda": 390.95,
+   "observacao": null
+  },
+  {
+   "mes": "2026-08",
+   "data": "2026-08-29",
+   "cte": 8667,
+   "placa": "JCG8H84",
+   "destino": "São Lourenço",
+   "kg": 26720,
+   "freteAtual": 8015.73,
+   "cteAnterior": 8597,
+   "freteAnterior": 8395.37,
+   "perda": 379.64,
+   "observacao": null
+  },
+  {
+   "mes": "2026-08",
+   "data": "2026-08-29",
+   "cte": 8666,
+   "placa": "JCF7A27",
+   "destino": "Londrina",
+   "kg": 25460,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8651,
+   "freteAnterior": 7360.52,
+   "perda": 403.39,
+   "observacao": null
+  },
+  {
+   "mes": "2026-08",
+   "data": "2026-08-29",
+   "cte": 8669,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 27150,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 520.18,
+   "observacao": null
+  },
+  {
+   "mes": "2026-08",
+   "data": "2026-08-29",
+   "cte": 8665,
+   "placa": "SEI2B56",
+   "destino": "Londrina",
+   "kg": 26030,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8632,
+   "freteAnterior": 7582.71,
+   "perda": 625.58,
+   "observacao": null
+  },
+  {
+   "mes": "2026-08",
+   "data": "2026-08-29",
+   "cte": 8670,
+   "placa": "JCG0H51",
+   "destino": "Medianeira",
+   "kg": 26280,
+   "freteAtual": 10462.59,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": null
+  },
+  {
+   "mes": "2026-08",
+   "data": "2026-08-29",
+   "cte": 8668,
+   "placa": "JCF7A22",
+   "destino": "Jaguariaiva",
+   "kg": 26560,
+   "freteAtual": 4583.28,
+   "cteAnterior": 8524,
+   "freteAnterior": 4896.42,
+   "perda": 313.14,
+   "observacao": null
+  },
+  {
+   "mes": "2026-08",
+   "data": "2026-08-31",
+   "cte": 8673,
+   "placa": "SEI2B52",
+   "destino": "Londrina",
+   "kg": 25200,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8543,
+   "freteAnterior": 7431.74,
+   "perda": 474.61,
+   "observacao": "Placa corrigida: planilha SEI2B56, base SEI2B52."
+  },
+  {
+   "mes": "2026-08",
+   "data": "2026-08-31",
+   "cte": 8685,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 26420,
+   "freteAtual": 4672.91,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 194.55,
+   "observacao": null
+  },
+  {
+   "mes": "2026-08",
+   "data": "2026-08-31",
+   "cte": 8686,
+   "placa": "JCG8H84",
+   "destino": "Palhoça",
+   "kg": 27380,
+   "freteAtual": 5818.32,
+   "cteAnterior": 8646,
+   "freteAnterior": 6702.8,
+   "perda": 884.48,
+   "observacao": null
+  },
+  {
+   "mes": "2026-08",
+   "data": "2026-08-31",
+   "cte": 8687,
+   "placa": "SEI2B56",
+   "destino": "Londrina",
+   "kg": 25670,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8632,
+   "freteAnterior": 7582.71,
+   "perda": 625.58,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-01",
+   "cte": 8695,
+   "placa": "JCF7A22",
+   "destino": "Londrina",
+   "kg": 27280,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8535,
+   "freteAnterior": 7867.66,
+   "perda": 910.53,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-01",
+   "cte": 8696,
+   "placa": "SEI2B52",
+   "destino": "Londrina",
+   "kg": 25430,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8543,
+   "freteAnterior": 7431.74,
+   "perda": 474.61,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-01",
+   "cte": 8697,
+   "placa": "JCF7A27",
+   "destino": "São Lourenço",
+   "kg": 25560,
+   "freteAtual": 8015.73,
+   "cteAnterior": 8630,
+   "freteAnterior": 8148.54,
+   "perda": 132.81,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-01",
+   "cte": 8698,
+   "placa": "JCG0H51",
+   "destino": "Jaguariaiva",
+   "kg": 26750,
+   "freteAtual": 4583.28,
+   "cteAnterior": 8339,
+   "freteAnterior": 4756.43,
+   "perda": 173.15,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-02",
+   "cte": 8702,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 24850,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 520.18,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-02",
+   "cte": 8704,
+   "placa": "SEI2B55",
+   "destino": "Londrina",
+   "kg": 31480,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8237,
+   "freteAnterior": 8650.89,
+   "perda": 1693.76,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-02",
+   "cte": 8705,
+   "placa": "JCG8H84",
+   "destino": "Londrina",
+   "kg": 27370,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8562,
+   "freteAnterior": 8061.26,
+   "perda": 1104.13,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-03",
+   "cte": 8707,
+   "placa": "SEI2B56",
+   "destino": "Jaguariaiva",
+   "kg": 25570,
+   "freteAtual": 4583.28,
+   "cteAnterior": 8395,
+   "freteAnterior": 4619.95,
+   "perda": 36.67,
+   "observacao": "CTE corrigido: planilha 8704, ficha 8707."
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-03",
+   "cte": 8708,
+   "placa": "JCG0H51",
+   "destino": "Palhoça",
+   "kg": 25220,
+   "freteAtual": 5818.32,
+   "cteAnterior": 8116,
+   "freteAnterior": 6124.42,
+   "perda": 306.1,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-03",
+   "cte": 8712,
+   "placa": "JCF7A22",
+   "destino": "Londrina",
+   "kg": 25490,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8535,
+   "freteAnterior": 7867.66,
+   "perda": 910.53,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-03",
+   "cte": 8711,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 23800,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 520.18,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-05",
+   "cte": 8719,
+   "placa": "SEI2B52",
+   "destino": "Londrina",
+   "kg": 23200,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8543,
+   "freteAnterior": 7431.74,
+   "perda": 474.61,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-05",
+   "cte": 8717,
+   "placa": "JCG8H84",
+   "destino": "São Lourenço",
+   "kg": 27710,
+   "freteAtual": 8015.73,
+   "cteAnterior": 8611,
+   "freteAnterior": 8466.34,
+   "perda": 450.61,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-06",
+   "cte": 8721,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 23850,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 520.18,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-04",
+   "cte": 8715,
+   "placa": "SEI2B56",
+   "destino": "Medianeira",
+   "kg": 26240,
+   "freteAtual": 10446.67,
+   "cteAnterior": 8451,
+   "freteAnterior": 10729.33,
+   "perda": 282.66,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-05",
+   "cte": 8716,
+   "placa": "JCF7A27",
+   "destino": "Palhoça",
+   "kg": 26020,
+   "freteAtual": 5818.32,
+   "cteAnterior": 8591,
+   "freteAnterior": 6612.27,
+   "perda": 793.95,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-05",
+   "cte": 8720,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 24530,
+   "freteAtual": 4338.62,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 528.84,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-06",
+   "cte": 8724,
+   "placa": "JCG0H51",
+   "destino": "Londrina",
+   "kg": 26770,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8343,
+   "freteAnterior": 7357.68,
+   "perda": 400.55,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-08",
+   "cte": 8725,
+   "placa": "SEI2B55",
+   "destino": "Londrina",
+   "kg": 30820,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8237,
+   "freteAnterior": 8650.89,
+   "perda": 1693.76,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-08",
+   "cte": 8726,
+   "placa": "SEI0H92",
+   "destino": "Jaguariaiva",
+   "kg": 23810,
+   "freteAtual": 4583.28,
+   "cteAnterior": 8547,
+   "freteAnterior": 4974.23,
+   "perda": 390.95,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-09",
+   "cte": 8728,
+   "placa": "SEI2B52",
+   "destino": "Londrina",
+   "kg": 23660,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8543,
+   "freteAnterior": 7431.74,
+   "perda": 474.61,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-09",
+   "cte": 8730,
+   "placa": "JCF7A27",
+   "destino": "Londrina",
+   "kg": 25800,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8458,
+   "freteAnterior": 7596.95,
+   "perda": 639.82,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-10",
+   "cte": 8732,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 23840,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 520.18,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-10",
+   "cte": 8735,
+   "placa": "SEI2B55",
+   "destino": "Francisco Beltrão",
+   "kg": 30540,
+   "freteAtual": 9913.89,
+   "cteAnterior": 8191,
+   "freteAnterior": 9641.21,
+   "perda": -272.68,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-10",
+   "cte": 8733,
+   "placa": "JCG0H51",
+   "destino": "Palhoça",
+   "kg": 26640,
+   "freteAtual": 5818.32,
+   "cteAnterior": 8116,
+   "freteAnterior": 6124.42,
+   "perda": 306.1,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-10",
+   "cte": 8736,
+   "placa": "SEI2B52",
+   "destino": "Londrina",
+   "kg": 23170,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8543,
+   "freteAnterior": 7431.74,
+   "perda": 474.61,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-09",
+   "cte": 8731,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 26210,
+   "freteAtual": 4635.76,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 231.7,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-11",
+   "cte": 8739,
+   "placa": "SEI2B56",
+   "destino": "Londrina",
+   "kg": 26230,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8632,
+   "freteAnterior": 7582.71,
+   "perda": 625.58,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-11",
+   "cte": 8738,
+   "placa": "JCF7A27",
+   "destino": "Londrina",
+   "kg": 26400,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8458,
+   "freteAnterior": 7596.95,
+   "perda": 639.82,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-12",
+   "cte": 8740,
+   "placa": "JCF7A22",
+   "destino": "PIEN",
+   "kg": 25820,
+   "freteAtual": 3183.61,
+   "cteAnterior": 8514,
+   "freteAnterior": 3485.69,
+   "perda": 302.08,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-12",
+   "cte": 8745,
+   "placa": "SEI2B55",
+   "destino": "São Lourenço",
+   "kg": 30310,
+   "freteAtual": 8015.73,
+   "cteAnterior": 8624,
+   "freteAnterior": 9385.79,
+   "perda": 1370.06,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-12",
+   "cte": 8744,
+   "placa": "JCG0H51",
+   "destino": "Canoas",
+   "kg": 26190,
+   "freteAtual": 12875.7,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-12",
+   "cte": 8741,
+   "placa": "JCG8H84",
+   "destino": "Ponta Grossa",
+   "kg": 21180,
+   "freteAtual": 2690.62,
+   "cteAnterior": 8649,
+   "freteAnterior": 2940.24,
+   "perda": 249.62,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-12",
+   "cte": 8743,
+   "placa": "SEI2B56",
+   "destino": "Jaguariaiva",
+   "kg": 25950,
+   "freteAtual": 4583.28,
+   "cteAnterior": 8395,
+   "freteAnterior": 4619.95,
+   "perda": 36.67,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-13",
+   "cte": 8746,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 23730,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 520.18,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-14",
+   "cte": 26436,
+   "placa": "JCG0H51",
+   "destino": "Caxias do Sul",
+   "kg": 26190,
+   "freteAtual": 2658.54,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-14",
+   "cte": 8749,
+   "placa": "JCF7A27",
+   "destino": "Londrina",
+   "kg": 25570,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8458,
+   "freteAnterior": 7596.95,
+   "perda": 639.82,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-14",
+   "cte": 8751,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 25560,
+   "freteAtual": 4520.8,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 346.66,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-14",
+   "cte": 8752,
+   "placa": "JCG8H84",
+   "destino": "Londrina",
+   "kg": 20800,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8562,
+   "freteAnterior": 8061.26,
+   "perda": 1104.13,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-15",
+   "cte": 8754,
+   "placa": "SEI2B55",
+   "destino": "Joinville",
+   "kg": 31370,
+   "freteAtual": 3075.57,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-15",
+   "cte": 8753,
+   "placa": "SEI2B56",
+   "destino": "Londrina",
+   "kg": 26660,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8632,
+   "freteAnterior": 7582.71,
+   "perda": 625.58,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-15",
+   "cte": 26467,
+   "placa": "JCG0H51",
+   "destino": "Passo Fundo",
+   "kg": 26190,
+   "freteAtual": 5337.14,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-14",
+   "cte": 8750,
+   "placa": "SEI2B52",
+   "destino": "Palhoça",
+   "kg": 21670,
+   "freteAtual": 5818.32,
+   "cteAnterior": 8646,
+   "freteAnterior": 6702.8,
+   "perda": 884.48,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-15",
+   "cte": 8757,
+   "placa": "SEI0H92",
+   "destino": "Ponta Grossa",
+   "kg": 24420,
+   "freteAtual": 2690.62,
+   "cteAnterior": 8456,
+   "freteAnterior": 2837.67,
+   "perda": 147.05,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-16",
+   "cte": 8758,
+   "placa": "JCF7A27",
+   "destino": "Londrina",
+   "kg": 25450,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8458,
+   "freteAnterior": 7596.95,
+   "perda": 639.82,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-16",
+   "cte": 8763,
+   "placa": "SEI2B52",
+   "destino": "Medianeira",
+   "kg": 22430,
+   "freteAtual": 10100.9,
+   "cteAnterior": 8149,
+   "freteAnterior": 10120.21,
+   "perda": 19.31,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-16",
+   "cte": 8762,
+   "placa": "SEI2B55",
+   "destino": "Londrina",
+   "kg": 30520,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8237,
+   "freteAnterior": 8650.89,
+   "perda": 1693.76,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-16",
+   "cte": 8765,
+   "placa": "SEI2B56",
+   "destino": "Jaguariaiva",
+   "kg": 25500,
+   "freteAtual": 4583.28,
+   "cteAnterior": 8395,
+   "freteAnterior": 4619.95,
+   "perda": 36.67,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-16",
+   "cte": 8766,
+   "placa": "JCF7A22",
+   "destino": "Londrina",
+   "kg": 25220,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8535,
+   "freteAnterior": 7867.66,
+   "perda": 910.53,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-17",
+   "cte": 8771,
+   "placa": "JCG8H84",
+   "destino": "São Lourenço",
+   "kg": 21230,
+   "freteAtual": 8015.73,
+   "cteAnterior": 8667,
+   "freteAnterior": 9108.78,
+   "perda": 1093.05,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-17",
+   "cte": 8772,
+   "placa": "SEI0H92",
+   "destino": "Palhoça",
+   "kg": 23790,
+   "freteAtual": 5818.32,
+   "cteAnterior": 8460,
+   "freteAnterior": 6254.68,
+   "perda": 436.36,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-18",
+   "cte": 8773,
+   "placa": "JCG0H51",
+   "destino": "Londrina",
+   "kg": 26640,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8343,
+   "freteAnterior": 7357.68,
+   "perda": 400.55,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-18",
+   "cte": 8786,
+   "placa": "SEI2B56",
+   "destino": "Telemaco Borba",
+   "kg": 26510,
+   "freteAtual": 4775.76,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-18",
+   "cte": 8787,
+   "placa": "JCF7A27",
+   "destino": "Londrina",
+   "kg": 25820,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8458,
+   "freteAnterior": 7596.95,
+   "perda": 639.82,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-18",
+   "cte": 8788,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 24260,
+   "freteAtual": 4290.87,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 576.59,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-19",
+   "cte": 8790,
+   "placa": "SEI2B55",
+   "destino": "Londrina",
+   "kg": 29470,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8237,
+   "freteAnterior": 8650.89,
+   "perda": 1693.76,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-19",
+   "cte": 8789,
+   "placa": "SEI2B52",
+   "destino": "Jaguariaiva",
+   "kg": 22180,
+   "freteAtual": 4583.28,
+   "cteAnterior": 8429,
+   "freteAnterior": 4661.14,
+   "perda": 77.86,
+   "observacao": "Valor corrigido pela base, planilha R$ 4.582,28."
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-19",
+   "cte": 8793,
+   "placa": "JCG8H84",
+   "destino": "Canoas",
+   "kg": 27710,
+   "freteAtual": 12875.7,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-20",
+   "cte": 8794,
+   "placa": "JCF7A22",
+   "destino": "São Lourenço",
+   "kg": 24080,
+   "freteAtual": 8015.73,
+   "cteAnterior": 8185,
+   "freteAnterior": 8426.23,
+   "perda": 410.5,
+   "observacao": "Valor corrigido pela base, planilha R$ 8.014,73."
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-19",
+   "cte": 8792,
+   "placa": "JCG0H51",
+   "destino": "Londrina",
+   "kg": 26610,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8343,
+   "freteAnterior": 7357.68,
+   "perda": 400.55,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-19",
+   "cte": 8791,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 23650,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 520.18,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-21",
+   "cte": 8796,
+   "placa": "SEI2B56",
+   "destino": "Londrina",
+   "kg": 25220,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8632,
+   "freteAnterior": 7582.71,
+   "perda": 625.58,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-21",
+   "cte": 26531,
+   "placa": "JCG8H84",
+   "destino": "Passo Fundo",
+   "kg": 27710,
+   "freteAtual": 5337.14,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-21",
+   "cte": 8800,
+   "placa": "SEI2B55",
+   "destino": "Cascavel",
+   "kg": 30030,
+   "freteAtual": 10305.7,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-21",
+   "cte": 8799,
+   "placa": "SEI2B52",
+   "destino": "São Lourenço",
+   "kg": 21830,
+   "freteAtual": 8015.73,
+   "cteAnterior": 8300,
+   "freteAnterior": 8151.63,
+   "perda": 135.9,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-21",
+   "cte": 8801,
+   "placa": "JCF7A27",
+   "destino": "Chapeco",
+   "kg": 25050,
+   "freteAtual": 8047.81,
+   "cteAnterior": 8465,
+   "freteAnterior": 9526.05,
+   "perda": 1478.24,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-22",
+   "cte": 8803,
+   "placa": "JCF7A22",
+   "destino": "Jaguariaiva",
+   "kg": 25670,
+   "freteAtual": 4583.28,
+   "cteAnterior": 8323,
+   "freteAnterior": 4886.7,
+   "perda": 303.42,
+   "observacao": "Valor corrigido pela base, planilha R$ 4.582,28."
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-22",
+   "cte": 8805,
+   "placa": "SEI0H92",
+   "destino": "Palhoça",
+   "kg": 23630,
+   "freteAtual": 5818.32,
+   "cteAnterior": 8460,
+   "freteAnterior": 6254.68,
+   "perda": 436.36,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-22",
+   "cte": 8806,
+   "placa": "SEI2B56",
+   "destino": "Londrina",
+   "kg": 25950,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8632,
+   "freteAnterior": 7582.71,
+   "perda": 625.58,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-23",
+   "cte": 8810,
+   "placa": "JCF7A22",
+   "destino": "Ponta Grossa",
+   "kg": 25830,
+   "freteAtual": 2690.62,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-24",
+   "cte": 8811,
+   "placa": "SEI2B55",
+   "destino": "Palhoça",
+   "kg": 31120,
+   "freteAtual": 5818.32,
+   "cteAnterior": 8170,
+   "freteAnterior": 7565.1,
+   "perda": 1746.78,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-24",
+   "cte": 8812,
+   "placa": "SEI2B52",
+   "destino": "Londrina",
+   "kg": 23270,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8543,
+   "freteAnterior": 7431.74,
+   "perda": 474.61,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-24",
+   "cte": 8815,
+   "placa": "SEI0H92",
+   "destino": "Medianeira",
+   "kg": 22750,
+   "freteAtual": 10101.0,
+   "cteAnterior": 8565,
+   "freteAnterior": 10355.1,
+   "perda": 254.1,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-24",
+   "cte": 8813,
+   "placa": "JCG8H84",
+   "destino": "Londrina",
+   "kg": 27580,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8562,
+   "freteAnterior": 8061.26,
+   "perda": 1104.13,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-24",
+   "cte": 8816,
+   "placa": "SEI2B56",
+   "destino": "Londrina",
+   "kg": 24820,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8632,
+   "freteAnterior": 7582.71,
+   "perda": 625.58,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-26",
+   "cte": 8823,
+   "placa": "SEI2B55",
+   "destino": "São Lourenço",
+   "kg": 29970,
+   "freteAtual": 8015.73,
+   "cteAnterior": 8347,
+   "freteAnterior": 9493.78,
+   "perda": 1478.05,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-26",
+   "cte": 8818,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 24990,
+   "freteAtual": 4419.98,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 447.48,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-30",
+   "cte": 8861,
+   "placa": "SEI2B56",
+   "destino": "Ponta Grossa",
+   "kg": null,
+   "freteAtual": 2690.62,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-26",
+   "cte": 8819,
+   "placa": "SEI2B56",
+   "destino": "Londrina",
+   "kg": 25870,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8632,
+   "freteAnterior": 7582.71,
+   "perda": 625.58,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-26",
+   "cte": 8824,
+   "placa": "SEI0H92",
+   "destino": "JAGUARIAIVA",
+   "kg": 22800,
+   "freteAtual": 4583.28,
+   "cteAnterior": 8547,
+   "freteAnterior": 4974.23,
+   "perda": 390.95,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-30",
+   "cte": 8855,
+   "placa": "JCG8H84",
+   "destino": "Medianeira",
+   "kg": 27610,
+   "freteAtual": 12285.48,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-26",
+   "cte": 8822,
+   "placa": "JCG8H84",
+   "destino": "LONDRINA",
+   "kg": 27150,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8562,
+   "freteAnterior": 8061.26,
+   "perda": 1104.13,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-28",
+   "cte": 26613,
+   "placa": "JCF7A27",
+   "destino": "CHAPECO",
+   "kg": 25120,
+   "freteAtual": 7935.53,
+   "cteAnterior": 8465,
+   "freteAnterior": 9526.05,
+   "perda": 1590.52,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-30",
+   "cte": 8853,
+   "placa": "SEI2B52",
+   "destino": "Londrina",
+   "kg": 23270,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8543,
+   "freteAnterior": 7431.74,
+   "perda": 343.63,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-28",
+   "cte": 8825,
+   "placa": "SEI2B52",
+   "destino": "Palhoça",
+   "kg": 22990,
+   "freteAtual": 5818.32,
+   "cteAnterior": 8342,
+   "freteAnterior": 6103.11,
+   "perda": 284.79,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-28",
+   "cte": 8817,
+   "placa": "JCG0H51",
+   "destino": "Londrina",
+   "kg": 26130,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8343,
+   "freteAnterior": 7357.68,
+   "perda": 400.55,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-29",
+   "cte": 8838,
+   "placa": "JCF7A22",
+   "destino": "Londrina",
+   "kg": 25700,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8535,
+   "freteAnterior": 7867.66,
+   "perda": 910.53,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-30",
+   "cte": 8839,
+   "placa": "SEI2B55",
+   "destino": "Medianeira",
+   "kg": 31020,
+   "freteAtual": 10069.71,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-30",
+   "cte": 8854,
+   "placa": "SEI0H92",
+   "destino": "Jaguariaiva",
+   "kg": 24310,
+   "freteAtual": 4663.12,
+   "cteAnterior": 8547,
+   "freteAnterior": 4974.23,
+   "perda": 311.11,
+   "observacao": null
+  },
+  {
+   "mes": "2026-09",
+   "data": "2026-09-30",
+   "cte": 8809,
+   "placa": "JCG0H51",
+   "destino": "São Matheus",
+   "kg": 26420,
+   "freteAtual": 4840.93,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "CTE corrigido: planilha 8861, ficha 8809."
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-01",
+   "cte": 8862,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 25630,
+   "freteAtual": 4533.18,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 334.28,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-01",
+   "cte": 8866,
+   "placa": "SEI2B56",
+   "destino": "Palhoça",
+   "kg": 25600,
+   "freteAtual": 5924.77,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-02",
+   "cte": 8868,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 24050,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 389.2,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-02",
+   "cte": 8871,
+   "placa": "JCF7A27",
+   "destino": "Londrina",
+   "kg": 24700,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8458,
+   "freteAnterior": 7596.95,
+   "perda": 508.84,
+   "observacao": "CTE anterior com mais de uma opção; usado 8458 (alt.: 8651)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-02",
+   "cte": 8872,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 25850,
+   "freteAtual": 4572.09,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 295.37,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-03",
+   "cte": 8878,
+   "placa": "SEI2B55",
+   "destino": "Londrina",
+   "kg": 29670,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8237,
+   "freteAnterior": 8650.89,
+   "perda": 1693.76,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-03",
+   "cte": 8874,
+   "placa": "SEI2B52",
+   "destino": "São Lourenço",
+   "kg": 23070,
+   "freteAtual": 8015.73,
+   "cteAnterior": 8300,
+   "freteAnterior": 8151.63,
+   "perda": 135.9,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-02",
+   "cte": 8873,
+   "placa": "JCG0H51",
+   "destino": "Londrina",
+   "kg": 26900,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8343,
+   "freteAnterior": 7357.68,
+   "perda": 269.57,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-03",
+   "cte": 8875,
+   "placa": "JCG8H84",
+   "destino": "Londrina",
+   "kg": 27630,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8562,
+   "freteAnterior": 8061.26,
+   "perda": 1104.13,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-03",
+   "cte": 8876,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 24070,
+   "freteAtual": 6957.13,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 520.18,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-03",
+   "cte": 8877,
+   "placa": "JCF7A22",
+   "destino": "Ponta Grossa",
+   "kg": 25290,
+   "freteAtual": 2690.0,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-05",
+   "cte": 8881,
+   "placa": "JCF7A27",
+   "destino": "São Lourenço",
+   "kg": 24700,
+   "freteAtual": 8159.52,
+   "cteAnterior": 8630,
+   "freteAnterior": 8148.54,
+   "perda": -10.98,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-05",
+   "cte": 8879,
+   "placa": "SEI2B56",
+   "destino": "Londrina",
+   "kg": 26070,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8632,
+   "freteAnterior": 7582.71,
+   "perda": 494.6,
+   "observacao": "CTE anterior com mais de uma opção; usado 8632 (alt.: 8543)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-05",
+   "cte": 8885,
+   "placa": "JCF7A22",
+   "destino": "Jaguariaiva",
+   "kg": 26130,
+   "freteAtual": 4663.12,
+   "cteAnterior": 8323,
+   "freteAnterior": 4886.7,
+   "perda": 223.58,
+   "observacao": "CTE anterior com mais de uma opção; usado 8323 (alt.: 8524)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-06",
+   "cte": 8887,
+   "placa": "JCG0H51",
+   "destino": "Londrina",
+   "kg": 27400,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8343,
+   "freteAnterior": 7357.68,
+   "perda": 269.57,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-06",
+   "cte": 8888,
+   "placa": "SEI2B52",
+   "destino": "Londrina",
+   "kg": 22830,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8543,
+   "freteAnterior": 7431.74,
+   "perda": 343.63,
+   "observacao": "CTE anterior com mais de uma opção; usado 8543 (alt.: 8633)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-06",
+   "cte": 8889,
+   "placa": "JCF7A27",
+   "destino": "Londrina",
+   "kg": 25210,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8458,
+   "freteAnterior": 7596.95,
+   "perda": 508.84,
+   "observacao": "CTE anterior com mais de uma opção; usado 8458 (alt.: 8651)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-07",
+   "cte": 8891,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 25770,
+   "freteAtual": 5557.94,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": -690.48,
+   "observacao": "Base: ARLINDO DAI 07 /10"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-07",
+   "cte": 8890,
+   "placa": "SEI2B55",
+   "destino": "São Lourenço",
+   "kg": 30990,
+   "freteAtual": 8169.52,
+   "cteAnterior": 8347,
+   "freteAnterior": 9493.78,
+   "perda": 1324.26,
+   "observacao": "CTE anterior com mais de uma opção; usado 8347 (alt.: 8624)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-07",
+   "cte": 8892,
+   "placa": "JCG0H51",
+   "destino": "Jaguariaiva",
+   "kg": 25660,
+   "freteAtual": 4663.12,
+   "cteAnterior": 8339,
+   "freteAnterior": 4756.43,
+   "perda": 93.31,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-07",
+   "cte": 8893,
+   "placa": "JCG8H84",
+   "destino": "Ponta Grossa",
+   "kg": 28020,
+   "freteAtual": 2690.62,
+   "cteAnterior": 8649,
+   "freteAnterior": 2940.24,
+   "perda": 249.62,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-08",
+   "cte": 8897,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 23490,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 389.2,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-08",
+   "cte": 8899,
+   "placa": "JCF7A27",
+   "destino": "Londrina",
+   "kg": 24490,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8458,
+   "freteAnterior": 7596.95,
+   "perda": 508.84,
+   "observacao": "CTE anterior com mais de uma opção; usado 8458 (alt.: 8651)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-08",
+   "cte": 8900,
+   "placa": "SEI2B52",
+   "destino": "Ponta Grossa",
+   "kg": 22070,
+   "freteAtual": 2890.62,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-09",
+   "cte": 8902,
+   "placa": "SEI2B56",
+   "destino": "Palhoça",
+   "kg": 25680,
+   "freteAtual": 5924.77,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-09",
+   "cte": 8901,
+   "placa": "JCG0H51",
+   "destino": "Londrina",
+   "kg": 24810,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8343,
+   "freteAnterior": 7357.68,
+   "perda": 269.57,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-10",
+   "cte": 8907,
+   "placa": "JCG8H84",
+   "destino": "Londrina",
+   "kg": 26080,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8562,
+   "freteAnterior": 8061.26,
+   "perda": 973.15,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-10",
+   "cte": 8904,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 24950,
+   "freteAtual": 4412.91,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 454.55,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-10",
+   "cte": 8905,
+   "placa": "SEI2B52",
+   "destino": "Londrina",
+   "kg": 22070,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8543,
+   "freteAnterior": 7431.74,
+   "perda": 343.63,
+   "observacao": "CTE anterior com mais de uma opção; usado 8543 (alt.: 8633)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-10",
+   "cte": 8906,
+   "placa": "SEI2B55",
+   "destino": "São Lourenço",
+   "kg": 30260,
+   "freteAtual": 8169.52,
+   "cteAnterior": 8347,
+   "freteAnterior": 9493.78,
+   "perda": 1324.26,
+   "observacao": "CTE anterior com mais de uma opção; usado 8347 (alt.: 8624)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-10",
+   "cte": 8908,
+   "placa": "SEI0H92",
+   "destino": "Palhoça",
+   "kg": 22970,
+   "freteAtual": 5924.76,
+   "cteAnterior": 8460,
+   "freteAnterior": 6254.68,
+   "perda": 329.92,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-12",
+   "cte": 8911,
+   "placa": "JCF7A27",
+   "destino": "Medianeira",
+   "kg": 24680,
+   "freteAtual": 10332.36,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-13",
+   "cte": 8914,
+   "placa": "SEI2B56",
+   "destino": "Londrina",
+   "kg": 26400,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8632,
+   "freteAnterior": 7582.71,
+   "perda": 494.6,
+   "observacao": "CTE anterior com mais de uma opção; usado 8632 (alt.: 8543)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-13",
+   "cte": 8916,
+   "placa": "JCG0H51",
+   "destino": "Londrina",
+   "kg": 26400,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8343,
+   "freteAnterior": 7357.68,
+   "perda": 269.57,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-13",
+   "cte": 8915,
+   "placa": "JCF7A22",
+   "destino": "Telemaco Borba",
+   "kg": 24700,
+   "freteAtual": 4859.74,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-13",
+   "cte": 8918,
+   "placa": "SEI2B52",
+   "destino": "Balsa Nova",
+   "kg": 22760,
+   "freteAtual": 1766.4,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-14",
+   "cte": 39237,
+   "placa": "SEI2B55",
+   "destino": "Passo Fundo",
+   "kg": 27470,
+   "freteAtual": 23337.96,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Origem: São Jose dos Campos; Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-14",
+   "cte": 39236,
+   "placa": "JCG8H84",
+   "destino": "Passo Fundo",
+   "kg": 28140,
+   "freteAtual": 23907.18,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Origem: São Jose dos Campos; Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-14",
+   "cte": 8921,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 23320,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 389.2,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-15",
+   "cte": 8922,
+   "placa": "SEI2B52",
+   "destino": "Palhoça",
+   "kg": 21990,
+   "freteAtual": 5924.76,
+   "cteAnterior": 8342,
+   "freteAnterior": 6103.11,
+   "perda": 178.35,
+   "observacao": "CTE anterior com mais de uma opção; usado 8342 (alt.: 8646)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-15",
+   "cte": 8924,
+   "placa": "SEI2B56",
+   "destino": "Londrina",
+   "kg": 26060,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8632,
+   "freteAnterior": 7582.71,
+   "perda": 494.6,
+   "observacao": "CTE anterior com mais de uma opção; usado 8632 (alt.: 8543)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-15",
+   "cte": 8923,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 25110,
+   "freteAtual": 4441.21,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 426.25,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-16",
+   "cte": 8929,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 22790,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 389.2,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-16",
+   "cte": 8928,
+   "placa": "JCF7A27",
+   "destino": "Ponta Grossa",
+   "kg": 23560,
+   "freteAtual": 2729.67,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-16",
+   "cte": 8930,
+   "placa": "JCF7A22",
+   "destino": "São Lourenço",
+   "kg": 24940,
+   "freteAtual": 8169.52,
+   "cteAnterior": 8185,
+   "freteAnterior": 8426.23,
+   "perda": 256.71,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-16",
+   "cte": 8927,
+   "placa": "JCG0H51",
+   "destino": "Jaguariaiva",
+   "kg": 24620,
+   "freteAtual": 4663.12,
+   "cteAnterior": 8339,
+   "freteAnterior": 4756.43,
+   "perda": 93.31,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-17",
+   "cte": 8932,
+   "placa": "SEI2B52",
+   "destino": "São Lourenço",
+   "kg": 22250,
+   "freteAtual": 8159.52,
+   "cteAnterior": 8300,
+   "freteAnterior": 8151.63,
+   "perda": -7.89,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-17",
+   "cte": 8931,
+   "placa": "JCG0H51",
+   "destino": "Londrina",
+   "kg": 25220,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8343,
+   "freteAnterior": 7357.68,
+   "perda": 269.57,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-19",
+   "cte": 8933,
+   "placa": "SEI2B56",
+   "destino": "Londrina",
+   "kg": 25540,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8632,
+   "freteAnterior": 7582.71,
+   "perda": 494.6,
+   "observacao": "CTE anterior com mais de uma opção; usado 8632 (alt.: 8543)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-19",
+   "cte": 8934,
+   "placa": "JCG8H84",
+   "destino": "Londrina",
+   "kg": 27250,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8562,
+   "freteAnterior": 8061.26,
+   "perda": 973.15,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-19",
+   "cte": 8939,
+   "placa": "SEI0H92",
+   "destino": "Medianeira",
+   "kg": 23430,
+   "freteAtual": 10332.36,
+   "cteAnterior": 8565,
+   "freteAnterior": 10355.1,
+   "perda": 22.74,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-19",
+   "cte": 8936,
+   "placa": "SEI2B55",
+   "destino": "Balsa Nova",
+   "kg": 29940,
+   "freteAtual": 2323.64,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-19",
+   "cte": 8937,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 24690,
+   "freteAtual": 4366.92,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 500.54,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-19",
+   "cte": 8945,
+   "placa": "JCF7A22",
+   "destino": "PIEN",
+   "kg": 24840,
+   "freteAtual": 3062.77,
+   "cteAnterior": 8514,
+   "freteAnterior": 3485.69,
+   "perda": 422.92,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-20",
+   "cte": 8943,
+   "placa": "SEI2B55",
+   "destino": "São Lourenço",
+   "kg": 30380,
+   "freteAtual": 8169.52,
+   "cteAnterior": 8347,
+   "freteAnterior": 9493.78,
+   "perda": 1324.26,
+   "observacao": "CTE anterior com mais de uma opção; usado 8347 (alt.: 8624)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-21",
+   "cte": 8947,
+   "placa": "SEI2B52",
+   "destino": "São Lourenço",
+   "kg": 22970,
+   "freteAtual": 8169.52,
+   "cteAnterior": 8300,
+   "freteAnterior": 8151.63,
+   "perda": -17.89,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-21",
+   "cte": 8948,
+   "placa": "SEI0H92",
+   "destino": "Ponta Grossa",
+   "kg": 22490,
+   "freteAtual": 2729.67,
+   "cteAnterior": 8456,
+   "freteAnterior": 2837.67,
+   "perda": 108.0,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-21",
+   "cte": 26935,
+   "placa": "JCG8H84",
+   "destino": "Araucária",
+   "kg": 26200,
+   "freteAtual": 9913.03,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Origem: Canoas; Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-22",
+   "cte": 25420,
+   "placa": "SEI2B56",
+   "destino": "Londrina",
+   "kg": 25420,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8632,
+   "freteAnterior": 7582.71,
+   "perda": 494.6,
+   "observacao": "CTE anterior com mais de uma opção; usado 8632 (alt.: 8543)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-22",
+   "cte": 26957,
+   "placa": "JCG0H51",
+   "destino": "Caxias do Sul",
+   "kg": 22730,
+   "freteAtual": 2795.34,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Origem: Canoas; Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-22",
+   "cte": 8954,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 20180,
+   "freteAtual": 3569.24,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 1298.22,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-23",
+   "cte": 8955,
+   "placa": "SEI2B55",
+   "destino": "Londrina",
+   "kg": 29610,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8237,
+   "freteAnterior": 8650.89,
+   "perda": 1562.78,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-23",
+   "cte": 8956,
+   "placa": "SEI2B52",
+   "destino": "Jaguariaiva",
+   "kg": 20780,
+   "freteAtual": 4663.12,
+   "cteAnterior": 8429,
+   "freteAnterior": 4661.14,
+   "perda": -1.98,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-23",
+   "cte": 8957,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 23490,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 389.2,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-23",
+   "cte": 26984,
+   "placa": "JCG0H51",
+   "destino": "Araucária",
+   "kg": 24980,
+   "freteAtual": 13791.06,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Origem: Canoas; Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-24",
+   "cte": 9862,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 20530,
+   "freteAtual": 3831.15,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 1036.31,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-24",
+   "cte": 8964,
+   "placa": "SEI2B56",
+   "destino": "Londrina",
+   "kg": 25800,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8632,
+   "freteAnterior": 7582.71,
+   "perda": 494.6,
+   "observacao": "CTE anterior com mais de uma opção; usado 8632 (alt.: 8543)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-24",
+   "cte": 8961,
+   "placa": "JCG8H84",
+   "destino": "São Lourenço",
+   "kg": 27020,
+   "freteAtual": 8169.52,
+   "cteAnterior": 8667,
+   "freteAnterior": 9108.78,
+   "perda": 939.26,
+   "observacao": "CTE anterior com mais de uma opção; usado 8667 (alt.: 8611, 8597)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-24",
+   "cte": 8963,
+   "placa": "SEI2B52",
+   "destino": "Londrina",
+   "kg": 21020,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8543,
+   "freteAnterior": 7431.74,
+   "perda": 343.63,
+   "observacao": "CTE anterior com mais de uma opção; usado 8543 (alt.: 8633)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-27",
+   "cte": 8991,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 23620,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 389.2,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-27",
+   "cte": 8994,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 20970,
+   "freteAtual": 3708.96,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 1158.5,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-27",
+   "cte": 8992,
+   "placa": "SEI2B52",
+   "destino": "Londrina",
+   "kg": 23140,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8543,
+   "freteAnterior": 7431.74,
+   "perda": 343.63,
+   "observacao": "CTE anterior com mais de uma opção; usado 8543 (alt.: 8633)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-27",
+   "cte": 8993,
+   "placa": "SEI2B56",
+   "destino": "São Lourenço",
+   "kg": 27060,
+   "freteAtual": 8169.52,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-27",
+   "cte": 8995,
+   "placa": "JCG8H84",
+   "destino": "Medianeira",
+   "kg": 27100,
+   "freteAtual": 10332.36,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-27",
+   "cte": 39466,
+   "placa": "SEI2B55",
+   "destino": "Araucária",
+   "kg": 26910,
+   "freteAtual": 12006.17,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Origem: São Jose dos Campos; Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-27",
+   "cte": 39467,
+   "placa": "JCG0H51",
+   "destino": "Araucária",
+   "kg": 23370,
+   "freteAtual": 11848.59,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Origem: São Jose dos Campos; Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-28",
+   "cte": 8997,
+   "placa": "JCF7A22",
+   "destino": "Londrina",
+   "kg": 18930,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8535,
+   "freteAnterior": 7867.66,
+   "perda": 779.55,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-28",
+   "cte": 8998,
+   "placa": "SEI0H92",
+   "destino": "São Lourenço",
+   "kg": 24480,
+   "freteAtual": 8069.52,
+   "cteAnterior": null,
+   "freteAnterior": null,
+   "perda": null,
+   "observacao": "Sem CTE anterior na base (placa + destino)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-29",
+   "cte": 8999,
+   "placa": "SEI2B55",
+   "destino": "Londrina",
+   "kg": 29390,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8237,
+   "freteAnterior": 8650.89,
+   "perda": 1562.78,
+   "observacao": "Base: 11k violta 30/10"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-29",
+   "cte": 9001,
+   "placa": "SEI2B56",
+   "destino": "Jaguariaiva",
+   "kg": 24720,
+   "freteAtual": 4663.12,
+   "cteAnterior": 8395,
+   "freteAnterior": 4619.95,
+   "perda": -43.17,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-30",
+   "cte": 9004,
+   "placa": "SEI2B52",
+   "destino": "Londrina",
+   "kg": 22060,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8543,
+   "freteAnterior": 7431.74,
+   "perda": 343.63,
+   "observacao": "CTE anterior com mais de uma opção; usado 8543 (alt.: 8633)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-30",
+   "cte": 9005,
+   "placa": "JCG8H84",
+   "destino": "Palhoça",
+   "kg": 27000,
+   "freteAtual": 5924.27,
+   "cteAnterior": 8646,
+   "freteAnterior": 6702.8,
+   "perda": 778.53,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-30",
+   "cte": 9006,
+   "placa": "SEI2B52",
+   "destino": "Londrina",
+   "kg": 22060,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8543,
+   "freteAnterior": 7431.74,
+   "perda": 343.63,
+   "observacao": "CTE anterior com mais de uma opção; usado 8543 (alt.: 8633)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-31",
+   "cte": 9010,
+   "placa": "SEI2B55",
+   "destino": "São Lourenço",
+   "kg": 29930,
+   "freteAtual": 8169.52,
+   "cteAnterior": 8347,
+   "freteAnterior": 9493.78,
+   "perda": 1324.26,
+   "observacao": "CTE anterior com mais de uma opção; usado 8347 (alt.: 8624)"
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-31",
+   "cte": 9011,
+   "placa": "JCF7A22",
+   "destino": "São Matheus",
+   "kg": 22680,
+   "freteAtual": 4011.41,
+   "cteAnterior": 8580,
+   "freteAnterior": 4867.46,
+   "perda": 856.05,
+   "observacao": null
+  },
+  {
+   "mes": "2026-10",
+   "data": "2026-10-31",
+   "cte": 9008,
+   "placa": "SEI0H92",
+   "destino": "Londrina",
+   "kg": 22430,
+   "freteAtual": 7088.11,
+   "cteAnterior": 8585,
+   "freteAnterior": 7477.31,
+   "perda": 389.2,
+   "observacao": null
+  }
+ ],
+ "comparativoResumo": [
+  {
+   "mes": "2026-08",
+   "fretes": 12,
+   "comCteAnterior": 11,
+   "semCteAnterior": 1,
+   "freteAnteriorComparavel": 74651.73,
+   "perda": 5235.43,
+   "perdaPct": 0.0701
+  },
+  {
+   "mes": "2026-09",
+   "fretes": 90,
+   "comCteAnterior": 77,
+   "semCteAnterior": 13,
+   "freteAnteriorComparavel": 550193.5,
+   "perda": 47431.74,
+   "perdaPct": 0.0862
+  },
+  {
+   "mes": "2026-10",
+   "fretes": 86,
+   "comCteAnterior": 67,
+   "semCteAnterior": 19,
+   "freteAnteriorComparavel": 466636.64,
+   "perda": 34514.5,
+   "perdaPct": 0.074
+  }
+ ],
+ "dieselMes": [
+  {
+   "mes": "2026-07",
+   "litros": 29878.21,
+   "valor": 186073.22,
+   "precoMedio": 6.2277,
+   "abastecimentos": 84
+  },
+  {
+   "mes": "2026-08",
+   "litros": 29333.93,
+   "valor": 185969.76,
+   "precoMedio": 6.3397,
+   "abastecimentos": 75
+  },
+  {
+   "mes": "2026-09",
+   "litros": 28579.74,
+   "valor": 189209.58,
+   "precoMedio": 6.6204,
+   "abastecimentos": 77
+  },
+  {
+   "mes": "2026-10",
+   "litros": 28509.23,
+   "valor": 194242.42,
+   "precoMedio": 6.8133,
+   "abastecimentos": 74
+  }
+ ],
+ "dieselPlaca": [
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "litros": 2481.04,
+   "precoMedio": 6.2619
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "litros": 3127.04,
+   "precoMedio": 6.2782
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "litros": 1856.4,
+   "precoMedio": 6.311
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "litros": 4064.08,
+   "precoMedio": 6.2173
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "litros": 3821.42,
+   "precoMedio": 6.2457
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "litros": 3585.1,
+   "precoMedio": 6.2404
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "litros": 5825.47,
+   "precoMedio": 6.1561
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "litros": 5117.66,
+   "precoMedio": 6.2177
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "litros": 3161.65,
+   "precoMedio": 6.3605
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "litros": 4146.07,
+   "precoMedio": 6.3591
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "litros": 4236.03,
+   "precoMedio": 6.2875
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "litros": 3939.03,
+   "precoMedio": 6.2973
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "litros": 3535.04,
+   "precoMedio": 6.3575
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "litros": 3627.7,
+   "precoMedio": 6.3581
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "litros": 3406.73,
+   "precoMedio": 6.3597
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "litros": 3281.68,
+   "precoMedio": 6.3535
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A22",
+   "litros": 2476.17,
+   "precoMedio": 6.6583
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "litros": 2919.88,
+   "precoMedio": 6.5916
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "litros": 3386.28,
+   "precoMedio": 6.5708
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "litros": 3736.04,
+   "precoMedio": 6.6602
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "litros": 4174.21,
+   "precoMedio": 6.6465
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "litros": 3397.01,
+   "precoMedio": 6.6158
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "litros": 4367.07,
+   "precoMedio": 6.5833
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "litros": 4123.08,
+   "precoMedio": 6.6395
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "litros": 2606.93,
+   "precoMedio": 6.8163
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "litros": 2338.0,
+   "precoMedio": 6.82
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "litros": 3312.04,
+   "precoMedio": 6.7723
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "litros": 4023.91,
+   "precoMedio": 6.8273
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "litros": 3946.2,
+   "precoMedio": 6.8162
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "litros": 3700.27,
+   "precoMedio": 6.8181
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "litros": 4418.63,
+   "precoMedio": 6.8159
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "litros": 4163.25,
+   "precoMedio": 6.8171
+  }
+ ],
+ "dieselExcluidos": [
+  {
+   "mes": "2026-10",
+   "data": "2026-10-05",
+   "placa": "JCF7A22",
+   "litros": 26.97,
+   "precoUnit": 2.89,
+   "valor": 77.94
+  }
+ ],
+ "km": [
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B56",
+   "litros": 5117.66,
+   "km": 11503,
+   "kmPorLitro": 2.248
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B55",
+   "litros": 5825.73,
+   "km": 12462,
+   "kmPorLitro": 2.139
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI2B52",
+   "litros": 3585.08,
+   "km": 8697,
+   "kmPorLitro": 2.426
+  },
+  {
+   "mes": "2026-07",
+   "placa": "SEI0H92",
+   "litros": 3821.42,
+   "km": 8739,
+   "kmPorLitro": 2.287
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG8H84",
+   "litros": 4064.07,
+   "km": 9095,
+   "kmPorLitro": 2.238
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A22",
+   "litros": 1977.04,
+   "km": 5853,
+   "kmPorLitro": 2.96
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCG0H51",
+   "litros": 1519.01,
+   "km": 4210,
+   "kmPorLitro": 2.772
+  },
+  {
+   "mes": "2026-07",
+   "placa": "JCF7A27",
+   "litros": 2615.02,
+   "km": 7500,
+   "kmPorLitro": 2.868
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B56",
+   "litros": 3281.68,
+   "km": 7305,
+   "kmPorLitro": 2.226
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B55",
+   "litros": 3406.73,
+   "km": 7330,
+   "kmPorLitro": 2.152
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI2B52",
+   "litros": 3627.7,
+   "km": 8196,
+   "kmPorLitro": 2.259
+  },
+  {
+   "mes": "2026-08",
+   "placa": "SEI0H92",
+   "litros": 3248.03,
+   "km": 7687,
+   "kmPorLitro": 2.367
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG8H84",
+   "litros": 3938.0,
+   "km": 9328,
+   "kmPorLitro": 2.369
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A22",
+   "litros": 3161.65,
+   "km": 7496,
+   "kmPorLitro": 2.371
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCG0H51",
+   "litros": 3957.01,
+   "km": 9631,
+   "kmPorLitro": 2.434
+  },
+  {
+   "mes": "2026-08",
+   "placa": "JCF7A27",
+   "litros": 2791.02,
+   "km": 9927,
+   "kmPorLitro": 3.557
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B55",
+   "litros": 4367.07,
+   "km": 9261,
+   "kmPorLitro": 2.121
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B55",
+   "litros": 4418.63,
+   "km": 10093,
+   "kmPorLitro": 2.284
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B56",
+   "litros": 4123.08,
+   "km": 8901,
+   "kmPorLitro": 2.159
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B56",
+   "litros": 4163.25,
+   "km": 9569,
+   "kmPorLitro": 2.298
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI2B52",
+   "litros": 3397.01,
+   "km": 8013,
+   "kmPorLitro": 2.359
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI2B52",
+   "litros": 3700.27,
+   "km": 9304,
+   "kmPorLitro": 2.514
+  },
+  {
+   "mes": "2026-09",
+   "placa": "SEI0H92",
+   "litros": 4174.21,
+   "km": 9021,
+   "kmPorLitro": 2.161
+  },
+  {
+   "mes": "2026-10",
+   "placa": "SEI0H92",
+   "litros": 3946.2,
+   "km": 9776,
+   "kmPorLitro": 2.477
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG8H84",
+   "litros": 3736.04,
+   "km": 8807,
+   "kmPorLitro": 2.357
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG8H84",
+   "litros": 4023.91,
+   "km": 10224,
+   "kmPorLitro": 2.541
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A22",
+   "litros": 2476.17,
+   "km": 5748,
+   "kmPorLitro": 2.321
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A22",
+   "litros": 2606.93,
+   "km": 6861,
+   "kmPorLitro": 2.632
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCF7A27",
+   "litros": 2919.88,
+   "km": 6787,
+   "kmPorLitro": 2.324
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "litros": 2338.0,
+   "km": 6079,
+   "kmPorLitro": 2.6
+  },
+  {
+   "mes": "2026-09",
+   "placa": "JCG0H51",
+   "litros": 3386.28,
+   "km": 8739,
+   "kmPorLitro": 2.581,
+   "estimado": true
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCG0H51",
+   "litros": 3312.04,
+   "km": 8547,
+   "kmPorLitro": 2.581,
+   "estimado": true
+  }
+ ],
+ "retornoCarregado": {
+  "inicio": "2026-08-27",
+  "itens": [
+   {
+    "mes": "2026-08",
+    "data": "2026-08-27",
+    "cte": 8650,
+    "placa": "JCG8H84",
+    "cliente": "Café cacique",
+    "kgCarga": 27880,
+    "kgRetorno": 8310,
+    "litros": 430,
+    "valorCombustivel": 2730.0
+   },
+   {
+    "mes": "2026-08",
+    "data": "2026-08-27",
+    "cte": 8651,
+    "placa": "JCF7A27",
+    "cliente": "Fast Ariam",
+    "kgCarga": 25840,
+    "kgRetorno": 8340,
+    "litros": 393,
+    "valorCombustivel": 2495.0
+   },
+   {
+    "mes": "2026-08",
+    "data": "2026-08-27",
+    "cte": 8653,
+    "placa": "SEI2B56",
+    "cliente": "BrasLamber",
+    "kgCarga": 26560,
+    "kgRetorno": 6050,
+    "litros": 230,
+    "valorCombustivel": 1460.56
+   },
+   {
+    "mes": "2026-09",
+    "data": "2026-09-04",
+    "cte": 8715,
+    "placa": "SEI2B56",
+    "cliente": "Ninfa",
+    "kgCarga": 26240,
+    "kgRetorno": 6040,
+    "litros": 555,
+    "valorCombustivel": 3635.31
+   },
+   {
+    "mes": "2026-09",
+    "data": "2026-09-10",
+    "cte": 8732,
+    "placa": "SEI0H92",
+    "cliente": "Fast Ariam",
+    "kgCarga": 23840,
+    "kgRetorno": 16360,
+    "litros": 450,
+    "valorCombustivel": 3001.5
+   },
+   {
+    "mes": "2026-09",
+    "data": "2026-09-08",
+    "cte": 8726,
+    "placa": "SEI0H92",
+    "cliente": "Arauco",
+    "kgCarga": 23810,
+    "kgRetorno": 4390,
+    "litros": 355,
+    "valorCombustivel": 2254.25
+   },
+   {
+    "mes": "2026-09",
+    "data": "2026-09-03",
+    "cte": 8711,
+    "placa": "SEI0H92",
+    "cliente": "Fast Ariam",
+    "kgCarga": 23800,
+    "kgRetorno": 5870,
+    "litros": 298,
+    "valorCombustivel": 1892.3
+   },
+   {
+    "mes": "2026-09",
+    "data": "2026-09-03",
+    "cte": 8707,
+    "placa": "SEI2B56",
+    "cliente": "Arauco",
+    "kgCarga": 25570,
+    "kgRetorno": 7000,
+    "litros": 236,
+    "valorCombustivel": 1498.6
+   },
+   {
+    "mes": "2026-09",
+    "data": "2026-09-02",
+    "cte": 8702,
+    "placa": "SEI0H92",
+    "cliente": "Alumpar",
+    "kgCarga": 24850,
+    "kgRetorno": 2140,
+    "litros": 355,
+    "valorCombustivel": 2254.25
+   },
+   {
+    "mes": "2026-09",
+    "data": "2026-09-01",
+    "cte": 8696,
+    "placa": "SEI2B52",
+    "cliente": "braspine",
+    "kgCarga": 26750,
+    "kgRetorno": 3920,
+    "litros": 370,
+    "valorCombustivel": 2349.5
+   },
+   {
+    "mes": "2026-08",
+    "data": "2026-08-28",
+    "cte": 8658,
+    "placa": "SEI0H92",
+    "cliente": "Arauco",
+    "kgCarga": 26980,
+    "kgRetorno": 14700,
+    "litros": 246,
+    "valorCombustivel": 1562.1
+   },
+   {
+    "mes": "2026-09",
+    "data": "2026-09-11",
+    "cte": 8739,
+    "placa": "SEI2B56",
+    "cliente": "Arauco (Londrina)",
+    "kgCarga": 25960,
+    "kgRetorno": 15690,
+    "litros": 260,
+    "valorCombustivel": 1734.2
+   },
+   {
+    "mes": "2026-09",
+    "data": "2026-09-18",
+    "cte": 8786,
+    "placa": "SEI2B56",
+    "cliente": "Telemaco Borba",
+    "kgCarga": 26510,
+    "kgRetorno": 3690,
+    "litros": null,
+    "valorCombustivel": null
+   },
+   {
+    "mes": "2026-09",
+    "data": "2026-09-19",
+    "cte": 8790,
+    "placa": "SEI2B55",
+    "cliente": "Londrina Alunpar",
+    "kgCarga": 29470,
+    "kgRetorno": 8800,
+    "litros": 434,
+    "valorCombustivel": 2959.94
+   },
+   {
+    "mes": "2026-09",
+    "data": "2026-09-20",
+    "cte": 8796,
+    "placa": "SEI2B56",
+    "cliente": "Londrina Alunpar",
+    "kgCarga": 25220,
+    "kgRetorno": 16010,
+    "litros": null,
+    "valorCombustivel": null
+   },
+   {
+    "mes": "2026-09",
+    "data": "2026-09-30",
+    "cte": 8854,
+    "placa": "SEI0H92",
+    "cliente": "Arauco",
+    "kgCarga": 24310,
+    "kgRetorno": 8680,
+    "litros": null,
+    "valorCombustivel": null
+   },
+   {
+    "mes": "2026-09",
+    "data": "2026-09-30",
+    "cte": 8855,
+    "placa": "JCG8H84",
+    "cliente": "Ninfa",
+    "kgCarga": 27670,
+    "kgRetorno": 9650,
+    "litros": null,
+    "valorCombustivel": null
+   },
+   {
+    "mes": "2026-10",
+    "data": "2026-10-02",
+    "cte": 8868,
+    "placa": "SEI0H92",
+    "cliente": "Fast Ariam",
+    "kgCarga": 24050,
+    "kgRetorno": 9500,
+    "litros": null,
+    "valorCombustivel": null
+   },
+   {
+    "mes": "2026-10",
+    "data": "2026-10-05",
+    "cte": 8885,
+    "placa": "JCF7A22",
+    "cliente": "Braspine",
+    "kgCarga": 26130,
+    "kgRetorno": 8920,
+    "litros": null,
+    "valorCombustivel": null
+   },
+   {
+    "mes": "2026-10",
+    "data": "2026-10-07",
+    "cte": 8892,
+    "placa": "JCG0H51",
+    "cliente": "Arauco",
+    "kgCarga": 25660,
+    "kgRetorno": 4120,
+    "litros": null,
+    "valorCombustivel": null
+   },
+   {
+    "mes": "2026-10",
+    "data": "2026-10-08",
+    "cte": 8899,
+    "placa": "JCF7A27",
+    "cliente": "Fast Ariam",
+    "kgCarga": 24490,
+    "kgRetorno": 9330,
+    "litros": null,
+    "valorCombustivel": null
+   },
+   {
+    "mes": "2026-10",
+    "data": "2026-10-10",
+    "cte": 8907,
+    "placa": "JCG8H84",
+    "cliente": "Alumpar",
+    "kgCarga": 26080,
+    "kgRetorno": 4180,
+    "litros": null,
+    "valorCombustivel": null
+   },
+   {
+    "mes": "2026-10",
+    "data": "2026-10-13",
+    "cte": 8916,
+    "placa": "JCG0H51",
+    "cliente": "Arauco",
+    "kgCarga": 26400,
+    "kgRetorno": 13580,
+    "litros": null,
+    "valorCombustivel": null
+   },
+   {
+    "mes": "2026-10",
+    "data": "2026-10-19",
+    "cte": 8933,
+    "placa": "SEI2B56",
+    "cliente": "Fast Ariam",
+    "kgCarga": 25540,
+    "kgRetorno": 9427,
+    "litros": null,
+    "valorCombustivel": null
+   },
+   {
+    "mes": "2026-10",
+    "data": "2026-10-29",
+    "cte": 9001,
+    "placa": "SEI2B56",
+    "cliente": "Braspine",
+    "kgCarga": 24720,
+    "kgRetorno": 8740,
+    "litros": null,
+    "valorCombustivel": null
+   },
+   {
+    "mes": "2026-10",
+    "data": "2026-10-29",
+    "cte": 8999,
+    "placa": "SEI2B55",
+    "cliente": null,
+    "kgCarga": 29390,
+    "kgRetorno": 11000,
+    "litros": null,
+    "valorCombustivel": null
+   }
+  ],
+  "geral": [
+   {
+    "mes": "2026-08",
+    "placa": "JCF7A22",
+    "fretes": 2
+   },
+   {
+    "mes": "2026-08",
+    "placa": "JCF7A27",
+    "fretes": 2
+   },
+   {
+    "mes": "2026-08",
+    "placa": "JCG0H51",
+    "fretes": 1
+   },
+   {
+    "mes": "2026-08",
+    "placa": "JCG8H84",
+    "fretes": 3
+   },
+   {
+    "mes": "2026-08",
+    "placa": "SEI0H92",
+    "fretes": 2
+   },
+   {
+    "mes": "2026-08",
+    "placa": "SEI2B52",
+    "fretes": 2
+   },
+   {
+    "mes": "2026-08",
+    "placa": "SEI2B55",
+    "fretes": 2
+   },
+   {
+    "mes": "2026-08",
+    "placa": "SEI2B56",
+    "fretes": 3
+   },
+   {
+    "mes": "2026-09",
+    "placa": "JCF7A22",
+    "fretes": 13
+   },
+   {
+    "mes": "2026-09",
+    "placa": "JCF7A27",
+    "fretes": 10
+   },
+   {
+    "mes": "2026-09",
+    "placa": "JCG0H51",
+    "fretes": 11
+   },
+   {
+    "mes": "2026-09",
+    "placa": "JCG8H84",
+    "fretes": 11
+   },
+   {
+    "mes": "2026-09",
+    "placa": "SEI0H92",
+    "fretes": 13
+   },
+   {
+    "mes": "2026-09",
+    "placa": "SEI2B52",
+    "fretes": 12
+   },
+   {
+    "mes": "2026-09",
+    "placa": "SEI2B55",
+    "fretes": 15
+   },
+   {
+    "mes": "2026-09",
+    "placa": "SEI2B56",
+    "fretes": 12
+   },
+   {
+    "mes": "2026-10",
+    "placa": "JCF7A22",
+    "fretes": 16
+   },
+   {
+    "mes": "2026-10",
+    "placa": "JCF7A27",
+    "fretes": 6
+   },
+   {
+    "mes": "2026-10",
+    "placa": "JCG0H51",
+    "fretes": 10
+   },
+   {
+    "mes": "2026-10",
+    "placa": "JCG8H84",
+    "fretes": 9
+   },
+   {
+    "mes": "2026-10",
+    "placa": "SEI0H92",
+    "fretes": 12
+   },
+   {
+    "mes": "2026-10",
+    "placa": "SEI2B52",
+    "fretes": 13
+   },
+   {
+    "mes": "2026-10",
+    "placa": "SEI2B55",
+    "fretes": 10
+   },
+   {
+    "mes": "2026-10",
+    "placa": "SEI2B56",
+    "fretes": 10
+   }
+  ]
+ },
+ "conferencias": [
+  {
+   "descricao": "Faturamento por mês = soma dos fretes (jul 650.476,06 | ago 762.758,53 | set 605.630,37 | out 602.984,84)",
+   "ok": true
+  },
+  {
+   "descricao": "Livre G1 de outubro = R$ 129.844,49 (Excel de faturamento atualizado)",
+   "ok": true
+  },
+  {
+   "descricao": "Setembro pelas fichas: SEI2B55 Livre 17.438,13 e JCF7A27 Livre 35.572,81",
+   "ok": true
+  },
+  {
+   "descricao": "Sienge: soma das contas filhas = total de saídas do PDF (24 blocos, tolerância R$ 0,02)",
+   "ok": true
+  },
+  {
+   "descricao": "Resultado G1 = Livre G1 - despesas G1 - extras, em todas as placas e meses",
+   "ok": true
+  },
+  {
+   "descricao": "Despesas G1 por mês = Jul 162.948,05 | Ago 155.448,05 | Set 140.612,98 | Out 173.034,29",
+   "ok": true
+  },
+  {
+   "descricao": "Placas por mês = 8",
+   "ok": true
+  },
+  {
+   "descricao": "Comparativo de fretes: CTEs e valores conferidos com a base (6 correções)",
+   "ok": true
+  }
+ ]
+}

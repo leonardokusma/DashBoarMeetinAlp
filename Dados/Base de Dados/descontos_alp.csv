@@ -1,0 +1,986 @@
+﻿id_desconto;mes_ref;fonte;placa;data;natureza;grupo;categoria;subcategoria;descricao;observacao;fornecedor;tipo_doc;num_doc;quantidade;hodometro;secao_ficha;valor;alerta;arquivo_origem
+1;2026-07;Fichas jul/2026;JCF7A22;2026-07-04;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8295;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+2;2026-07;Fichas jul/2026;JCF7A22;2026-07-06;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8304;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+3;2026-07;Fichas jul/2026;JCF7A22;2026-07-07;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;566.0;;3;3452.6;;07jul2026_brucker_jcf7a22 (1).pdf
+4;2026-07;Fichas jul/2026;JCF7A22;2026-07-07;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;51.68;;3;149.36;;07jul2026_brucker_jcf7a22 (1).pdf
+5;2026-07;Fichas jul/2026;JCF7A22;2026-07-07;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8323;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+6;2026-07;Fichas jul/2026;JCF7A22;2026-07-08;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8332;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+7;2026-07;Fichas jul/2026;JCF7A22;2026-07-09;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;326.02;;3;1988.72;;07jul2026_brucker_jcf7a22 (1).pdf
+8;2026-07;Fichas jul/2026;JCF7A22;2026-07-09;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;32.51;;3;93.95;;07jul2026_brucker_jcf7a22 (1).pdf
+9;2026-07;Fichas jul/2026;JCF7A22;2026-07-09;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8339;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+10;2026-07;Fichas jul/2026;JCF7A22;2026-07-11;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8348;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+11;2026-07;Fichas jul/2026;JCF7A22;2026-07-13;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8351;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+12;2026-07;Fichas jul/2026;JCF7A22;2026-07-15;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8359;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+13;2026-07;Fichas jul/2026;JCF7A22;2026-07-16;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;500.02;;3;3125.13;;07jul2026_brucker_jcf7a22 (1).pdf
+14;2026-07;Fichas jul/2026;JCF7A22;2026-07-16;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;52.52;;3;151.78;;07jul2026_brucker_jcf7a22 (1).pdf
+15;2026-07;Fichas jul/2026;JCF7A22;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8368;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+16;2026-07;Fichas jul/2026;JCF7A22;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1416.09;;07jul2026_brucker_jcf7a22 (1).pdf
+17;2026-07;Fichas jul/2026;JCF7A22;2026-07-18;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8398;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+18;2026-07;Fichas jul/2026;JCF7A22;2026-07-21;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8415;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+19;2026-07;Fichas jul/2026;JCF7A22;2026-07-22;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;504.0;;3;3225.6;;07jul2026_brucker_jcf7a22 (1).pdf
+20;2026-07;Fichas jul/2026;JCF7A22;2026-07-22;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;41.17;;3;118.98;;07jul2026_brucker_jcf7a22 (1).pdf
+21;2026-07;Fichas jul/2026;JCF7A22;2026-07-22;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8419;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+22;2026-07;Fichas jul/2026;JCF7A22;2026-07-23;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;SERVICO DE RASTREAMENTO;;DENOX TECNOLOGIA LTDA;NOTA FISCAL DE ENTRADA;3589;;;4;450.86;;07jul2026_brucker_jcf7a22 (1).pdf
+23;2026-07;Fichas jul/2026;JCF7A22;2026-07-24;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8438;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+24;2026-07;Fichas jul/2026;JCF7A22;2026-07-25;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8448;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+25;2026-07;Fichas jul/2026;JCF7A22;2026-07-27;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8453;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+26;2026-07;Fichas jul/2026;JCF7A22;2026-07-28;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;585.0;;3;3744.0;;07jul2026_brucker_jcf7a22 (1).pdf
+27;2026-07;Fichas jul/2026;JCF7A22;2026-07-28;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;48.69;;3;140.71;;07jul2026_brucker_jcf7a22 (1).pdf
+28;2026-07;Fichas jul/2026;JCF7A22;2026-07-28;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8459;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+29;2026-07;Fichas jul/2026;JCF7A22;2026-07-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8466;;;5;0.0;;07jul2026_brucker_jcf7a22 (1).pdf
+30;2026-07;Fichas jul/2026;JCF7A22;2026-08-10;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO;;Lançamento;52;;;5;884.23;;07jul2026_brucker_jcf7a22 (1).pdf
+31;2026-07;Fichas jul/2026;JCF7A27;2026-07-02;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;181.0;;3;1104.1;;07jul2026_brucker_jcf7a27 (1).pdf
+32;2026-07;Fichas jul/2026;JCF7A27;2026-07-02;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;8.6;;3;24.85;;07jul2026_brucker_jcf7a27 (1).pdf
+33;2026-07;Fichas jul/2026;JCF7A27;2026-07-04;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8297;;;5;0.0;;07jul2026_brucker_jcf7a27 (1).pdf
+34;2026-07;Fichas jul/2026;JCF7A27;2026-07-07;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;383.02;;3;2336.42;;07jul2026_brucker_jcf7a27 (1).pdf
+35;2026-07;Fichas jul/2026;JCF7A27;2026-07-07;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;35.02;;3;101.21;;07jul2026_brucker_jcf7a27 (1).pdf
+36;2026-07;Fichas jul/2026;JCF7A27;2026-07-07;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8326;;;5;0.0;;07jul2026_brucker_jcf7a27 (1).pdf
+37;2026-07;Fichas jul/2026;JCF7A27;2026-07-15;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8361;;;5;0.0;;07jul2026_brucker_jcf7a27 (1).pdf
+38;2026-07;Fichas jul/2026;JCF7A27;2026-07-16;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;512.0;;3;3200.0;;07jul2026_brucker_jcf7a27 (1).pdf
+39;2026-07;Fichas jul/2026;JCF7A27;2026-07-16;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;46.33;;3;133.89;;07jul2026_brucker_jcf7a27 (1).pdf
+40;2026-07;Fichas jul/2026;JCF7A27;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1416.09;;07jul2026_brucker_jcf7a27 (1).pdf
+41;2026-07;Fichas jul/2026;JCF7A27;2026-07-18;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;373.01;;3;2331.31;;07jul2026_brucker_jcf7a27 (1).pdf
+42;2026-07;Fichas jul/2026;JCF7A27;2026-07-18;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;41.04;;3;118.61;;07jul2026_brucker_jcf7a27 (1).pdf
+43;2026-07;Fichas jul/2026;JCF7A27;2026-07-18;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8393;;;5;0.0;;07jul2026_brucker_jcf7a27 (1).pdf
+44;2026-07;Fichas jul/2026;JCF7A27;2026-07-21;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;526.0;;3;3287.5;;07jul2026_brucker_jcf7a27 (1).pdf
+45;2026-07;Fichas jul/2026;JCF7A27;2026-07-21;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;53.78;;3;155.42;;07jul2026_brucker_jcf7a27 (1).pdf
+46;2026-07;Fichas jul/2026;JCF7A27;2026-07-22;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8421;;;5;0.0;;07jul2026_brucker_jcf7a27 (1).pdf
+47;2026-07;Fichas jul/2026;JCF7A27;2026-07-23;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;SERVICO DE RASTREAMENTO;;DENOX TECNOLOGIA LTDA;NOTA FISCAL DE ENTRADA;3589;;;4;450.86;;07jul2026_brucker_jcf7a27 (1).pdf
+48;2026-07;Fichas jul/2026;JCF7A27;2026-07-24;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;380.01;;3;2432.06;;07jul2026_brucker_jcf7a27 (1).pdf
+49;2026-07;Fichas jul/2026;JCF7A27;2026-07-24;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;38.22;;3;110.46;;07jul2026_brucker_jcf7a27 (1).pdf
+50;2026-07;Fichas jul/2026;JCF7A27;2026-07-24;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8441;;;5;0.0;;07jul2026_brucker_jcf7a27 (1).pdf
+51;2026-07;Fichas jul/2026;JCF7A27;2026-07-27;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;350.0;;3;2240.0;;07jul2026_brucker_jcf7a27 (1).pdf
+52;2026-07;Fichas jul/2026;JCF7A27;2026-07-27;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;31.05;;3;89.73;;07jul2026_brucker_jcf7a27 (1).pdf
+53;2026-07;Fichas jul/2026;JCF7A27;2026-07-28;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8458;;;5;0.0;;07jul2026_brucker_jcf7a27 (1).pdf
+54;2026-07;Fichas jul/2026;JCF7A27;2026-07-30;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;422.0;;3;2700.8;;07jul2026_brucker_jcf7a27 (1).pdf
+55;2026-07;Fichas jul/2026;JCF7A27;2026-07-30;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;46.01;;3;132.97;;07jul2026_brucker_jcf7a27 (1).pdf
+56;2026-07;Fichas jul/2026;JCF7A27;2026-07-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8465;;;5;0.0;;07jul2026_brucker_jcf7a27 (1).pdf
+57;2026-07;Fichas jul/2026;JCG0H51;2026-07-10;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;337.38;;3;2058.02;;07jul2026_brucker_jcg0h51 (1).pdf
+58;2026-07;Fichas jul/2026;JCG0H51;2026-07-10;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;25.75;;3;74.42;;07jul2026_brucker_jcg0h51 (1).pdf
+59;2026-07;Fichas jul/2026;JCG0H51;2026-07-10;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8343;;;5;0.0;;07jul2026_brucker_jcg0h51 (1).pdf
+60;2026-07;Fichas jul/2026;JCG0H51;2026-07-14;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8356;;;5;0.0;;07jul2026_brucker_jcg0h51 (1).pdf
+61;2026-07;Fichas jul/2026;JCG0H51;2026-07-15;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;427.0;;3;2668.75;;07jul2026_brucker_jcg0h51 (1).pdf
+62;2026-07;Fichas jul/2026;JCG0H51;2026-07-15;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;33.0;;3;95.37;;07jul2026_brucker_jcg0h51 (1).pdf
+63;2026-07;Fichas jul/2026;JCG0H51;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1416.09;;07jul2026_brucker_jcg0h51 (1).pdf
+64;2026-07;Fichas jul/2026;JCG0H51;2026-07-23;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;160.0;;3;1024.0;;07jul2026_brucker_jcg0h51 (1).pdf
+65;2026-07;Fichas jul/2026;JCG0H51;2026-07-23;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;12.4;;3;35.84;;07jul2026_brucker_jcg0h51 (1).pdf
+66;2026-07;Fichas jul/2026;JCG0H51;2026-07-23;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;SERVICO DE RASTREAMENTO;;DENOX TECNOLOGIA LTDA;NOTA FISCAL DE ENTRADA;3589;;;4;450.86;;07jul2026_brucker_jcg0h51 (1).pdf
+67;2026-07;Fichas jul/2026;JCG0H51;2026-07-23;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8430;;;5;0.0;;07jul2026_brucker_jcg0h51 (1).pdf
+68;2026-07;Fichas jul/2026;JCG0H51;2026-07-25;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;422.01;;3;2700.86;;07jul2026_brucker_jcg0h51 (1).pdf
+69;2026-07;Fichas jul/2026;JCG0H51;2026-07-25;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;44.57;;3;128.81;;07jul2026_brucker_jcg0h51 (1).pdf
+70;2026-07;Fichas jul/2026;JCG0H51;2026-07-25;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8445;;;5;0.0;;07jul2026_brucker_jcg0h51 (1).pdf
+71;2026-07;Fichas jul/2026;JCG0H51;2026-07-27;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;106.0;;3;678.4;;07jul2026_brucker_jcg0h51 (1).pdf
+72;2026-07;Fichas jul/2026;JCG0H51;2026-07-27;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;8.48;;3;24.51;;07jul2026_brucker_jcg0h51 (1).pdf
+73;2026-07;Fichas jul/2026;JCG0H51;2026-07-27;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8454;;;5;0.0;;07jul2026_brucker_jcg0h51 (1).pdf
+74;2026-07;Fichas jul/2026;JCG0H51;2026-07-30;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;404.01;;3;2585.66;;07jul2026_brucker_jcg0h51 (1).pdf
+75;2026-07;Fichas jul/2026;JCG0H51;2026-07-30;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;29.9;;3;86.41;;07jul2026_brucker_jcg0h51 (1).pdf
+76;2026-07;Fichas jul/2026;JCG0H51;2026-07-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8464;;;5;0.0;;07jul2026_brucker_jcg0h51 (1).pdf
+77;2026-07;Fichas jul/2026;JCG8H84;2026-07-01;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;204.01;;3;1244.46;;07jul2026_brucker_jcg8h84 (1).pdf
+78;2026-07;Fichas jul/2026;JCG8H84;2026-07-01;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;21.68;;3;62.66;;07jul2026_brucker_jcg8h84 (1).pdf
+79;2026-07;Fichas jul/2026;JCG8H84;2026-07-01;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8239;;;5;0.0;;07jul2026_brucker_jcg8h84 (1).pdf
+80;2026-07;Fichas jul/2026;JCG8H84;2026-07-03;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;396.0;;3;2415.6;;07jul2026_brucker_jcg8h84 (1).pdf
+81;2026-07;Fichas jul/2026;JCG8H84;2026-07-03;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;38.51;;3;111.29;;07jul2026_brucker_jcg8h84 (1).pdf
+82;2026-07;Fichas jul/2026;JCG8H84;2026-07-06;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8302;;;5;0.0;;07jul2026_brucker_jcg8h84 (1).pdf
+83;2026-07;Fichas jul/2026;JCG8H84;2026-07-07;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;25636;;;5;0.0;;07jul2026_brucker_jcg8h84 (1).pdf
+84;2026-07;Fichas jul/2026;JCG8H84;2026-07-08;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;SIM - REDE DE POSTOS;NOTA FISCAL SIMPLIFICADA;0;420.01;;3;2415.05;;07jul2026_brucker_jcg8h84 (1).pdf
+85;2026-07;Fichas jul/2026;JCG8H84;2026-07-08;Débito;Combustível;Combustível;Arla 32;ARLA 32;;SIM - REDE DE POSTOS;NOTA FISCAL SIMPLIFICADA;0;37.23;;3;107.6;;07jul2026_brucker_jcg8h84 (1).pdf
+86;2026-07;Fichas jul/2026;JCG8H84;2026-07-08;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8334;;;5;0.0;;07jul2026_brucker_jcg8h84 (1).pdf
+87;2026-07;Fichas jul/2026;JCG8H84;2026-07-09;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;152.0;;3;927.2;;07jul2026_brucker_jcg8h84 (1).pdf
+88;2026-07;Fichas jul/2026;JCG8H84;2026-07-09;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;17.99;;3;51.99;;07jul2026_brucker_jcg8h84 (1).pdf
+89;2026-07;Fichas jul/2026;JCG8H84;2026-07-10;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8344;;;5;0.0;;07jul2026_brucker_jcg8h84 (1).pdf
+90;2026-07;Fichas jul/2026;JCG8H84;2026-07-11;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;400.0;;3;2440.0;;07jul2026_brucker_jcg8h84 (1).pdf
+91;2026-07;Fichas jul/2026;JCG8H84;2026-07-11;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;37.7;;3;108.95;;07jul2026_brucker_jcg8h84 (1).pdf
+92;2026-07;Fichas jul/2026;JCG8H84;2026-07-16;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;44.45;;3;128.46;;07jul2026_brucker_jcg8h84 (1).pdf
+93;2026-07;Fichas jul/2026;JCG8H84;2026-07-16;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;426.05;;3;2662.81;;07jul2026_brucker_jcg8h84 (1).pdf
+94;2026-07;Fichas jul/2026;JCG8H84;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;07jul2026_brucker_jcg8h84 (1).pdf
+95;2026-07;Fichas jul/2026;JCG8H84;2026-07-17;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8370;;;5;0.0;;07jul2026_brucker_jcg8h84 (1).pdf
+96;2026-07;Fichas jul/2026;JCG8H84;2026-07-19;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;400.01;;3;2500.06;;07jul2026_brucker_jcg8h84 (1).pdf
+97;2026-07;Fichas jul/2026;JCG8H84;2026-07-19;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;40.96;;3;118.37;;07jul2026_brucker_jcg8h84 (1).pdf
+98;2026-07;Fichas jul/2026;JCG8H84;2026-07-20;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8411;;;5;0.0;;07jul2026_brucker_jcg8h84 (1).pdf
+99;2026-07;Fichas jul/2026;JCG8H84;2026-07-22;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;378.0;;3;2419.2;;07jul2026_brucker_jcg8h84 (1).pdf
+100;2026-07;Fichas jul/2026;JCG8H84;2026-07-22;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;36.1;;3;104.33;;07jul2026_brucker_jcg8h84 (1).pdf
+101;2026-07;Fichas jul/2026;JCG8H84;2026-07-22;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8424;;;5;0.0;;07jul2026_brucker_jcg8h84 (1).pdf
+102;2026-07;Fichas jul/2026;JCG8H84;2026-07-23;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;434.0;;3;2777.6;;07jul2026_brucker_jcg8h84 (1).pdf
+103;2026-07;Fichas jul/2026;JCG8H84;2026-07-23;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;43.47;;3;125.63;;07jul2026_brucker_jcg8h84 (1).pdf
+104;2026-07;Fichas jul/2026;JCG8H84;2026-07-24;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8442;;;5;0.0;;07jul2026_brucker_jcg8h84 (1).pdf
+105;2026-07;Fichas jul/2026;JCG8H84;2026-07-27;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8452;;;5;0.0;;07jul2026_brucker_jcg8h84 (1).pdf
+106;2026-07;Fichas jul/2026;JCG8H84;2026-07-28;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;486.0;;3;3110.4;;07jul2026_brucker_jcg8h84 (1).pdf
+107;2026-07;Fichas jul/2026;JCG8H84;2026-07-28;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;46.23;;3;133.6;;07jul2026_brucker_jcg8h84 (1).pdf
+108;2026-07;Fichas jul/2026;JCG8H84;2026-07-28;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8456;;;5;0.0;;07jul2026_brucker_jcg8h84 (1).pdf
+109;2026-07;Fichas jul/2026;JCG8H84;2026-07-30;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;368.0;;3;2355.2;;07jul2026_brucker_jcg8h84 (1).pdf
+110;2026-07;Fichas jul/2026;JCG8H84;2026-07-30;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;40.55;;3;117.19;;07jul2026_brucker_jcg8h84 (1).pdf
+111;2026-07;Fichas jul/2026;JCG8H84;2026-07-31;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8476;;;5;0.0;;07jul2026_brucker_jcg8h84 (1).pdf
+112;2026-07;Fichas jul/2026;JCG8H84;2026-08-10;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO;;Lançamento;52;;;5;428.67;;07jul2026_brucker_jcg8h84 (1).pdf
+113;2026-07;Fichas jul/2026;JCG8H84;2026-08-10;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;CAMERAS;;Lançamento;52;;;5;170.0;;07jul2026_brucker_jcg8h84 (1).pdf
+114;2026-07;Fichas jul/2026;JCG8H84;2026-08-10;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;DEMAIS DÉBITOS;RASTREAMENTO;;Lançamento;52;;;5;401.8;;07jul2026_brucker_jcg8h84 (1).pdf
+115;2026-07;Fichas jul/2026;JCG8H84;2026-08-10;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;07jul2026_brucker_jcg8h84 (1).pdf
+116;2026-07;Fichas jul/2026;SEI0H92;2025-11-10;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;MENSALIDADE CAMERAS EM 36X;;Lançamento;52;;;5;170.0;;07jul2026_brucker_sei0h92 (1).pdf
+117;2026-07;Fichas jul/2026;SEI0H92;2026-02-14;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;07jul2026_brucker_sei0h92 (1).pdf
+118;2026-07;Fichas jul/2026;SEI0H92;2026-06-13;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;IPVA + LICENCIAMENTO EM 8X;;Lançamento;52;;;5;1030.7;;07jul2026_brucker_sei0h92 (1).pdf
+119;2026-07;Fichas jul/2026;SEI0H92;2026-07-02;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8252;;;5;0.0;;07jul2026_brucker_sei0h92 (1).pdf
+120;2026-07;Fichas jul/2026;SEI0H92;2026-07-03;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;473.03;;3;2885.48;;07jul2026_brucker_sei0h92 (1).pdf
+121;2026-07;Fichas jul/2026;SEI0H92;2026-07-03;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;44.01;;3;127.19;;07jul2026_brucker_sei0h92 (1).pdf
+122;2026-07;Fichas jul/2026;SEI0H92;2026-07-03;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8293;;;5;0.0;;07jul2026_brucker_sei0h92 (1).pdf
+123;2026-07;Fichas jul/2026;SEI0H92;2026-07-04;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;226.0;;3;1378.6;;07jul2026_brucker_sei0h92 (1).pdf
+124;2026-07;Fichas jul/2026;SEI0H92;2026-07-04;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;21.9;;3;63.29;;07jul2026_brucker_sei0h92 (1).pdf
+125;2026-07;Fichas jul/2026;SEI0H92;2026-07-07;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8318;;;5;0.0;;07jul2026_brucker_sei0h92 (1).pdf
+126;2026-07;Fichas jul/2026;SEI0H92;2026-07-08;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8333;;;5;0.0;;07jul2026_brucker_sei0h92 (1).pdf
+127;2026-07;Fichas jul/2026;SEI0H92;2026-07-11;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;669.14;;3;4081.75;;07jul2026_brucker_sei0h92 (1).pdf
+128;2026-07;Fichas jul/2026;SEI0H92;2026-07-11;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;70.47;;3;203.66;;07jul2026_brucker_sei0h92 (1).pdf
+129;2026-07;Fichas jul/2026;SEI0H92;2026-07-11;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8346;;;5;0.0;;07jul2026_brucker_sei0h92 (1).pdf
+130;2026-07;Fichas jul/2026;SEI0H92;2026-07-13;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;196.48;;3;1198.53;;07jul2026_brucker_sei0h92 (1).pdf
+131;2026-07;Fichas jul/2026;SEI0H92;2026-07-13;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;24.34;;3;70.34;;07jul2026_brucker_sei0h92 (1).pdf
+132;2026-07;Fichas jul/2026;SEI0H92;2026-07-14;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;23.01;;3;140.36;;07jul2026_brucker_sei0h92 (1).pdf
+133;2026-07;Fichas jul/2026;SEI0H92;2026-07-14;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8355;;;5;0.0;;07jul2026_brucker_sei0h92 (1).pdf
+134;2026-07;Fichas jul/2026;SEI0H92;2026-07-16;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;376.0;;3;2350.0;;07jul2026_brucker_sei0h92 (1).pdf
+135;2026-07;Fichas jul/2026;SEI0H92;2026-07-16;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;43.79;;3;126.55;;07jul2026_brucker_sei0h92 (1).pdf
+136;2026-07;Fichas jul/2026;SEI0H92;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;07jul2026_brucker_sei0h92 (1).pdf
+137;2026-07;Fichas jul/2026;SEI0H92;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8367;;;5;0.0;;07jul2026_brucker_sei0h92 (1).pdf
+138;2026-07;Fichas jul/2026;SEI0H92;2026-07-18;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;380.03;;3;2375.19;;07jul2026_brucker_sei0h92 (1).pdf
+139;2026-07;Fichas jul/2026;SEI0H92;2026-07-18;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;36.8;;3;106.35;;07jul2026_brucker_sei0h92 (1).pdf
+140;2026-07;Fichas jul/2026;SEI0H92;2026-07-21;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8417;;;5;0.0;;07jul2026_brucker_sei0h92 (1).pdf
+141;2026-07;Fichas jul/2026;SEI0H92;2026-07-23;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;445.01;;3;2848.06;;07jul2026_brucker_sei0h92 (1).pdf
+142;2026-07;Fichas jul/2026;SEI0H92;2026-07-23;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;48.94;;3;141.44;;07jul2026_brucker_sei0h92 (1).pdf
+143;2026-07;Fichas jul/2026;SEI0H92;2026-07-23;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8431;;;5;0.0;;07jul2026_brucker_sei0h92 (1).pdf
+144;2026-07;Fichas jul/2026;SEI0H92;2026-07-25;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;370.0;;3;2368.0;;07jul2026_brucker_sei0h92 (1).pdf
+145;2026-07;Fichas jul/2026;SEI0H92;2026-07-25;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;40.92;;3;118.26;;07jul2026_brucker_sei0h92 (1).pdf
+146;2026-07;Fichas jul/2026;SEI0H92;2026-07-25;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8449;;;5;0.0;;07jul2026_brucker_sei0h92 (1).pdf
+147;2026-07;Fichas jul/2026;SEI0H92;2026-07-27;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;220.0;;3;1408.0;;07jul2026_brucker_sei0h92 (1).pdf
+148;2026-07;Fichas jul/2026;SEI0H92;2026-07-27;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;24.83;;3;71.76;;07jul2026_brucker_sei0h92 (1).pdf
+149;2026-07;Fichas jul/2026;SEI0H92;2026-07-27;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8455;;;5;0.0;;07jul2026_brucker_sei0h92 (1).pdf
+150;2026-07;Fichas jul/2026;SEI0H92;2026-07-28;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;94.92;;3;607.49;;07jul2026_brucker_sei0h92 (1).pdf
+151;2026-07;Fichas jul/2026;SEI0H92;2026-07-28;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;15.89;;3;45.92;;07jul2026_brucker_sei0h92 (1).pdf
+152;2026-07;Fichas jul/2026;SEI0H92;2026-07-29;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;29.74;;3;190.34;;07jul2026_brucker_sei0h92 (1).pdf
+153;2026-07;Fichas jul/2026;SEI0H92;2026-07-29;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8460;;;5;0.0;;07jul2026_brucker_sei0h92 (1).pdf
+154;2026-07;Fichas jul/2026;SEI0H92;2026-07-30;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;223.05;;3;1427.52;;07jul2026_brucker_sei0h92 (1).pdf
+155;2026-07;Fichas jul/2026;SEI0H92;2026-07-30;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;19.46;;3;56.24;;07jul2026_brucker_sei0h92 (1).pdf
+156;2026-07;Fichas jul/2026;SEI0H92;2026-07-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8468;;;5;0.0;;07jul2026_brucker_sei0h92 (1).pdf
+157;2026-07;Fichas jul/2026;SEI0H92;2026-07-31;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;95.01;;3;608.06;;07jul2026_brucker_sei0h92 (1).pdf
+158;2026-07;Fichas jul/2026;SEI0H92;2026-07-31;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;11.4;;3;32.95;;07jul2026_brucker_sei0h92 (1).pdf
+159;2026-07;Fichas jul/2026;SEI0H92;2026-08-10;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO;;Lançamento;52;;;5;1854.63;;07jul2026_brucker_sei0h92 (1).pdf
+160;2026-07;Fichas jul/2026;SEI0H92;2026-08-10;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;DEMAIS DÉBITOS;RASTREAMENTO;;Lançamento;52;;;5;317.14;;07jul2026_brucker_sei0h92 (1).pdf
+161;2026-07;Fichas jul/2026;SEI0H92;2026-08-10;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO;;Lançamento;52;;;5;859.67;;07jul2026_brucker_sei0h92 (1).pdf
+162;2026-07;Fichas jul/2026;SEI2B52;2026-02-14;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;07jul2026_brucker_sei2b52 (1).pdf
+163;2026-07;Fichas jul/2026;SEI2B52;2026-06-13;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;IPVA + LICENCIAMENTO EM 8X;;Lançamento;52;;;5;1030.7;;07jul2026_brucker_sei2b52 (1).pdf
+164;2026-07;Fichas jul/2026;SEI2B52;2026-07-02;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;400.01;;3;2440.06;;07jul2026_brucker_sei2b52 (1).pdf
+165;2026-07;Fichas jul/2026;SEI2B52;2026-07-02;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;38.0;;3;109.82;;07jul2026_brucker_sei2b52 (1).pdf
+166;2026-07;Fichas jul/2026;SEI2B52;2026-07-02;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8287;;;5;0.0;;07jul2026_brucker_sei2b52 (1).pdf
+167;2026-07;Fichas jul/2026;SEI2B52;2026-07-03;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;250.0;;3;1525.0;;07jul2026_brucker_sei2b52 (1).pdf
+168;2026-07;Fichas jul/2026;SEI2B52;2026-07-03;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;23.09;;3;66.73;;07jul2026_brucker_sei2b52 (1).pdf
+169;2026-07;Fichas jul/2026;SEI2B52;2026-07-05;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8300;;;5;0.0;;07jul2026_brucker_sei2b52 (1).pdf
+170;2026-07;Fichas jul/2026;SEI2B52;2026-07-06;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;390.0;;3;2379.0;;07jul2026_brucker_sei2b52 (1).pdf
+171;2026-07;Fichas jul/2026;SEI2B52;2026-07-06;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;33.45;;3;96.67;;07jul2026_brucker_sei2b52 (1).pdf
+172;2026-07;Fichas jul/2026;SEI2B52;2026-07-08;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8329;;;5;0.0;;07jul2026_brucker_sei2b52 (1).pdf
+173;2026-07;Fichas jul/2026;SEI2B52;2026-07-10;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;390.05;;3;2379.3;;07jul2026_brucker_sei2b52 (1).pdf
+174;2026-07;Fichas jul/2026;SEI2B52;2026-07-10;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;40.51;;3;117.07;;07jul2026_brucker_sei2b52 (1).pdf
+175;2026-07;Fichas jul/2026;SEI2B52;2026-07-10;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8342;;;5;0.0;;07jul2026_brucker_sei2b52 (1).pdf
+176;2026-07;Fichas jul/2026;SEI2B52;2026-07-11;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8349;;;5;0.0;;07jul2026_brucker_sei2b52 (1).pdf
+177;2026-07;Fichas jul/2026;SEI2B52;2026-07-13;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;311.03;;3;1897.29;;07jul2026_brucker_sei2b52 (1).pdf
+178;2026-07;Fichas jul/2026;SEI2B52;2026-07-13;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;26.14;;3;75.54;;07jul2026_brucker_sei2b52 (1).pdf
+179;2026-07;Fichas jul/2026;SEI2B52;2026-07-14;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8353;;;5;0.0;;07jul2026_brucker_sei2b52 (1).pdf
+180;2026-07;Fichas jul/2026;SEI2B52;2026-07-15;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;332.0;;3;2075.0;;07jul2026_brucker_sei2b52 (1).pdf
+181;2026-07;Fichas jul/2026;SEI2B52;2026-07-15;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;37.83;;3;109.33;;07jul2026_brucker_sei2b52 (1).pdf
+182;2026-07;Fichas jul/2026;SEI2B52;2026-07-16;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO EM 3X;;Lançamento;52;;;5;1773.32;;07jul2026_brucker_sei2b52 (1).pdf
+183;2026-07;Fichas jul/2026;SEI2B52;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;07jul2026_brucker_sei2b52 (1).pdf
+184;2026-07;Fichas jul/2026;SEI2B52;2026-07-17;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8383;;;5;0.0;;07jul2026_brucker_sei2b52 (1).pdf
+185;2026-07;Fichas jul/2026;SEI2B52;2026-07-22;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;380.0;;3;2432.0;;07jul2026_brucker_sei2b52 (1).pdf
+186;2026-07;Fichas jul/2026;SEI2B52;2026-07-22;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;32.17;;3;92.97;;07jul2026_brucker_sei2b52 (1).pdf
+187;2026-07;Fichas jul/2026;SEI2B52;2026-07-23;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8429;;;5;0.0;;07jul2026_brucker_sei2b52 (1).pdf
+188;2026-07;Fichas jul/2026;SEI2B52;2026-07-24;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;243.0;;3;1555.2;;07jul2026_brucker_sei2b52 (1).pdf
+189;2026-07;Fichas jul/2026;SEI2B52;2026-07-24;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;27.49;;3;79.45;;07jul2026_brucker_sei2b52 (1).pdf
+190;2026-07;Fichas jul/2026;SEI2B52;2026-07-24;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8444;;;5;0.0;;07jul2026_brucker_sei2b52 (1).pdf
+191;2026-07;Fichas jul/2026;SEI2B52;2026-07-28;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;350.0;;3;2240.0;;07jul2026_brucker_sei2b52 (1).pdf
+192;2026-07;Fichas jul/2026;SEI2B52;2026-07-28;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;36.34;;3;105.02;;07jul2026_brucker_sei2b52 (1).pdf
+193;2026-07;Fichas jul/2026;SEI2B52;2026-07-28;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8457;;;5;0.0;;07jul2026_brucker_sei2b52 (1).pdf
+194;2026-07;Fichas jul/2026;SEI2B52;2026-07-29;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;135.0;;3;864.0;;07jul2026_brucker_sei2b52 (1).pdf
+195;2026-07;Fichas jul/2026;SEI2B52;2026-07-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8463;;;5;0.0;;07jul2026_brucker_sei2b52 (1).pdf
+196;2026-07;Fichas jul/2026;SEI2B52;2026-07-31;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;54.65;;3;157.94;;07jul2026_brucker_sei2b52 (1).pdf
+197;2026-07;Fichas jul/2026;SEI2B52;2026-07-31;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;404.01;;3;2585.66;;07jul2026_brucker_sei2b52 (1).pdf
+198;2026-07;Fichas jul/2026;SEI2B52;2026-08-10;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO;;Lançamento;52;;;5;859.67;;07jul2026_brucker_sei2b52 (1).pdf
+199;2026-07;Fichas jul/2026;SEI2B55;2025-11-13;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;MENSALIDADE CAMERAS EM 36X;;Lançamento;52;;;5;170.0;;07jul2026_brucker_sei2b55 (1).pdf
+200;2026-07;Fichas jul/2026;SEI2B55;2026-03-11;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;07jul2026_brucker_sei2b55 (1).pdf
+201;2026-07;Fichas jul/2026;SEI2B55;2026-06-13;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;IPVA + LICENCIAMENTO EM 8X;;Lançamento;52;;;5;1030.7;;07jul2026_brucker_sei2b55 (1).pdf
+202;2026-07;Fichas jul/2026;SEI2B55;2026-07-01;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;441.0;;3;2734.2;;07jul2026_brucker_sei2b55 (1).pdf
+203;2026-07;Fichas jul/2026;SEI2B55;2026-07-01;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;44.33;;3;128.11;;07jul2026_brucker_sei2b55 (1).pdf
+204;2026-07;Fichas jul/2026;SEI2B55;2026-07-01;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8237;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+205;2026-07;Fichas jul/2026;SEI2B55;2026-07-03;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;400.0;;3;2440.0;;07jul2026_brucker_sei2b55 (1).pdf
+206;2026-07;Fichas jul/2026;SEI2B55;2026-07-03;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;41.06;;3;118.66;;07jul2026_brucker_sei2b55 (1).pdf
+207;2026-07;Fichas jul/2026;SEI2B55;2026-07-03;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8291;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+208;2026-07;Fichas jul/2026;SEI2B55;2026-07-06;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;383.0;;3;2336.3;;07jul2026_brucker_sei2b55 (1).pdf
+209;2026-07;Fichas jul/2026;SEI2B55;2026-07-06;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;38.83;;3;112.22;;07jul2026_brucker_sei2b55 (1).pdf
+210;2026-07;Fichas jul/2026;SEI2B55;2026-07-06;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;SERVICO DE RASTREAMENTO;;SASCAR;NOTA FISCAL DE ENTRADA;944848;;;4;401.26;;07jul2026_brucker_sei2b55 (1).pdf
+211;2026-07;Fichas jul/2026;SEI2B55;2026-07-06;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8308;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+212;2026-07;Fichas jul/2026;SEI2B55;2026-07-07;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;25635;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+213;2026-07;Fichas jul/2026;SEI2B55;2026-07-08;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;SIM REDE DE POSTOS LTDA - TIO HUGO;NOTA FISCAL SIMPLIFICADA;0;418.51;;3;2406.43;;07jul2026_brucker_sei2b55 (1).pdf
+214;2026-07;Fichas jul/2026;SEI2B55;2026-07-08;Débito;Combustível;Combustível;Arla 32;ARLA 32;;SIM REDE DE POSTOS LTDA - TIO HUGO;NOTA FISCAL SIMPLIFICADA;0;36.51;;3;105.49;;07jul2026_brucker_sei2b55 (1).pdf
+215;2026-07;Fichas jul/2026;SEI2B55;2026-07-09;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;223.0;;3;1360.3;;07jul2026_brucker_sei2b55 (1).pdf
+216;2026-07;Fichas jul/2026;SEI2B55;2026-07-09;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;20.37;;3;58.87;;07jul2026_brucker_sei2b55 (1).pdf
+217;2026-07;Fichas jul/2026;SEI2B55;2026-07-10;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8340;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+218;2026-07;Fichas jul/2026;SEI2B55;2026-07-11;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;438.05;;3;2672.11;;07jul2026_brucker_sei2b55 (1).pdf
+219;2026-07;Fichas jul/2026;SEI2B55;2026-07-11;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;44.35;;3;128.17;;07jul2026_brucker_sei2b55 (1).pdf
+220;2026-07;Fichas jul/2026;SEI2B55;2026-07-11;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8347;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+221;2026-07;Fichas jul/2026;SEI2B55;2026-07-13;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;390.94;;3;2384.73;;07jul2026_brucker_sei2b55 (1).pdf
+222;2026-07;Fichas jul/2026;SEI2B55;2026-07-13;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;36.84;;3;106.47;;07jul2026_brucker_sei2b55 (1).pdf
+223;2026-07;Fichas jul/2026;SEI2B55;2026-07-13;Débito;Manutenção/IPVA/Seguro;Manutenção;Lavagem;SERVIÇO LAVAGEM EXTERNA;;RENOVAR CAMINHOES;NOTA FISCAL DE ENTRADA;2560;;;4;700.0;;07jul2026_brucker_sei2b55 (1).pdf
+224;2026-07;Fichas jul/2026;SEI2B55;2026-07-13;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8352;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+225;2026-07;Fichas jul/2026;SEI2B55;2026-07-15;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;393.28;;3;2458.0;;07jul2026_brucker_sei2b55 (1).pdf
+226;2026-07;Fichas jul/2026;SEI2B55;2026-07-15;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;44.93;;3;129.85;;07jul2026_brucker_sei2b55 (1).pdf
+227;2026-07;Fichas jul/2026;SEI2B55;2026-07-15;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8358;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+228;2026-07;Fichas jul/2026;SEI2B55;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;07jul2026_brucker_sei2b55 (1).pdf
+229;2026-07;Fichas jul/2026;SEI2B55;2026-07-16;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO EM 3X;;Lançamento;52;;;5;282.67;;07jul2026_brucker_sei2b55 (1).pdf
+230;2026-07;Fichas jul/2026;SEI2B55;2026-07-17;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8392;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+231;2026-07;Fichas jul/2026;SEI2B55;2026-07-18;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;458.0;;3;2862.5;;07jul2026_brucker_sei2b55 (1).pdf
+232;2026-07;Fichas jul/2026;SEI2B55;2026-07-18;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;47.64;;3;137.68;;07jul2026_brucker_sei2b55 (1).pdf
+233;2026-07;Fichas jul/2026;SEI2B55;2026-07-18;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;252.02;;3;1575.13;;07jul2026_brucker_sei2b55 (1).pdf
+234;2026-07;Fichas jul/2026;SEI2B55;2026-07-18;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8402;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+235;2026-07;Fichas jul/2026;SEI2B55;2026-07-19;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;29.04;;3;83.93;;07jul2026_brucker_sei2b55 (1).pdf
+236;2026-07;Fichas jul/2026;SEI2B55;2026-07-21;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;436.0;;3;2725.0;;07jul2026_brucker_sei2b55 (1).pdf
+237;2026-07;Fichas jul/2026;SEI2B55;2026-07-21;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;43.48;;3;125.66;;07jul2026_brucker_sei2b55 (1).pdf
+238;2026-07;Fichas jul/2026;SEI2B55;2026-07-21;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8418;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+239;2026-07;Fichas jul/2026;SEI2B55;2026-07-23;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;15.2;;3;43.93;;07jul2026_brucker_sei2b55 (1).pdf
+240;2026-07;Fichas jul/2026;SEI2B55;2026-07-23;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;135.03;;3;865.85;;07jul2026_brucker_sei2b55 (1).pdf
+241;2026-07;Fichas jul/2026;SEI2B55;2026-07-23;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8435;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+242;2026-07;Fichas jul/2026;SEI2B55;2026-07-25;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;488.63;;3;3127.23;;07jul2026_brucker_sei2b55 (1).pdf
+243;2026-07;Fichas jul/2026;SEI2B55;2026-07-25;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;52.39;;3;151.41;;07jul2026_brucker_sei2b55 (1).pdf
+244;2026-07;Fichas jul/2026;SEI2B55;2026-07-25;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8447;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+245;2026-07;Fichas jul/2026;SEI2B55;2026-07-27;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;25893;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+246;2026-07;Fichas jul/2026;SEI2B55;2026-07-28;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;BUFFON 32;NOTA FISCAL SIMPLIFICADA;0;385.0;;3;2182.95;;07jul2026_brucker_sei2b55 (1).pdf
+247;2026-07;Fichas jul/2026;SEI2B55;2026-07-28;Débito;Combustível;Combustível;Arla 32;ARLA 32;;BUFFON 32;NOTA FISCAL SIMPLIFICADA;0;38.11;;3;106.33;;07jul2026_brucker_sei2b55 (1).pdf
+248;2026-07;Fichas jul/2026;SEI2B55;2026-07-29;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;201.01;;3;1286.46;;07jul2026_brucker_sei2b55 (1).pdf
+249;2026-07;Fichas jul/2026;SEI2B55;2026-07-29;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;20.33;;3;58.75;;07jul2026_brucker_sei2b55 (1).pdf
+250;2026-07;Fichas jul/2026;SEI2B55;2026-07-29;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8461;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+251;2026-07;Fichas jul/2026;SEI2B55;2026-07-31;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;382.0;;3;2444.8;;07jul2026_brucker_sei2b55 (1).pdf
+252;2026-07;Fichas jul/2026;SEI2B55;2026-07-31;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;41.0;;3;118.49;;07jul2026_brucker_sei2b55 (1).pdf
+253;2026-07;Fichas jul/2026;SEI2B55;2026-07-31;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8485;;;5;0.0;;07jul2026_brucker_sei2b55 (1).pdf
+254;2026-07;Fichas jul/2026;SEI2B55;2026-08-10;Débito;Manutenção/IPVA/Seguro;Multas;Multa;DEMAIS DÉBITOS;MULTAS;;Lançamento;52;;;5;359.2;;07jul2026_brucker_sei2b55 (1).pdf
+255;2026-07;Fichas jul/2026;SEI2B55;2026-08-10;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO EM 3X;;Lançamento;52;;;5;893.0;;07jul2026_brucker_sei2b55 (1).pdf
+256;2026-07;Fichas jul/2026;SEI2B56;2025-11-10;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;MENSALIDADE CAMERAS EM 36X;;Lançamento;52;;;5;170.0;;07jul2026_brucker_sei2b56.pdf
+257;2026-07;Fichas jul/2026;SEI2B56;2026-03-11;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;07jul2026_brucker_sei2b56.pdf
+258;2026-07;Fichas jul/2026;SEI2B56;2026-06-13;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;IPVA + LICENCIAMENTO EM 8X;;Lançamento;52;;;5;1030.7;;07jul2026_brucker_sei2b56.pdf
+259;2026-07;Fichas jul/2026;SEI2B56;2026-06-13;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO EM 3X;;Lançamento;52;;;5;2524.42;;07jul2026_brucker_sei2b56.pdf
+260;2026-07;Fichas jul/2026;SEI2B56;2026-07-02;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8290;;;5;0.0;;07jul2026_brucker_sei2b56.pdf
+261;2026-07;Fichas jul/2026;SEI2B56;2026-07-03;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;500.0;;3;3050.0;;07jul2026_brucker_sei2b56.pdf
+262;2026-07;Fichas jul/2026;SEI2B56;2026-07-03;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;48.61;;3;140.48;;07jul2026_brucker_sei2b56.pdf
+263;2026-07;Fichas jul/2026;SEI2B56;2026-07-04;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;410.0;;3;2501.0;;07jul2026_brucker_sei2b56.pdf
+264;2026-07;Fichas jul/2026;SEI2B56;2026-07-04;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;41.81;;3;120.83;;07jul2026_brucker_sei2b56.pdf
+265;2026-07;Fichas jul/2026;SEI2B56;2026-07-04;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8299;;;5;0.0;;07jul2026_brucker_sei2b56.pdf
+266;2026-07;Fichas jul/2026;SEI2B56;2026-07-06;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;410.0;;3;2501.0;;07jul2026_brucker_sei2b56.pdf
+267;2026-07;Fichas jul/2026;SEI2B56;2026-07-06;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;38.05;;3;109.96;;07jul2026_brucker_sei2b56.pdf
+268;2026-07;Fichas jul/2026;SEI2B56;2026-07-06;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;SERVICO DE RASTREAMENTO;;SASCAR;NOTA FISCAL DE ENTRADA;944848;;;4;392.49;;07jul2026_brucker_sei2b56.pdf
+269;2026-07;Fichas jul/2026;SEI2B56;2026-07-06;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8312;;;5;0.0;;07jul2026_brucker_sei2b56.pdf
+270;2026-07;Fichas jul/2026;SEI2B56;2026-07-07;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;380.0;;3;2318.0;;07jul2026_brucker_sei2b56.pdf
+271;2026-07;Fichas jul/2026;SEI2B56;2026-07-07;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;36.48;;3;105.43;;07jul2026_brucker_sei2b56.pdf
+272;2026-07;Fichas jul/2026;SEI2B56;2026-07-07;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8327;;;5;0.0;;07jul2026_brucker_sei2b56.pdf
+273;2026-07;Fichas jul/2026;SEI2B56;2026-07-09;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;257.63;;3;1571.54;;07jul2026_brucker_sei2b56.pdf
+274;2026-07;Fichas jul/2026;SEI2B56;2026-07-09;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;39.16;;3;113.17;;07jul2026_brucker_sei2b56.pdf
+275;2026-07;Fichas jul/2026;SEI2B56;2026-07-09;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8338;;;5;0.0;;07jul2026_brucker_sei2b56.pdf
+276;2026-07;Fichas jul/2026;SEI2B56;2026-07-10;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8345;;;5;0.0;;07jul2026_brucker_sei2b56.pdf
+277;2026-07;Fichas jul/2026;SEI2B56;2026-07-11;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;451.0;;3;2751.1;;07jul2026_brucker_sei2b56.pdf
+278;2026-07;Fichas jul/2026;SEI2B56;2026-07-11;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;37.28;;3;107.74;;07jul2026_brucker_sei2b56.pdf
+279;2026-07;Fichas jul/2026;SEI2B56;2026-07-14;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;343.0;;3;2092.3;;07jul2026_brucker_sei2b56.pdf
+280;2026-07;Fichas jul/2026;SEI2B56;2026-07-14;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;39.82;;3;115.08;;07jul2026_brucker_sei2b56.pdf
+281;2026-07;Fichas jul/2026;SEI2B56;2026-07-14;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8357;;;5;0.0;;07jul2026_brucker_sei2b56.pdf
+282;2026-07;Fichas jul/2026;SEI2B56;2026-07-16;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;358.0;;3;2237.5;;07jul2026_brucker_sei2b56.pdf
+283;2026-07;Fichas jul/2026;SEI2B56;2026-07-16;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;39.61;;3;114.47;;07jul2026_brucker_sei2b56.pdf
+284;2026-07;Fichas jul/2026;SEI2B56;2026-07-16;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO EM 3X;;Lançamento;52;;;5;2675.94;;07jul2026_brucker_sei2b56.pdf
+285;2026-07;Fichas jul/2026;SEI2B56;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8363;;;5;0.0;;07jul2026_brucker_sei2b56.pdf
+286;2026-07;Fichas jul/2026;SEI2B56;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;07jul2026_brucker_sei2b56.pdf
+287;2026-07;Fichas jul/2026;SEI2B56;2026-07-17;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;360.0;;3;2250.0;;07jul2026_brucker_sei2b56.pdf
+288;2026-07;Fichas jul/2026;SEI2B56;2026-07-17;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;35.34;;3;102.13;;07jul2026_brucker_sei2b56.pdf
+289;2026-07;Fichas jul/2026;SEI2B56;2026-07-18;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8395;;;5;0.0;;07jul2026_brucker_sei2b56.pdf
+290;2026-07;Fichas jul/2026;SEI2B56;2026-07-21;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;345.0;;3;2208.0;;07jul2026_brucker_sei2b56.pdf
+291;2026-07;Fichas jul/2026;SEI2B56;2026-07-21;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;34.11;;3;98.58;;07jul2026_brucker_sei2b56.pdf
+292;2026-07;Fichas jul/2026;SEI2B56;2026-07-21;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8414;;;5;0.0;;07jul2026_brucker_sei2b56.pdf
+293;2026-07;Fichas jul/2026;SEI2B56;2026-07-22;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8422;;;5;0.0;;07jul2026_brucker_sei2b56.pdf
+294;2026-07;Fichas jul/2026;SEI2B56;2026-07-25;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;386.02;;3;2470.53;;07jul2026_brucker_sei2b56.pdf
+295;2026-07;Fichas jul/2026;SEI2B56;2026-07-25;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;36.94;;3;106.76;;07jul2026_brucker_sei2b56.pdf
+296;2026-07;Fichas jul/2026;SEI2B56;2026-07-27;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8451;;;5;0.0;;07jul2026_brucker_sei2b56.pdf
+297;2026-07;Fichas jul/2026;SEI2B56;2026-07-29;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;534.01;;3;3417.66;;07jul2026_brucker_sei2b56.pdf
+298;2026-07;Fichas jul/2026;SEI2B56;2026-07-29;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;51.73;;3;149.5;;07jul2026_brucker_sei2b56.pdf
+299;2026-07;Fichas jul/2026;SEI2B56;2026-07-29;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8462;;;5;0.0;;07jul2026_brucker_sei2b56.pdf
+300;2026-07;Fichas jul/2026;SEI2B56;2026-07-31;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;383.0;;3;2451.2;;07jul2026_brucker_sei2b56.pdf
+301;2026-07;Fichas jul/2026;SEI2B56;2026-07-31;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;41.49;;3;119.91;;07jul2026_brucker_sei2b56.pdf
+302;2026-07;Fichas jul/2026;SEI2B56;2026-08-10;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO;;Lançamento;52;;;5;282.75;;07jul2026_brucker_sei2b56.pdf
+303;2026-08;Fichas ago/2026;JCF7A22;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1416.09;;08ago2026_brucker_jcf7a22.pdf
+304;2026-08;Fichas ago/2026;JCF7A22;2026-08-01;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8491;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+305;2026-08;Fichas ago/2026;JCF7A22;2026-08-03;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;425.01;;3;2720.06;;08ago2026_brucker_jcf7a22.pdf
+306;2026-08;Fichas ago/2026;JCF7A22;2026-08-03;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;38.65;;3;111.7;;08ago2026_brucker_jcf7a22.pdf
+307;2026-08;Fichas ago/2026;JCF7A22;2026-08-04;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8513;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+308;2026-08;Fichas ago/2026;JCF7A22;2026-08-05;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8522;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+309;2026-08;Fichas ago/2026;JCF7A22;2026-08-06;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;240.0;;3;1536.0;;08ago2026_brucker_jcf7a22.pdf
+310;2026-08;Fichas ago/2026;JCF7A22;2026-08-06;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;25.17;;3;72.74;;08ago2026_brucker_jcf7a22.pdf
+311;2026-08;Fichas ago/2026;JCF7A22;2026-08-06;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8535;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+312;2026-08;Fichas ago/2026;JCF7A22;2026-08-08;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8544;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+313;2026-08;Fichas ago/2026;JCF7A22;2026-08-10;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8548;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+314;2026-08;Fichas ago/2026;JCF7A22;2026-08-11;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;606.0;;3;3848.1;;08ago2026_brucker_jcf7a22.pdf
+315;2026-08;Fichas ago/2026;JCF7A22;2026-08-11;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;56.53;;3;163.37;;08ago2026_brucker_jcf7a22.pdf
+316;2026-08;Fichas ago/2026;JCF7A22;2026-08-11;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8556;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+317;2026-08;Fichas ago/2026;JCF7A22;2026-08-12;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8563;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+318;2026-08;Fichas ago/2026;JCF7A22;2026-08-13;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8568;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+319;2026-08;Fichas ago/2026;JCF7A22;2026-08-14;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8573;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+320;2026-08;Fichas ago/2026;JCF7A22;2026-08-15;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8580;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+321;2026-08;Fichas ago/2026;JCF7A22;2026-08-16;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;546.02;;3;3467.23;;08ago2026_brucker_jcf7a22.pdf
+322;2026-08;Fichas ago/2026;JCF7A22;2026-08-16;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;51.68;;3;149.36;;08ago2026_brucker_jcf7a22.pdf
+323;2026-08;Fichas ago/2026;JCF7A22;2026-08-17;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8587;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+324;2026-08;Fichas ago/2026;JCF7A22;2026-08-18;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8599;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+325;2026-08;Fichas ago/2026;JCF7A22;2026-08-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8603;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+326;2026-08;Fichas ago/2026;JCF7A22;2026-08-20;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;30.33;;3;87.65;;08ago2026_brucker_jcf7a22.pdf
+327;2026-08;Fichas ago/2026;JCF7A22;2026-08-20;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;339.62;;3;2156.59;;08ago2026_brucker_jcf7a22.pdf
+328;2026-08;Fichas ago/2026;JCF7A22;2026-08-20;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8614;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+329;2026-08;Fichas ago/2026;JCF7A22;2026-08-21;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;SERVICO DE RASTREAMENTO;;DENOX TECNOLOGIA LTDA;NOTA FISCAL DE ENTRADA;4219;;;4;450.86;;08ago2026_brucker_jcf7a22.pdf
+330;2026-08;Fichas ago/2026;JCF7A22;2026-08-22;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;505.0;;3;3206.75;;08ago2026_brucker_jcf7a22.pdf
+331;2026-08;Fichas ago/2026;JCF7A22;2026-08-22;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;48.94;;3;141.44;;08ago2026_brucker_jcf7a22.pdf
+332;2026-08;Fichas ago/2026;JCF7A22;2026-08-24;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8637;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+333;2026-08;Fichas ago/2026;JCF7A22;2026-08-26;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8649;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+334;2026-08;Fichas ago/2026;JCF7A22;2026-08-29;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8668;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+335;2026-08;Fichas ago/2026;JCF7A22;2026-08-31;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;48.8;;3;141.03;;08ago2026_brucker_jcf7a22.pdf
+336;2026-08;Fichas ago/2026;JCF7A22;2026-08-31;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;500.0;;3;3175.0;;08ago2026_brucker_jcf7a22.pdf
+337;2026-08;Fichas ago/2026;JCF7A22;2026-08-31;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8685;;;5;0.0;;08ago2026_brucker_jcf7a22.pdf
+338;2026-08;Fichas ago/2026;JCF7A22;2026-09-09;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO EM 3X;;Lançamento;52;;;5;884.23;;08ago2026_brucker_jcf7a22.pdf
+339;2026-08;Fichas ago/2026;JCF7A22;2026-09-11;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTACAO;;Lançamento;52;;;5;10000.0;;08ago2026_brucker_jcf7a22.pdf
+340;2026-08;Fichas ago/2026;JCF7A27;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1416.09;;08ago2026_brucker_jcf7a27.pdf
+341;2026-08;Fichas ago/2026;JCF7A27;2026-08-03;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;382.0;;3;2444.8;;08ago2026_brucker_jcf7a27.pdf
+342;2026-08;Fichas ago/2026;JCF7A27;2026-08-03;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;35.87;;3;103.66;;08ago2026_brucker_jcf7a27.pdf
+343;2026-08;Fichas ago/2026;JCF7A27;2026-08-04;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8516;;;5;0.0;;08ago2026_brucker_jcf7a27.pdf
+344;2026-08;Fichas ago/2026;JCF7A27;2026-08-05;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;374.0;;3;2393.6;;08ago2026_brucker_jcf7a27.pdf
+345;2026-08;Fichas ago/2026;JCF7A27;2026-08-05;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;39.64;;3;114.56;;08ago2026_brucker_jcf7a27.pdf
+346;2026-08;Fichas ago/2026;JCF7A27;2026-08-07;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;26027;;;5;0.0;;08ago2026_brucker_jcf7a27.pdf
+347;2026-08;Fichas ago/2026;JCF7A27;2026-08-08;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;500.0;;3;3175.0;;08ago2026_brucker_jcf7a27.pdf
+348;2026-08;Fichas ago/2026;JCF7A27;2026-08-08;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;46.74;;3;135.08;;08ago2026_brucker_jcf7a27.pdf
+349;2026-08;Fichas ago/2026;JCF7A27;2026-08-10;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8551;;;5;0.0;;08ago2026_brucker_jcf7a27.pdf
+350;2026-08;Fichas ago/2026;JCF7A27;2026-08-12;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;390.03;;3;2476.69;;08ago2026_brucker_jcf7a27.pdf
+351;2026-08;Fichas ago/2026;JCF7A27;2026-08-12;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;38.77;;3;112.05;;08ago2026_brucker_jcf7a27.pdf
+352;2026-08;Fichas ago/2026;JCF7A27;2026-08-13;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8570;;;5;0.0;;08ago2026_brucker_jcf7a27.pdf
+353;2026-08;Fichas ago/2026;JCF7A27;2026-08-15;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8581;;;5;0.0;;08ago2026_brucker_jcf7a27.pdf
+354;2026-08;Fichas ago/2026;JCF7A27;2026-08-16;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;351.0;;3;2228.85;;08ago2026_brucker_jcf7a27.pdf
+355;2026-08;Fichas ago/2026;JCF7A27;2026-08-16;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;37.21;;3;107.54;;08ago2026_brucker_jcf7a27.pdf
+356;2026-08;Fichas ago/2026;JCF7A27;2026-08-17;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8591;;;5;0.0;;08ago2026_brucker_jcf7a27.pdf
+357;2026-08;Fichas ago/2026;JCF7A27;2026-08-19;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;245.01;;3;1555.81;;08ago2026_brucker_jcf7a27.pdf
+358;2026-08;Fichas ago/2026;JCF7A27;2026-08-19;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;21.12;;3;61.04;;08ago2026_brucker_jcf7a27.pdf
+359;2026-08;Fichas ago/2026;JCF7A27;2026-08-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8606;;;5;0.0;;08ago2026_brucker_jcf7a27.pdf
+360;2026-08;Fichas ago/2026;JCF7A27;2026-08-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8604;;;5;0.0;;08ago2026_brucker_jcf7a27.pdf
+361;2026-08;Fichas ago/2026;JCF7A27;2026-08-21;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;32.75;;3;94.65;;08ago2026_brucker_jcf7a27.pdf
+362;2026-08;Fichas ago/2026;JCF7A27;2026-08-21;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;351.01;;3;2228.91;;08ago2026_brucker_jcf7a27.pdf
+363;2026-08;Fichas ago/2026;JCF7A27;2026-08-21;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;SERVICO DE RASTREAMENTO;;DENOX TECNOLOGIA LTDA;NOTA FISCAL DE ENTRADA;4219;;;4;450.86;;08ago2026_brucker_jcf7a27.pdf
+364;2026-08;Fichas ago/2026;JCF7A27;2026-08-22;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8630;;;5;0.0;;08ago2026_brucker_jcf7a27.pdf
+365;2026-08;Fichas ago/2026;JCF7A27;2026-08-24;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;385.0;;3;2444.75;;08ago2026_brucker_jcf7a27.pdf
+366;2026-08;Fichas ago/2026;JCF7A27;2026-08-24;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;33.49;;3;96.79;;08ago2026_brucker_jcf7a27.pdf
+367;2026-08;Fichas ago/2026;JCF7A27;2026-08-25;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8645;;;5;0.0;;08ago2026_brucker_jcf7a27.pdf
+368;2026-08;Fichas ago/2026;JCF7A27;2026-08-27;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;41.03;;3;118.58;;08ago2026_brucker_jcf7a27.pdf
+369;2026-08;Fichas ago/2026;JCF7A27;2026-08-27;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;395.0;;3;2508.25;;08ago2026_brucker_jcf7a27.pdf
+370;2026-08;Fichas ago/2026;JCF7A27;2026-08-27;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8651;;;5;0.0;;08ago2026_brucker_jcf7a27.pdf
+371;2026-08;Fichas ago/2026;JCF7A27;2026-08-29;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;37.82;;3;109.3;;08ago2026_brucker_jcf7a27.pdf
+372;2026-08;Fichas ago/2026;JCF7A27;2026-08-29;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;393.02;;3;2495.68;;08ago2026_brucker_jcf7a27.pdf
+373;2026-08;Fichas ago/2026;JCF7A27;2026-08-29;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8666;;;5;0.0;;08ago2026_brucker_jcf7a27.pdf
+374;2026-08;Fichas ago/2026;JCF7A27;2026-08-31;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;380.0;;3;2413.0;;08ago2026_brucker_jcf7a27.pdf
+375;2026-08;Fichas ago/2026;JCF7A27;2026-08-31;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;34.99;;3;101.12;;08ago2026_brucker_jcf7a27.pdf
+376;2026-08;Fichas ago/2026;JCF7A27;2026-09-09;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;Manutenção OLEO DO MOTOR NORDICA VEICULOS S/A;;Lançamento;52;;;5;899.67;;08ago2026_brucker_jcf7a27.pdf
+377;2026-08;Fichas ago/2026;JCF7A27;2026-09-11;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTACAO;;Lançamento;52;;;5;10000.0;;08ago2026_brucker_jcf7a27.pdf
+378;2026-08;Fichas ago/2026;JCG0H51;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1416.09;;08ago2026_brucker_jcg0h51.pdf
+379;2026-08;Fichas ago/2026;JCG0H51;2026-08-01;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;440.0;;3;2816.0;;08ago2026_brucker_jcg0h51.pdf
+380;2026-08;Fichas ago/2026;JCG0H51;2026-08-01;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;38.09;;3;110.08;;08ago2026_brucker_jcg0h51.pdf
+381;2026-08;Fichas ago/2026;JCG0H51;2026-08-01;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8490;;;5;0.0;;08ago2026_brucker_jcg0h51.pdf
+382;2026-08;Fichas ago/2026;JCG0H51;2026-08-04;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;385.0;;3;2464.0;;08ago2026_brucker_jcg0h51.pdf
+383;2026-08;Fichas ago/2026;JCG0H51;2026-08-04;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;33.02;;3;95.43;;08ago2026_brucker_jcg0h51.pdf
+384;2026-08;Fichas ago/2026;JCG0H51;2026-08-04;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8515;;;5;0.0;;08ago2026_brucker_jcg0h51.pdf
+385;2026-08;Fichas ago/2026;JCG0H51;2026-08-06;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;520.0;;3;3328.0;;08ago2026_brucker_jcg0h51.pdf
+386;2026-08;Fichas ago/2026;JCG0H51;2026-08-06;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;44.52;;3;128.66;;08ago2026_brucker_jcg0h51.pdf
+387;2026-08;Fichas ago/2026;JCG0H51;2026-08-06;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8536;;;5;0.0;;08ago2026_brucker_jcg0h51.pdf
+388;2026-08;Fichas ago/2026;JCG0H51;2026-08-08;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8545;;;5;0.0;;08ago2026_brucker_jcg0h51.pdf
+389;2026-08;Fichas ago/2026;JCG0H51;2026-08-11;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;420.0;;3;2667.0;;08ago2026_brucker_jcg0h51.pdf
+390;2026-08;Fichas ago/2026;JCG0H51;2026-08-11;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;26.76;;3;77.34;;08ago2026_brucker_jcg0h51.pdf
+391;2026-08;Fichas ago/2026;JCG0H51;2026-08-11;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8558;;;5;0.0;;08ago2026_brucker_jcg0h51.pdf
+392;2026-08;Fichas ago/2026;JCG0H51;2026-08-14;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;405.01;;3;2571.81;;08ago2026_brucker_jcg0h51.pdf
+393;2026-08;Fichas ago/2026;JCG0H51;2026-08-14;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;25.25;;3;72.97;;08ago2026_brucker_jcg0h51.pdf
+394;2026-08;Fichas ago/2026;JCG0H51;2026-08-14;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8574;;;5;0.0;;08ago2026_brucker_jcg0h51.pdf
+395;2026-08;Fichas ago/2026;JCG0H51;2026-08-16;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;271.0;;3;1720.85;;08ago2026_brucker_jcg0h51.pdf
+396;2026-08;Fichas ago/2026;JCG0H51;2026-08-16;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;21.46;;3;62.02;;08ago2026_brucker_jcg0h51.pdf
+397;2026-08;Fichas ago/2026;JCG0H51;2026-08-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8584;;;5;0.0;;08ago2026_brucker_jcg0h51.pdf
+398;2026-08;Fichas ago/2026;JCG0H51;2026-08-17;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;26139;;;5;0.0;;08ago2026_brucker_jcg0h51.pdf
+399;2026-08;Fichas ago/2026;JCG0H51;2026-08-18;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;COMERCIAL BUFFON;NOTA FISCAL SIMPLIFICADA;0;488.0;;3;2766.96;;08ago2026_brucker_jcg0h51.pdf
+400;2026-08;Fichas ago/2026;JCG0H51;2026-08-18;Débito;Combustível;Combustível;Arla 32;ARLA 32;;COMERCIAL BUFFON;NOTA FISCAL SIMPLIFICADA;0;36.27;;3;101.2;;08ago2026_brucker_jcg0h51.pdf
+401;2026-08;Fichas ago/2026;JCG0H51;2026-08-19;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;210.01;;3;1333.56;;08ago2026_brucker_jcg0h51.pdf
+402;2026-08;Fichas ago/2026;JCG0H51;2026-08-19;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;16.53;;3;47.77;;08ago2026_brucker_jcg0h51.pdf
+403;2026-08;Fichas ago/2026;JCG0H51;2026-08-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8607;;;5;0.0;;08ago2026_brucker_jcg0h51.pdf
+404;2026-08;Fichas ago/2026;JCG0H51;2026-08-21;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;SERVICO DE RASTREAMENTO;;DENOX TECNOLOGIA LTDA;NOTA FISCAL DE ENTRADA;4219;;;4;450.86;;08ago2026_brucker_jcg0h51.pdf
+405;2026-08;Fichas ago/2026;JCG0H51;2026-08-24;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;17.29;;3;49.97;;08ago2026_brucker_jcg0h51.pdf
+406;2026-08;Fichas ago/2026;JCG0H51;2026-08-24;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;410.0;;3;2603.5;;08ago2026_brucker_jcg0h51.pdf
+407;2026-08;Fichas ago/2026;JCG0H51;2026-08-24;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8640;;;5;0.0;;08ago2026_brucker_jcg0h51.pdf
+408;2026-08;Fichas ago/2026;JCG0H51;2026-08-25;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;20.79;;3;60.08;;08ago2026_brucker_jcg0h51.pdf
+409;2026-08;Fichas ago/2026;JCG0H51;2026-08-25;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;279.0;;3;1771.65;;08ago2026_brucker_jcg0h51.pdf
+410;2026-08;Fichas ago/2026;JCG0H51;2026-08-26;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8647;;;5;0.0;;08ago2026_brucker_jcg0h51.pdf
+411;2026-08;Fichas ago/2026;JCG0H51;2026-08-29;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;22.21;;3;64.19;;08ago2026_brucker_jcg0h51.pdf
+412;2026-08;Fichas ago/2026;JCG0H51;2026-08-29;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;408.01;;3;2590.86;;08ago2026_brucker_jcg0h51.pdf
+413;2026-08;Fichas ago/2026;JCG0H51;2026-08-29;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8670;;;5;0.0;;08ago2026_brucker_jcg0h51.pdf
+414;2026-08;Fichas ago/2026;JCG0H51;2026-09-11;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTACAO;;Lançamento;52;;;5;10000.0;;08ago2026_brucker_jcg0h51.pdf
+415;2026-08;Fichas ago/2026;JCG8H84;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;08ago2026_brucker_jcg8h84.pdf
+416;2026-08;Fichas ago/2026;JCG8H84;2026-08-01;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8489;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+417;2026-08;Fichas ago/2026;JCG8H84;2026-08-03;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;334.0;;3;2137.6;;08ago2026_brucker_jcg8h84.pdf
+418;2026-08;Fichas ago/2026;JCG8H84;2026-08-03;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;30.1;;3;86.99;;08ago2026_brucker_jcg8h84.pdf
+419;2026-08;Fichas ago/2026;JCG8H84;2026-08-04;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8514;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+420;2026-08;Fichas ago/2026;JCG8H84;2026-08-05;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8523;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+421;2026-08;Fichas ago/2026;JCG8H84;2026-08-07;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;COMERCIAL BUFFON;NOTA FISCAL SIMPLIFICADA;0;330.01;;3;1871.16;;08ago2026_brucker_jcg8h84.pdf
+422;2026-08;Fichas ago/2026;JCG8H84;2026-08-07;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;26018;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+423;2026-08;Fichas ago/2026;JCG8H84;2026-08-08;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;284.0;;3;1803.4;;08ago2026_brucker_jcg8h84.pdf
+424;2026-08;Fichas ago/2026;JCG8H84;2026-08-08;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;54.03;;3;156.15;;08ago2026_brucker_jcg8h84.pdf
+425;2026-08;Fichas ago/2026;JCG8H84;2026-08-10;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8552;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+426;2026-08;Fichas ago/2026;JCG8H84;2026-08-10;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;CAMERAS;;Lançamento;52;;;5;170.0;;08ago2026_brucker_jcg8h84.pdf
+427;2026-08;Fichas ago/2026;JCG8H84;2026-08-10;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;08ago2026_brucker_jcg8h84.pdf
+428;2026-08;Fichas ago/2026;JCG8H84;2026-08-12;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8562;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+429;2026-08;Fichas ago/2026;JCG8H84;2026-08-14;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;500.0;;3;3175.0;;08ago2026_brucker_jcg8h84.pdf
+430;2026-08;Fichas ago/2026;JCG8H84;2026-08-14;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;44.56;;3;128.76;;08ago2026_brucker_jcg8h84.pdf
+431;2026-08;Fichas ago/2026;JCG8H84;2026-08-15;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8579;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+432;2026-08;Fichas ago/2026;JCG8H84;2026-08-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;26132;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+433;2026-08;Fichas ago/2026;JCG8H84;2026-08-18;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;520.0;;3;3302.0;;08ago2026_brucker_jcg8h84.pdf
+434;2026-08;Fichas ago/2026;JCG8H84;2026-08-18;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;45.0;;3;130.05;;08ago2026_brucker_jcg8h84.pdf
+435;2026-08;Fichas ago/2026;JCG8H84;2026-08-18;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8597;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+436;2026-08;Fichas ago/2026;JCG8H84;2026-08-19;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;375.0;;3;2381.25;;08ago2026_brucker_jcg8h84.pdf
+437;2026-08;Fichas ago/2026;JCG8H84;2026-08-19;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;34.36;;3;99.3;;08ago2026_brucker_jcg8h84.pdf
+438;2026-08;Fichas ago/2026;JCG8H84;2026-08-20;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8611;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+439;2026-08;Fichas ago/2026;JCG8H84;2026-08-21;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;39.21;;3;113.32;;08ago2026_brucker_jcg8h84.pdf
+440;2026-08;Fichas ago/2026;JCG8H84;2026-08-21;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;400.0;;3;2540.0;;08ago2026_brucker_jcg8h84.pdf
+441;2026-08;Fichas ago/2026;JCG8H84;2026-08-22;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;38168;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+442;2026-08;Fichas ago/2026;JCG8H84;2026-08-23;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;368.01;;3;2336.86;;08ago2026_brucker_jcg8h84.pdf
+443;2026-08;Fichas ago/2026;JCG8H84;2026-08-23;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;38.0;;3;109.82;;08ago2026_brucker_jcg8h84.pdf
+444;2026-08;Fichas ago/2026;JCG8H84;2026-08-24;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8636;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+445;2026-08;Fichas ago/2026;JCG8H84;2026-08-26;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;398.0;;3;2527.3;;08ago2026_brucker_jcg8h84.pdf
+446;2026-08;Fichas ago/2026;JCG8H84;2026-08-26;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;36.66;;3;105.95;;08ago2026_brucker_jcg8h84.pdf
+447;2026-08;Fichas ago/2026;JCG8H84;2026-08-27;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8650;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+448;2026-08;Fichas ago/2026;JCG8H84;2026-08-29;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8667;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+449;2026-08;Fichas ago/2026;JCG8H84;2026-08-30;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;430.01;;3;2730.56;;08ago2026_brucker_jcg8h84.pdf
+450;2026-08;Fichas ago/2026;JCG8H84;2026-08-30;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;43.68;;3;126.24;;08ago2026_brucker_jcg8h84.pdf
+451;2026-08;Fichas ago/2026;JCG8H84;2026-08-31;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8686;;;5;0.0;;08ago2026_brucker_jcg8h84.pdf
+452;2026-08;Fichas ago/2026;JCG8H84;2026-09-09;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO;;Lançamento;52;;;5;428.67;;08ago2026_brucker_jcg8h84.pdf
+453;2026-08;Fichas ago/2026;JCG8H84;2026-09-09;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;DEMAIS DÉBITOS;Rastreamento;;Lançamento;52;;;5;401.8;;08ago2026_brucker_jcg8h84.pdf
+454;2026-08;Fichas ago/2026;SEI0H92;2025-11-10;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;MENSALIDADE CAMERAS EM 36X;;Lançamento;52;;;5;170.0;;08ago2026_brucker_sei0h92.pdf
+455;2026-08;Fichas ago/2026;SEI0H92;2026-02-14;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;08ago2026_brucker_sei0h92.pdf
+456;2026-08;Fichas ago/2026;SEI0H92;2026-06-13;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;IPVA + LICENCIAMENTO EM 8X;;Lançamento;52;;;5;1030.7;;08ago2026_brucker_sei0h92.pdf
+457;2026-08;Fichas ago/2026;SEI0H92;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;08ago2026_brucker_sei0h92.pdf
+458;2026-08;Fichas ago/2026;SEI0H92;2026-08-03;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;126.0;;3;806.4;;08ago2026_brucker_sei0h92.pdf
+459;2026-08;Fichas ago/2026;SEI0H92;2026-08-03;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;14.17;;3;40.95;;08ago2026_brucker_sei0h92.pdf
+460;2026-08;Fichas ago/2026;SEI0H92;2026-08-03;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8493;;;5;0.0;;08ago2026_brucker_sei0h92.pdf
+461;2026-08;Fichas ago/2026;SEI0H92;2026-08-04;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8507;;;5;0.0;;08ago2026_brucker_sei0h92.pdf
+462;2026-08;Fichas ago/2026;SEI0H92;2026-08-05;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;404.0;;3;2585.6;;08ago2026_brucker_sei0h92.pdf
+463;2026-08;Fichas ago/2026;SEI0H92;2026-08-05;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;40.54;;3;117.16;;08ago2026_brucker_sei0h92.pdf
+464;2026-08;Fichas ago/2026;SEI0H92;2026-08-06;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8530;;;5;0.0;;08ago2026_brucker_sei0h92.pdf
+465;2026-08;Fichas ago/2026;SEI0H92;2026-08-07;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;438.02;;3;2781.43;;08ago2026_brucker_sei0h92.pdf
+466;2026-08;Fichas ago/2026;SEI0H92;2026-08-07;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;37.09;;3;107.19;;08ago2026_brucker_sei0h92.pdf
+467;2026-08;Fichas ago/2026;SEI0H92;2026-08-07;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8541;;;5;0.0;;08ago2026_brucker_sei0h92.pdf
+468;2026-08;Fichas ago/2026;SEI0H92;2026-08-10;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;590.0;;3;3746.5;;08ago2026_brucker_sei0h92.pdf
+469;2026-08;Fichas ago/2026;SEI0H92;2026-08-10;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;57.75;;3;166.9;;08ago2026_brucker_sei0h92.pdf
+470;2026-08;Fichas ago/2026;SEI0H92;2026-08-10;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8547;;;5;0.0;;08ago2026_brucker_sei0h92.pdf
+471;2026-08;Fichas ago/2026;SEI0H92;2026-08-12;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8560;;;5;0.0;;08ago2026_brucker_sei0h92.pdf
+472;2026-08;Fichas ago/2026;SEI0H92;2026-08-13;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;144.01;;3;914.46;;08ago2026_brucker_sei0h92.pdf
+473;2026-08;Fichas ago/2026;SEI0H92;2026-08-13;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;15.7;;3;45.37;;08ago2026_brucker_sei0h92.pdf
+474;2026-08;Fichas ago/2026;SEI0H92;2026-08-13;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8565;;;5;0.0;;08ago2026_brucker_sei0h92.pdf
+475;2026-08;Fichas ago/2026;SEI0H92;2026-08-15;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;515.0;;3;3270.25;;08ago2026_brucker_sei0h92.pdf
+476;2026-08;Fichas ago/2026;SEI0H92;2026-08-15;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;49.46;;3;142.94;;08ago2026_brucker_sei0h92.pdf
+477;2026-08;Fichas ago/2026;SEI0H92;2026-08-17;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8585;;;5;0.0;;08ago2026_brucker_sei0h92.pdf
+478;2026-08;Fichas ago/2026;SEI0H92;2026-08-18;Débito;Manutenção/IPVA/Seguro;Manutenção;Lavagem;SERVIÇO LAVAGEM EXTERNA;;RENOVAR CAMINHOES;NOTA FISCAL DE ENTRADA;2591;;;4;350.0;;08ago2026_brucker_sei0h92.pdf
+479;2026-08;Fichas ago/2026;SEI0H92;2026-08-21;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;425.0;;3;2698.75;;08ago2026_brucker_sei0h92.pdf
+480;2026-08;Fichas ago/2026;SEI0H92;2026-08-21;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;40.45;;3;116.9;;08ago2026_brucker_sei0h92.pdf
+481;2026-08;Fichas ago/2026;SEI0H92;2026-08-22;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8634;;;5;0.0;;08ago2026_brucker_sei0h92.pdf
+482;2026-08;Fichas ago/2026;SEI0H92;2026-08-25;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;29.19;;3;84.36;;08ago2026_brucker_sei0h92.pdf
+483;2026-08;Fichas ago/2026;SEI0H92;2026-08-25;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;287.01;;3;1822.51;;08ago2026_brucker_sei0h92.pdf
+484;2026-08;Fichas ago/2026;SEI0H92;2026-08-25;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8644;;;5;0.0;;08ago2026_brucker_sei0h92.pdf
+485;2026-08;Fichas ago/2026;SEI0H92;2026-08-27;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;360.0;;3;2286.0;;08ago2026_brucker_sei0h92.pdf
+486;2026-08;Fichas ago/2026;SEI0H92;2026-08-27;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;39.94;;3;115.43;;08ago2026_brucker_sei0h92.pdf
+487;2026-08;Fichas ago/2026;SEI0H92;2026-08-28;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8658;;;5;0.0;;08ago2026_brucker_sei0h92.pdf
+488;2026-08;Fichas ago/2026;SEI0H92;2026-08-29;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;246.0;;3;1562.1;;08ago2026_brucker_sei0h92.pdf
+489;2026-08;Fichas ago/2026;SEI0H92;2026-08-29;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8669;;;5;0.0;;08ago2026_brucker_sei0h92.pdf
+490;2026-08;Fichas ago/2026;SEI0H92;2026-09-09;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO;;Lançamento;52;;;5;859.67;;08ago2026_brucker_sei0h92.pdf
+491;2026-08;Fichas ago/2026;SEI0H92;2026-09-09;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;DEMAIS DÉBITOS;RASTREAMENTO;;Lançamento;52;;;5;511.74;;08ago2026_brucker_sei0h92.pdf
+492;2026-08;Fichas ago/2026;SEI2B52;2026-02-14;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;08ago2026_brucker_sei2b52.pdf
+493;2026-08;Fichas ago/2026;SEI2B52;2026-06-13;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;IPVA + LICENCIAMENTO EM 8X;;Lançamento;52;;;5;1030.7;;08ago2026_brucker_sei2b52.pdf
+494;2026-08;Fichas ago/2026;SEI2B52;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;08ago2026_brucker_sei2b52.pdf
+495;2026-08;Fichas ago/2026;SEI2B52;2026-07-16;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO EM 3X;;Lançamento;52;;;5;1773.32;;08ago2026_brucker_sei2b52.pdf
+496;2026-08;Fichas ago/2026;SEI2B52;2026-08-01;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8488;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+497;2026-08;Fichas ago/2026;SEI2B52;2026-08-03;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8497;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+498;2026-08;Fichas ago/2026;SEI2B52;2026-08-05;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8524;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+499;2026-08;Fichas ago/2026;SEI2B52;2026-08-06;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;590.0;;3;3776.0;;08ago2026_brucker_sei2b52.pdf
+500;2026-08;Fichas ago/2026;SEI2B52;2026-08-06;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;60.0;;3;173.4;;08ago2026_brucker_sei2b52.pdf
+501;2026-08;Fichas ago/2026;SEI2B52;2026-08-06;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8532;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+502;2026-08;Fichas ago/2026;SEI2B52;2026-08-07;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8537;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+503;2026-08;Fichas ago/2026;SEI2B52;2026-08-08;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8543;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+504;2026-08;Fichas ago/2026;SEI2B52;2026-08-10;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;481.0;;3;3054.35;;08ago2026_brucker_sei2b52.pdf
+505;2026-08;Fichas ago/2026;SEI2B52;2026-08-10;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;47.9;;3;138.43;;08ago2026_brucker_sei2b52.pdf
+506;2026-08;Fichas ago/2026;SEI2B52;2026-08-11;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8555;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+507;2026-08;Fichas ago/2026;SEI2B52;2026-08-13;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8567;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+508;2026-08;Fichas ago/2026;SEI2B52;2026-08-15;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;524.0;;3;3327.4;;08ago2026_brucker_sei2b52.pdf
+509;2026-08;Fichas ago/2026;SEI2B52;2026-08-15;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;53.18;;3;153.69;;08ago2026_brucker_sei2b52.pdf
+510;2026-08;Fichas ago/2026;SEI2B52;2026-08-17;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8586;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+511;2026-08;Fichas ago/2026;SEI2B52;2026-08-18;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;360.0;;3;2286.0;;08ago2026_brucker_sei2b52.pdf
+512;2026-08;Fichas ago/2026;SEI2B52;2026-08-18;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;32.89;;3;95.05;;08ago2026_brucker_sei2b52.pdf
+513;2026-08;Fichas ago/2026;SEI2B52;2026-08-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8601;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+514;2026-08;Fichas ago/2026;SEI2B52;2026-08-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8600;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+515;2026-08;Fichas ago/2026;SEI2B52;2026-08-20;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;36.44;;3;105.31;;08ago2026_brucker_sei2b52.pdf
+516;2026-08;Fichas ago/2026;SEI2B52;2026-08-20;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;355.0;;3;2254.25;;08ago2026_brucker_sei2b52.pdf
+517;2026-08;Fichas ago/2026;SEI2B52;2026-08-20;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8625;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+518;2026-08;Fichas ago/2026;SEI2B52;2026-08-22;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;45.4;;3;131.21;;08ago2026_brucker_sei2b52.pdf
+519;2026-08;Fichas ago/2026;SEI2B52;2026-08-22;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;375.01;;3;2381.31;;08ago2026_brucker_sei2b52.pdf
+520;2026-08;Fichas ago/2026;SEI2B52;2026-08-22;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8633;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+521;2026-08;Fichas ago/2026;SEI2B52;2026-08-25;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;350.0;;3;2222.5;;08ago2026_brucker_sei2b52.pdf
+522;2026-08;Fichas ago/2026;SEI2B52;2026-08-25;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;39.29;;3;113.55;;08ago2026_brucker_sei2b52.pdf
+523;2026-08;Fichas ago/2026;SEI2B52;2026-08-26;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8646;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+524;2026-08;Fichas ago/2026;SEI2B52;2026-08-28;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;215.69;;3;1369.63;;08ago2026_brucker_sei2b52.pdf
+525;2026-08;Fichas ago/2026;SEI2B52;2026-08-28;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;22.75;;3;65.75;;08ago2026_brucker_sei2b52.pdf
+526;2026-08;Fichas ago/2026;SEI2B52;2026-08-28;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8657;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+527;2026-08;Fichas ago/2026;SEI2B52;2026-08-29;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;377.0;;3;2393.95;;08ago2026_brucker_sei2b52.pdf
+528;2026-08;Fichas ago/2026;SEI2B52;2026-08-29;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;34.44;;3;99.53;;08ago2026_brucker_sei2b52.pdf
+529;2026-08;Fichas ago/2026;SEI2B52;2026-08-31;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8673;;;5;0.0;;08ago2026_brucker_sei2b52.pdf
+530;2026-08;Fichas ago/2026;SEI2B52;2026-09-09;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO;;Lançamento;52;;;5;859.67;;08ago2026_brucker_sei2b52.pdf
+531;2026-08;Fichas ago/2026;SEI2B52;2026-09-09;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;DEMAIS DÉBITOS;RASTREAMENTO;;Lançamento;52;;;5;571.8;;08ago2026_brucker_sei2b52.pdf
+532;2026-08;Fichas ago/2026;SEI2B55;2025-11-13;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;MENSALIDADE CAMERAS EM 36X;;Lançamento;52;;;5;170.0;;08ago2026_brucker_sei2b55.pdf
+533;2026-08;Fichas ago/2026;SEI2B55;2026-03-11;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;08ago2026_brucker_sei2b55.pdf
+534;2026-08;Fichas ago/2026;SEI2B55;2026-06-13;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;IPVA + LICENCIAMENTO EM 8X;;Lançamento;52;;;5;1030.7;;08ago2026_brucker_sei2b55.pdf
+535;2026-08;Fichas ago/2026;SEI2B55;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;08ago2026_brucker_sei2b55.pdf
+536;2026-08;Fichas ago/2026;SEI2B55;2026-07-16;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO EM 3X;;Lançamento;52;;;5;282.67;;08ago2026_brucker_sei2b55.pdf
+537;2026-08;Fichas ago/2026;SEI2B55;2026-08-01;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;264.01;;3;1689.66;;08ago2026_brucker_sei2b55.pdf
+538;2026-08;Fichas ago/2026;SEI2B55;2026-08-01;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;26.46;;3;76.47;;08ago2026_brucker_sei2b55.pdf
+539;2026-08;Fichas ago/2026;SEI2B55;2026-08-01;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8492;;;5;0.0;;08ago2026_brucker_sei2b55.pdf
+540;2026-08;Fichas ago/2026;SEI2B55;2026-08-04;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;400.0;;3;2560.0;;08ago2026_brucker_sei2b55.pdf
+541;2026-08;Fichas ago/2026;SEI2B55;2026-08-04;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;40.06;;3;115.77;;08ago2026_brucker_sei2b55.pdf
+542;2026-08;Fichas ago/2026;SEI2B55;2026-08-04;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8519;;;5;0.0;;08ago2026_brucker_sei2b55.pdf
+543;2026-08;Fichas ago/2026;SEI2B55;2026-08-06;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8534;;;5;0.0;;08ago2026_brucker_sei2b55.pdf
+544;2026-08;Fichas ago/2026;SEI2B55;2026-08-07;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8539;;;5;0.0;;08ago2026_brucker_sei2b55.pdf
+545;2026-08;Fichas ago/2026;SEI2B55;2026-08-10;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;369.0;;3;2343.15;;08ago2026_brucker_sei2b55.pdf
+546;2026-08;Fichas ago/2026;SEI2B55;2026-08-10;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;31.56;;3;91.21;;08ago2026_brucker_sei2b55.pdf
+547;2026-08;Fichas ago/2026;SEI2B55;2026-08-10;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8546;;;5;0.0;;08ago2026_brucker_sei2b55.pdf
+548;2026-08;Fichas ago/2026;SEI2B55;2026-08-10;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO EM 3X;;Lançamento;52;;;5;893.0;;08ago2026_brucker_sei2b55.pdf
+549;2026-08;Fichas ago/2026;SEI2B55;2026-08-13;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;366.0;;3;2324.1;;08ago2026_brucker_sei2b55.pdf
+550;2026-08;Fichas ago/2026;SEI2B55;2026-08-13;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;33.74;;3;97.51;;08ago2026_brucker_sei2b55.pdf
+551;2026-08;Fichas ago/2026;SEI2B55;2026-08-14;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8572;;;5;0.0;;08ago2026_brucker_sei2b55.pdf
+552;2026-08;Fichas ago/2026;SEI2B55;2026-08-15;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;395.01;;3;2508.31;;08ago2026_brucker_sei2b55.pdf
+553;2026-08;Fichas ago/2026;SEI2B55;2026-08-15;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;35.19;;3;101.7;;08ago2026_brucker_sei2b55.pdf
+554;2026-08;Fichas ago/2026;SEI2B55;2026-08-15;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8582;;;5;0.0;;08ago2026_brucker_sei2b55.pdf
+555;2026-08;Fichas ago/2026;SEI2B55;2026-08-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;26134;;;5;0.0;;08ago2026_brucker_sei2b55.pdf
+556;2026-08;Fichas ago/2026;SEI2B55;2026-08-19;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;439.7;;3;2792.09;;08ago2026_brucker_sei2b55.pdf
+557;2026-08;Fichas ago/2026;SEI2B55;2026-08-19;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;46.05;;3;133.08;;08ago2026_brucker_sei2b55.pdf
+558;2026-08;Fichas ago/2026;SEI2B55;2026-08-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8608;;;5;0.0;;08ago2026_brucker_sei2b55.pdf
+559;2026-08;Fichas ago/2026;SEI2B55;2026-08-20;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;304.0;;3;1930.4;;08ago2026_brucker_sei2b55.pdf
+560;2026-08;Fichas ago/2026;SEI2B55;2026-08-20;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;24.33;;3;70.31;;08ago2026_brucker_sei2b55.pdf
+561;2026-08;Fichas ago/2026;SEI2B55;2026-08-20;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8624;;;5;0.0;;08ago2026_brucker_sei2b55.pdf
+562;2026-08;Fichas ago/2026;SEI2B55;2026-08-25;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;436.0;;3;2768.6;;08ago2026_brucker_sei2b55.pdf
+563;2026-08;Fichas ago/2026;SEI2B55;2026-08-25;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;45.42;;3;131.26;;08ago2026_brucker_sei2b55.pdf
+564;2026-08;Fichas ago/2026;SEI2B55;2026-08-26;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8648;;;5;0.0;;08ago2026_brucker_sei2b55.pdf
+565;2026-08;Fichas ago/2026;SEI2B55;2026-08-29;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;41.25;;3;119.21;;08ago2026_brucker_sei2b55.pdf
+566;2026-08;Fichas ago/2026;SEI2B55;2026-08-29;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;433.01;;3;2749.61;;08ago2026_brucker_sei2b55.pdf
+567;2026-08;Fichas ago/2026;SEI2B55;2026-08-29;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8664;;;5;0.0;;08ago2026_brucker_sei2b55.pdf
+568;2026-08;Fichas ago/2026;SEI2B55;2026-08-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;26310;;;5;0.0;;08ago2026_brucker_sei2b55.pdf
+569;2026-08;Fichas ago/2026;SEI2B55;2026-09-09;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;DEMAIS DÉBITOS;RASTREAMENTO;;Lançamento;52;;;5;401.26;;08ago2026_brucker_sei2b55.pdf
+570;2026-08;Fichas ago/2026;SEI2B56;2025-11-10;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;MENSALIDADE CAMERAS EM 36X;;Lançamento;52;;;5;170.0;;08ago2026_brucker_sei2b56.pdf
+571;2026-08;Fichas ago/2026;SEI2B56;2026-03-11;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;08ago2026_brucker_sei2b56.pdf
+572;2026-08;Fichas ago/2026;SEI2B56;2026-06-13;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;IPVA + LICENCIAMENTO EM 8X;;Lançamento;52;;;5;1030.7;;08ago2026_brucker_sei2b56.pdf
+573;2026-08;Fichas ago/2026;SEI2B56;2026-07-16;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO EM 3X;;Lançamento;52;;;5;2675.94;;08ago2026_brucker_sei2b56.pdf
+574;2026-08;Fichas ago/2026;SEI2B56;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;08ago2026_brucker_sei2b56.pdf
+575;2026-08;Fichas ago/2026;SEI2B56;2026-08-01;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8487;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+576;2026-08;Fichas ago/2026;SEI2B56;2026-08-03;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8495;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+577;2026-08;Fichas ago/2026;SEI2B56;2026-08-04;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;228.0;;3;1459.2;;08ago2026_brucker_sei2b56.pdf
+578;2026-08;Fichas ago/2026;SEI2B56;2026-08-04;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;20.84;;3;60.23;;08ago2026_brucker_sei2b56.pdf
+579;2026-08;Fichas ago/2026;SEI2B56;2026-08-04;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8520;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+580;2026-08;Fichas ago/2026;SEI2B56;2026-08-06;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8533;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+581;2026-08;Fichas ago/2026;SEI2B56;2026-08-07;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;485.66;;3;3083.94;;08ago2026_brucker_sei2b56.pdf
+582;2026-08;Fichas ago/2026;SEI2B56;2026-08-07;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;44.05;;3;127.3;;08ago2026_brucker_sei2b56.pdf
+583;2026-08;Fichas ago/2026;SEI2B56;2026-08-08;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8542;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+584;2026-08;Fichas ago/2026;SEI2B56;2026-08-11;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8557;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+585;2026-08;Fichas ago/2026;SEI2B56;2026-08-13;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8564;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+586;2026-08;Fichas ago/2026;SEI2B56;2026-08-14;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;600.0;;3;3810.0;;08ago2026_brucker_sei2b56.pdf
+587;2026-08;Fichas ago/2026;SEI2B56;2026-08-14;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;55.93;;3;161.64;;08ago2026_brucker_sei2b56.pdf
+588;2026-08;Fichas ago/2026;SEI2B56;2026-08-14;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8575;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+589;2026-08;Fichas ago/2026;SEI2B56;2026-08-15;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8583;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+590;2026-08;Fichas ago/2026;SEI2B56;2026-08-18;Débito;Manutenção/IPVA/Seguro;Manutenção;Lavagem;SERVIÇO LAVAGEM EXTERNA;;RENOVAR CAMINHOES;NOTA FISCAL DE ENTRADA;2591;;;4;350.0;;08ago2026_brucker_sei2b56.pdf
+591;2026-08;Fichas ago/2026;SEI2B56;2026-08-18;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8596;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+592;2026-08;Fichas ago/2026;SEI2B56;2026-08-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8602;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+593;2026-08;Fichas ago/2026;SEI2B56;2026-08-20;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;57.08;;3;164.96;;08ago2026_brucker_sei2b56.pdf
+594;2026-08;Fichas ago/2026;SEI2B56;2026-08-20;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;602.0;;3;3822.7;;08ago2026_brucker_sei2b56.pdf
+595;2026-08;Fichas ago/2026;SEI2B56;2026-08-20;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8622;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+596;2026-08;Fichas ago/2026;SEI2B56;2026-08-22;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;42.19;;3;121.93;;08ago2026_brucker_sei2b56.pdf
+597;2026-08;Fichas ago/2026;SEI2B56;2026-08-22;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;401.0;;3;2546.35;;08ago2026_brucker_sei2b56.pdf
+598;2026-08;Fichas ago/2026;SEI2B56;2026-08-22;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8632;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+599;2026-08;Fichas ago/2026;SEI2B56;2026-08-23;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;34.35;;3;99.27;;08ago2026_brucker_sei2b56.pdf
+600;2026-08;Fichas ago/2026;SEI2B56;2026-08-23;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;354.0;;3;2247.9;;08ago2026_brucker_sei2b56.pdf
+601;2026-08;Fichas ago/2026;SEI2B56;2026-08-25;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8643;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+602;2026-08;Fichas ago/2026;SEI2B56;2026-08-27;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;38.47;;3;111.18;;08ago2026_brucker_sei2b56.pdf
+603;2026-08;Fichas ago/2026;SEI2B56;2026-08-27;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;381.01;;3;2419.41;;08ago2026_brucker_sei2b56.pdf
+604;2026-08;Fichas ago/2026;SEI2B56;2026-08-27;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8653;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+605;2026-08;Fichas ago/2026;SEI2B56;2026-08-28;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;22.21;;3;64.19;;08ago2026_brucker_sei2b56.pdf
+606;2026-08;Fichas ago/2026;SEI2B56;2026-08-28;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;230.01;;3;1460.56;;08ago2026_brucker_sei2b56.pdf
+607;2026-08;Fichas ago/2026;SEI2B56;2026-08-29;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8665;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+608;2026-08;Fichas ago/2026;SEI2B56;2026-08-31;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8687;;;5;0.0;;08ago2026_brucker_sei2b56.pdf
+609;2026-08;Fichas ago/2026;SEI2B56;2026-09-09;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;DEMAIS DÉBITOS;Rastreamento;;Lançamento;52;;;5;392.49;;08ago2026_brucker_sei2b56.pdf
+610;2026-08;Fichas ago/2026;SEI2B56;2026-09-09;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO;;Lançamento;52;;;5;282.75;;08ago2026_brucker_sei2b56.pdf
+611;2026-09;Fichas set/2026;JCF7A22;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1416.09;;09set2026_brucker_jcf7a22.pdf
+612;2026-09;Fichas set/2026;JCF7A22;2026-09-01;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8695;;;5;0.0;;09set2026_brucker_jcf7a22.pdf
+613;2026-09;Fichas set/2026;JCF7A22;2026-09-03;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;475.0;;3;3016.25;;09set2026_brucker_jcf7a22.pdf
+614;2026-09;Fichas set/2026;JCF7A22;2026-09-03;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;48.84;;3;141.15;;09set2026_brucker_jcf7a22.pdf
+615;2026-09;Fichas set/2026;JCF7A22;2026-09-03;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8712;;;5;4.2;;09set2026_brucker_jcf7a22.pdf
+616;2026-09;Fichas set/2026;JCF7A22;2026-09-05;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8720;;;5;3.21;;09set2026_brucker_jcf7a22.pdf
+617;2026-09;Fichas set/2026;JCF7A22;2026-09-08;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;466.97;;3;3058.65;;09set2026_brucker_jcf7a22.pdf
+618;2026-09;Fichas set/2026;JCF7A22;2026-09-08;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;46.78;;3;135.19;;09set2026_brucker_jcf7a22.pdf
+619;2026-09;Fichas set/2026;JCF7A22;2026-09-09;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8731;;;5;3.43;;09set2026_brucker_jcf7a22.pdf
+620;2026-09;Fichas set/2026;JCF7A22;2026-09-09;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO EM 3X;;Lançamento;52;;;5;884.23;;09set2026_brucker_jcf7a22.pdf
+621;2026-09;Fichas set/2026;JCF7A22;2026-09-11;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTACAO;;Lançamento;52;;;5;10000.0;;09set2026_brucker_jcf7a22.pdf
+622;2026-09;Fichas set/2026;JCF7A22;2026-09-11;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8740;;;5;4.61;;09set2026_brucker_jcf7a22.pdf
+623;2026-09;Fichas set/2026;JCF7A22;2026-09-14;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8751;;;5;3.09;;09set2026_brucker_jcf7a22.pdf
+624;2026-09;Fichas set/2026;JCF7A22;2026-09-16;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;341.2;;3;2275.8;;09set2026_brucker_jcf7a22.pdf
+625;2026-09;Fichas set/2026;JCF7A22;2026-09-16;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;23.07;;3;66.67;;09set2026_brucker_jcf7a22.pdf
+626;2026-09;Fichas set/2026;JCF7A22;2026-09-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8766;;;5;4.07;;09set2026_brucker_jcf7a22.pdf
+627;2026-09;Fichas set/2026;JCF7A22;2026-09-17;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;SERVICO DE INSPECAO CIV CARRETA;;CERTIPAR;NOTA FISCAL DE ENTRADA;788;;;4;400.0;;09set2026_brucker_jcf7a22.pdf
+628;2026-09;Fichas set/2026;JCF7A22;2026-09-19;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;500.0;;3;3410.0;;09set2026_brucker_jcf7a22.pdf
+629;2026-09;Fichas set/2026;JCF7A22;2026-09-19;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;26.0;;3;75.14;;09set2026_brucker_jcf7a22.pdf
+630;2026-09;Fichas set/2026;JCF7A22;2026-09-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8794;;;5;3.53;;09set2026_brucker_jcf7a22.pdf
+631;2026-09;Fichas set/2026;JCF7A22;2026-09-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8788;;;5;2.93;;09set2026_brucker_jcf7a22.pdf
+632;2026-09;Fichas set/2026;JCF7A22;2026-09-21;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;350.0;;3;2387.0;;09set2026_brucker_jcf7a22.pdf
+633;2026-09;Fichas set/2026;JCF7A22;2026-09-22;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8803;;;5;4.62;;09set2026_brucker_jcf7a22.pdf
+634;2026-09;Fichas set/2026;JCF7A22;2026-09-23;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;SERVICO DE RASTREAMENTO;;DENOX TECNOLOGIA LTDA;NOTA FISCAL DE ENTRADA;4781;;;4;450.86;;09set2026_brucker_jcf7a22.pdf
+635;2026-09;Fichas set/2026;JCF7A22;2026-09-23;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8810;;;5;3.16;;09set2026_brucker_jcf7a22.pdf
+636;2026-09;Fichas set/2026;JCF7A22;2026-09-24;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;343.0;;3;2339.26;;09set2026_brucker_jcf7a22.pdf
+637;2026-09;Fichas set/2026;JCF7A22;2026-09-24;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;42.69;;3;123.37;;09set2026_brucker_jcf7a22.pdf
+638;2026-09;Fichas set/2026;JCF7A22;2026-09-26;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8818;;;5;3.02;;09set2026_brucker_jcf7a22.pdf
+639;2026-09;Fichas set/2026;JCF7A22;2026-09-29;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8838;;;5;4.24;;09set2026_brucker_jcf7a22.pdf
+640;2026-09;Fichas set/2026;JCF7A22;2026-10-13;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;FILTRO, ELEMENTO FILTRO COMBUSTIVEL;;Lançamento;52;;;5;2262.38;;09set2026_brucker_jcf7a22.pdf
+641;2026-09;Fichas set/2026;JCF7A27;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1416.09;;09set2026_brucker_jcf7a27.pdf
+642;2026-09;Fichas set/2026;JCF7A27;2026-09-01;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8697;;;5;3.75;;09set2026_brucker_jcf7a27.pdf
+643;2026-09;Fichas set/2026;JCF7A27;2026-09-02;Débito;Manutenção/IPVA/Seguro;Multas;Multa;MULTA DE TRÂNSITO ADMIN;;DNIT;NOTA FISCAL DE ENTRADA;2957880;;;4;156.19;;09set2026_brucker_jcf7a27.pdf
+644;2026-09;Fichas set/2026;JCF7A27;2026-09-04;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;35.72;;3;103.23;;09set2026_brucker_jcf7a27.pdf
+645;2026-09;Fichas set/2026;JCF7A27;2026-09-04;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;414.0;;3;2628.9;;09set2026_brucker_jcf7a27.pdf
+646;2026-09;Fichas set/2026;JCF7A27;2026-09-05;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8716;;;5;3.19;;09set2026_brucker_jcf7a27.pdf
+647;2026-09;Fichas set/2026;JCF7A27;2026-09-09;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;226.04;;3;1480.56;;09set2026_brucker_jcf7a27.pdf
+648;2026-09;Fichas set/2026;JCF7A27;2026-09-09;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;16.36;;3;47.28;;09set2026_brucker_jcf7a27.pdf
+649;2026-09;Fichas set/2026;JCF7A27;2026-09-09;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;SERVICO DE BALANCEAMENTO - BORRACHARIA;;MOLAS MUNDIAL;NOTA FISCAL DE ENTRADA;1389;;;4;370.0;;09set2026_brucker_jcf7a27.pdf
+650;2026-09;Fichas set/2026;JCF7A27;2026-09-09;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;Manutenção OLEO DO MOTOR NORDICA VEICULOS S/A;;Lançamento;52;;;5;899.67;;09set2026_brucker_jcf7a27.pdf
+651;2026-09;Fichas set/2026;JCF7A27;2026-09-09;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8730;;;5;2.94;;09set2026_brucker_jcf7a27.pdf
+652;2026-09;Fichas set/2026;JCF7A27;2026-09-11;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;419.04;;3;2744.71;;09set2026_brucker_jcf7a27.pdf
+653;2026-09;Fichas set/2026;JCF7A27;2026-09-11;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;22.81;;3;65.92;;09set2026_brucker_jcf7a27.pdf
+654;2026-09;Fichas set/2026;JCF7A27;2026-09-11;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8738;;;5;4.26;;09set2026_brucker_jcf7a27.pdf
+655;2026-09;Fichas set/2026;JCF7A27;2026-09-11;Crédito;Parcela;Parcela;Crédito de parcela;DEMAIS DÉBITOS (lançado como crédito);PRESTACAO;;NA;NA;;;2;-10000.0;"Crédito na seção 2 da ficha; valor negativo para abater o débito";09set2026_brucker_jcf7a27.pdf
+656;2026-09;Fichas set/2026;JCF7A27;2026-09-12;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;360.0;;3;2401.2;;09set2026_brucker_jcf7a27.pdf
+657;2026-09;Fichas set/2026;JCF7A27;2026-09-12;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;33.65;;3;97.25;;09set2026_brucker_jcf7a27.pdf
+658;2026-09;Fichas set/2026;JCF7A27;2026-09-14;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8749;;;5;4.13;;09set2026_brucker_jcf7a27.pdf
+659;2026-09;Fichas set/2026;JCF7A27;2026-09-15;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;373.0;;3;2487.91;;09set2026_brucker_jcf7a27.pdf
+660;2026-09;Fichas set/2026;JCF7A27;2026-09-15;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;32.22;;3;93.12;;09set2026_brucker_jcf7a27.pdf
+661;2026-09;Fichas set/2026;JCF7A27;2026-09-16;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;SERVICO DE CORRETIVA CAVALO;;NORDICA;NOTA FISCAL DE ENTRADA;10737;;;4;138.28;;09set2026_brucker_jcf7a27.pdf
+662;2026-09;Fichas set/2026;JCF7A27;2026-09-16;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;FILTRO ARLA + PENEIRA;;NORDICA;NOTA FISCAL DE ENTRADA;435607;;;4;526.65;;09set2026_brucker_jcf7a27.pdf
+663;2026-09;Fichas set/2026;JCF7A27;2026-09-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8758;;;5;3.12;;09set2026_brucker_jcf7a27.pdf
+664;2026-09;Fichas set/2026;JCF7A27;2026-09-18;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;350.0;;3;2334.5;;09set2026_brucker_jcf7a27.pdf
+665;2026-09;Fichas set/2026;JCF7A27;2026-09-18;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;38.14;;3;110.22;;09set2026_brucker_jcf7a27.pdf
+666;2026-09;Fichas set/2026;JCF7A27;2026-09-18;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8787;;;5;4.26;;09set2026_brucker_jcf7a27.pdf
+667;2026-09;Fichas set/2026;JCF7A27;2026-09-21;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;36.41;;3;105.22;;09set2026_brucker_jcf7a27.pdf
+668;2026-09;Fichas set/2026;JCF7A27;2026-09-21;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;400.57;;3;2731.89;;09set2026_brucker_jcf7a27.pdf
+669;2026-09;Fichas set/2026;JCF7A27;2026-09-21;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8801;;;5;3.05;;09set2026_brucker_jcf7a27.pdf
+670;2026-09;Fichas set/2026;JCF7A27;2026-09-23;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;SERVICO DE RASTREAMENTO;;DENOX TECNOLOGIA LTDA;NOTA FISCAL DE ENTRADA;4781;;;4;450.86;;09set2026_brucker_jcf7a27.pdf
+671;2026-09;Fichas set/2026;JCF7A27;2026-09-28;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;SIM - REDE DE POSTOS;NOTA FISCAL SIMPLIFICADA;0;377.23;;3;2436.9;;09set2026_brucker_jcf7a27.pdf
+672;2026-09;Fichas set/2026;JCF7A27;2026-09-28;Débito;Combustível;Combustível;Arla 32;ARLA 32;;SIM - REDE DE POSTOS;NOTA FISCAL SIMPLIFICADA;0;37.6;;3;108.65;;09set2026_brucker_jcf7a27.pdf
+673;2026-09;Fichas set/2026;JCF7A27;2026-09-28;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;26613;;;5;3.09;;09set2026_brucker_jcf7a27.pdf
+674;2026-09;Fichas set/2026;JCF7A27;2026-09-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8858;;;5;0.0;;09set2026_brucker_jcf7a27.pdf
+675;2026-09;Fichas set/2026;JCG0H51;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1416.09;;09set2026_brucker_jcg0h51.pdf
+676;2026-09;Fichas set/2026;JCG0H51;2026-09-01;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;24.44;;3;70.64;;09set2026_brucker_jcg0h51.pdf
+677;2026-09;Fichas set/2026;JCG0H51;2026-09-01;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;562.0;;3;3568.7;;09set2026_brucker_jcg0h51.pdf
+678;2026-09;Fichas set/2026;JCG0H51;2026-09-01;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8698;;;5;4.47;;09set2026_brucker_jcg0h51.pdf
+679;2026-09;Fichas set/2026;JCG0H51;2026-09-03;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8708;;;5;3.09;;09set2026_brucker_jcg0h51.pdf
+680;2026-09;Fichas set/2026;JCG0H51;2026-09-05;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;450.0;;3;2947.5;;09set2026_brucker_jcg0h51.pdf
+681;2026-09;Fichas set/2026;JCG0H51;2026-09-05;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;17.85;;3;51.59;;09set2026_brucker_jcg0h51.pdf
+682;2026-09;Fichas set/2026;JCG0H51;2026-09-08;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8724;;;5;4.32;;09set2026_brucker_jcg0h51.pdf
+683;2026-09;Fichas set/2026;JCG0H51;2026-09-10;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;13.4;;3;38.73;;09set2026_brucker_jcg0h51.pdf
+684;2026-09;Fichas set/2026;JCG0H51;2026-09-10;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;425.0;;3;2783.75;;09set2026_brucker_jcg0h51.pdf
+685;2026-09;Fichas set/2026;JCG0H51;2026-09-10;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8733;;;5;3.26;;09set2026_brucker_jcg0h51.pdf
+686;2026-09;Fichas set/2026;JCG0H51;2026-09-11;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTACAO;;Lançamento;52;;;5;10000.0;;09set2026_brucker_jcg0h51.pdf
+687;2026-09;Fichas set/2026;JCG0H51;2026-09-12;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8744;;;5;3.17;;09set2026_brucker_jcg0h51.pdf
+688;2026-09;Fichas set/2026;JCG0H51;2026-09-13;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;262.42;;3;1750.34;;09set2026_brucker_jcg0h51.pdf
+689;2026-09;Fichas set/2026;JCG0H51;2026-09-13;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;24.34;;3;70.34;;09set2026_brucker_jcg0h51.pdf
+690;2026-09;Fichas set/2026;JCG0H51;2026-09-14;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;26436;;;5;3.19;;09set2026_brucker_jcg0h51.pdf
+691;2026-09;Fichas set/2026;JCG0H51;2026-09-15;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;26467;;;5;3.17;;09set2026_brucker_jcg0h51.pdf
+692;2026-09;Fichas set/2026;JCG0H51;2026-09-16;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;SIM REDE DE POSTOS LTDA - TIO HUGO;NOTA FISCAL SIMPLIFICADA;0;476.85;;3;2985.08;;09set2026_brucker_jcg0h51.pdf
+693;2026-09;Fichas set/2026;JCG0H51;2026-09-16;Débito;Combustível;Combustível;Arla 32;ARLA 32;;SIM REDE DE POSTOS LTDA - TIO HUGO;NOTA FISCAL SIMPLIFICADA;0;56.62;;3;163.62;;09set2026_brucker_jcg0h51.pdf
+694;2026-09;Fichas set/2026;JCG0H51;2026-09-16;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;SERVICO DE CORRETIVA CAVALO;;NORDICA;NOTA FISCAL DE ENTRADA;10736;;;4;138.28;;09set2026_brucker_jcg0h51.pdf
+695;2026-09;Fichas set/2026;JCG0H51;2026-09-16;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;FILTRO ARLA + PENEIRA;;NORDICA;NOTA FISCAL DE ENTRADA;435605;;;4;526.65;;09set2026_brucker_jcg0h51.pdf
+696;2026-09;Fichas set/2026;JCG0H51;2026-09-17;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;247.0;;3;1647.49;;09set2026_brucker_jcg0h51.pdf
+697;2026-09;Fichas set/2026;JCG0H51;2026-09-17;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;24.02;;3;69.42;;09set2026_brucker_jcg0h51.pdf
+698;2026-09;Fichas set/2026;JCG0H51;2026-09-17;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;FILTRO;;NORDICA;NOTA FISCAL DE ENTRADA;435704;;;4;479.0;;09set2026_brucker_jcg0h51.pdf
+699;2026-09;Fichas set/2026;JCG0H51;2026-09-17;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;FILTRO;;NORDICA;NOTA FISCAL DE ENTRADA;435704;;;4;369.01;;09set2026_brucker_jcg0h51.pdf
+700;2026-09;Fichas set/2026;JCG0H51;2026-09-17;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8773;;;5;3.59;;09set2026_brucker_jcg0h51.pdf
+701;2026-09;Fichas set/2026;JCG0H51;2026-09-18;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;SERVICO DE INSPECAO CIV CAVALO;;CERTIPAR;NOTA FISCAL DE ENTRADA;798;;;4;400.0;;09set2026_brucker_jcg0h51.pdf
+702;2026-09;Fichas set/2026;JCG0H51;2026-09-19;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;445.01;;3;3034.97;;09set2026_brucker_jcg0h51.pdf
+703;2026-09;Fichas set/2026;JCG0H51;2026-09-19;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;45.79;;3;132.33;;09set2026_brucker_jcg0h51.pdf
+704;2026-09;Fichas set/2026;JCG0H51;2026-09-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8792;;;5;3.28;;09set2026_brucker_jcg0h51.pdf
+705;2026-09;Fichas set/2026;JCG0H51;2026-09-23;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;363.0;;3;2475.66;;09set2026_brucker_jcg0h51.pdf
+706;2026-09;Fichas set/2026;JCG0H51;2026-09-23;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;41.59;;3;120.2;;09set2026_brucker_jcg0h51.pdf
+707;2026-09;Fichas set/2026;JCG0H51;2026-09-23;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;SERVICO DE RASTREAMENTO;;DENOX TECNOLOGIA LTDA;NOTA FISCAL DE ENTRADA;4781;;;4;450.86;;09set2026_brucker_jcg0h51.pdf
+708;2026-09;Fichas set/2026;JCG0H51;2026-09-23;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8809;;;5;3.31;;09set2026_brucker_jcg0h51.pdf
+709;2026-09;Fichas set/2026;JCG0H51;2026-09-25;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;155.0;;3;1057.1;;09set2026_brucker_jcg0h51.pdf
+710;2026-09;Fichas set/2026;JCG0H51;2026-09-25;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;14.6;;3;42.19;;09set2026_brucker_jcg0h51.pdf
+711;2026-09;Fichas set/2026;JCG0H51;2026-09-25;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8817;;;5;3.2;;09set2026_brucker_jcg0h51.pdf
+712;2026-09;Fichas set/2026;JCG8H84;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;09set2026_brucker_jcg8h84.pdf
+713;2026-09;Fichas set/2026;JCG8H84;2026-08-10;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;CAMERAS;;Lançamento;52;;;5;170.0;;09set2026_brucker_jcg8h84.pdf
+714;2026-09;Fichas set/2026;JCG8H84;2026-08-10;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;09set2026_brucker_jcg8h84.pdf
+715;2026-09;Fichas set/2026;JCG8H84;2026-09-01;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;400.0;;3;2540.0;;09set2026_brucker_jcg8h84.pdf
+716;2026-09;Fichas set/2026;JCG8H84;2026-09-02;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;57.75;;3;166.9;;09set2026_brucker_jcg8h84.pdf
+717;2026-09;Fichas set/2026;JCG8H84;2026-09-02;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;230.0;;3;1460.5;;09set2026_brucker_jcg8h84.pdf
+718;2026-09;Fichas set/2026;JCG8H84;2026-09-02;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8705;;;5;3.12;;09set2026_brucker_jcg8h84.pdf
+719;2026-09;Fichas set/2026;JCG8H84;2026-09-05;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;380.0;;3;2489.0;;09set2026_brucker_jcg8h84.pdf
+720;2026-09;Fichas set/2026;JCG8H84;2026-09-05;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;38.51;;3;111.29;;09set2026_brucker_jcg8h84.pdf
+721;2026-09;Fichas set/2026;JCG8H84;2026-09-05;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8717;;;5;4.06;;09set2026_brucker_jcg8h84.pdf
+722;2026-09;Fichas set/2026;JCG8H84;2026-09-09;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO;;Lançamento;52;;;5;428.67;;09set2026_brucker_jcg8h84.pdf
+723;2026-09;Fichas set/2026;JCG8H84;2026-09-12;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;42.45;;3;122.68;;09set2026_brucker_jcg8h84.pdf
+724;2026-09;Fichas set/2026;JCG8H84;2026-09-12;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;440.0;;3;2934.8;;09set2026_brucker_jcg8h84.pdf
+725;2026-09;Fichas set/2026;JCG8H84;2026-09-12;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8741;;;5;2.59;;09set2026_brucker_jcg8h84.pdf
+726;2026-09;Fichas set/2026;JCG8H84;2026-09-14;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8752;;;5;2.55;;09set2026_brucker_jcg8h84.pdf
+727;2026-09;Fichas set/2026;JCG8H84;2026-09-17;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;481.0;;3;3208.27;;09set2026_brucker_jcg8h84.pdf
+728;2026-09;Fichas set/2026;JCG8H84;2026-09-17;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;43.94;;3;126.99;;09set2026_brucker_jcg8h84.pdf
+729;2026-09;Fichas set/2026;JCG8H84;2026-09-17;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8771;;;5;3.18;;09set2026_brucker_jcg8h84.pdf
+730;2026-09;Fichas set/2026;JCG8H84;2026-09-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8793;;;5;3.35;;09set2026_brucker_jcg8h84.pdf
+731;2026-09;Fichas set/2026;JCG8H84;2026-09-20;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;390.01;;3;2659.87;;09set2026_brucker_jcg8h84.pdf
+732;2026-09;Fichas set/2026;JCG8H84;2026-09-20;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;38.01;;3;109.85;;09set2026_brucker_jcg8h84.pdf
+733;2026-09;Fichas set/2026;JCG8H84;2026-09-21;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;26531;;;5;3.38;;09set2026_brucker_jcg8h84.pdf
+734;2026-09;Fichas set/2026;JCG8H84;2026-09-23;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;COMERCIAL BUFFON;NOTA FISCAL SIMPLIFICADA;0;200.0;;3;1304.0;;09set2026_brucker_jcg8h84.pdf
+735;2026-09;Fichas set/2026;JCG8H84;2026-09-23;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;410.0;;3;2796.2;;09set2026_brucker_jcg8h84.pdf
+736;2026-09;Fichas set/2026;JCG8H84;2026-09-23;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;54.04;;3;156.18;;09set2026_brucker_jcg8h84.pdf
+737;2026-09;Fichas set/2026;JCG8H84;2026-09-24;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8813;;;5;4.55;;09set2026_brucker_jcg8h84.pdf
+738;2026-09;Fichas set/2026;JCG8H84;2026-09-26;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8822;;;5;4.39;;09set2026_brucker_jcg8h84.pdf
+739;2026-09;Fichas set/2026;JCG8H84;2026-09-28;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;420.03;;3;2864.6;;09set2026_brucker_jcg8h84.pdf
+740;2026-09;Fichas set/2026;JCG8H84;2026-09-28;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;37.42;;3;108.14;;09set2026_brucker_jcg8h84.pdf
+741;2026-09;Fichas set/2026;JCG8H84;2026-09-30;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;385.0;;3;2625.7;;09set2026_brucker_jcg8h84.pdf
+742;2026-09;Fichas set/2026;JCG8H84;2026-09-30;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;40.14;;3;116.0;;09set2026_brucker_jcg8h84.pdf
+743;2026-09;Fichas set/2026;JCG8H84;2026-09-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8860;;;5;0.0;;09set2026_brucker_jcg8h84.pdf
+744;2026-09;Fichas set/2026;JCG8H84;2026-09-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8855;;;5;4.72;;09set2026_brucker_jcg8h84.pdf
+745;2026-09;Fichas set/2026;JCG8H84;2026-10-13;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;FROTA ESTOURO DE PNEU, PORCA, ARRUELA LISA 1/2;;Lançamento;52;;;5;606.9;;09set2026_brucker_jcg8h84.pdf
+746;2026-09;Fichas set/2026;JCG8H84;2026-10-13;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;DEMAIS DÉBITOS;Rastreador Sascar;;Lançamento;52;;;5;401.8;;09set2026_brucker_jcg8h84.pdf
+747;2026-09;Fichas set/2026;SEI0H92;2025-11-10;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;MENSALIDADE CAMERAS EM 36X;;Lançamento;52;;;5;170.0;;09set2026_brucker_sei0h92.pdf
+748;2026-09;Fichas set/2026;SEI0H92;2026-02-14;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;09set2026_brucker_sei0h92.pdf
+749;2026-09;Fichas set/2026;SEI0H92;2026-06-13;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;IPVA + LICENCIAMENTO EM 8X;;Lançamento;52;;;5;1030.7;;09set2026_brucker_sei0h92.pdf
+750;2026-09;Fichas set/2026;SEI0H92;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;09set2026_brucker_sei0h92.pdf
+751;2026-09;Fichas set/2026;SEI0H92;2026-09-01;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;368.0;;3;2336.8;;09set2026_brucker_sei0h92.pdf
+752;2026-09;Fichas set/2026;SEI0H92;2026-09-01;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;64.01;;3;184.99;;09set2026_brucker_sei0h92.pdf
+753;2026-09;Fichas set/2026;SEI0H92;2026-09-02;Débito;Manutenção/IPVA/Seguro;Manutenção;Lavagem;SERVIÇO LAVAGEM EXTERNA;;MUNDIAL TANQUES;NOTA FISCAL DE ENTRADA;15372;;;4;400.0;;09set2026_brucker_sei0h92.pdf
+754;2026-09;Fichas set/2026;SEI0H92;2026-09-02;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8702;;;5;4.01;;09set2026_brucker_sei0h92.pdf
+755;2026-09;Fichas set/2026;SEI0H92;2026-09-03;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;355.0;;3;2254.25;;09set2026_brucker_sei0h92.pdf
+756;2026-09;Fichas set/2026;SEI0H92;2026-09-03;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;36.68;;3;106.01;;09set2026_brucker_sei0h92.pdf
+757;2026-09;Fichas set/2026;SEI0H92;2026-09-03;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8711;;;5;4.32;;09set2026_brucker_sei0h92.pdf
+758;2026-09;Fichas set/2026;SEI0H92;2026-09-06;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;398.01;;3;2606.97;;09set2026_brucker_sei0h92.pdf
+759;2026-09;Fichas set/2026;SEI0H92;2026-09-06;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;42.52;;3;122.88;;09set2026_brucker_sei0h92.pdf
+760;2026-09;Fichas set/2026;SEI0H92;2026-09-06;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8721;;;5;3.93;;09set2026_brucker_sei0h92.pdf
+761;2026-09;Fichas set/2026;SEI0H92;2026-09-08;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;341.0;;3;2233.55;;09set2026_brucker_sei0h92.pdf
+762;2026-09;Fichas set/2026;SEI0H92;2026-09-08;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;37.11;;3;107.25;;09set2026_brucker_sei0h92.pdf
+763;2026-09;Fichas set/2026;SEI0H92;2026-09-08;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8726;;;5;4.25;;09set2026_brucker_sei0h92.pdf
+764;2026-09;Fichas set/2026;SEI0H92;2026-09-09;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO;;Lançamento;52;;;5;859.67;;09set2026_brucker_sei0h92.pdf
+765;2026-09;Fichas set/2026;SEI0H92;2026-09-10;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;236.01;;3;1545.87;;09set2026_brucker_sei0h92.pdf
+766;2026-09;Fichas set/2026;SEI0H92;2026-09-10;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;26.71;;3;77.19;;09set2026_brucker_sei0h92.pdf
+767;2026-09;Fichas set/2026;SEI0H92;2026-09-10;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8732;;;5;3.21;;09set2026_brucker_sei0h92.pdf
+768;2026-09;Fichas set/2026;SEI0H92;2026-09-12;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;450.0;;3;3001.5;;09set2026_brucker_sei0h92.pdf
+769;2026-09;Fichas set/2026;SEI0H92;2026-09-12;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;31.9;;3;92.19;;09set2026_brucker_sei0h92.pdf
+770;2026-09;Fichas set/2026;SEI0H92;2026-09-13;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8746;;;5;3.91;;09set2026_brucker_sei0h92.pdf
+771;2026-09;Fichas set/2026;SEI0H92;2026-09-15;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;358.8;;3;2393.2;;09set2026_brucker_sei0h92.pdf
+772;2026-09;Fichas set/2026;SEI0H92;2026-09-15;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;31.32;;3;90.51;;09set2026_brucker_sei0h92.pdf
+773;2026-09;Fichas set/2026;SEI0H92;2026-09-15;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;FILTRO;;NORDICA;NOTA FISCAL DE ENTRADA;435438;;;4;479.0;;09set2026_brucker_sei0h92.pdf
+774;2026-09;Fichas set/2026;SEI0H92;2026-09-15;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;FILTRO COMBUSTIVEL;;NORDICA;NOTA FISCAL DE ENTRADA;435438;;;4;369.01;;09set2026_brucker_sei0h92.pdf
+775;2026-09;Fichas set/2026;SEI0H92;2026-09-15;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8757;;;5;2.99;;09set2026_brucker_sei0h92.pdf
+776;2026-09;Fichas set/2026;SEI0H92;2026-09-17;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8772;;;5;2.91;;09set2026_brucker_sei0h92.pdf
+777;2026-09;Fichas set/2026;SEI0H92;2026-09-19;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;347.0;;3;2366.54;;09set2026_brucker_sei0h92.pdf
+778;2026-09;Fichas set/2026;SEI0H92;2026-09-19;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;26.22;;3;75.78;;09set2026_brucker_sei0h92.pdf
+779;2026-09;Fichas set/2026;SEI0H92;2026-09-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8791;;;5;3.9;;09set2026_brucker_sei0h92.pdf
+780;2026-09;Fichas set/2026;SEI0H92;2026-09-22;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;382.0;;3;2605.24;;09set2026_brucker_sei0h92.pdf
+781;2026-09;Fichas set/2026;SEI0H92;2026-09-22;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;27.67;;3;79.97;;09set2026_brucker_sei0h92.pdf
+782;2026-09;Fichas set/2026;SEI0H92;2026-09-22;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8805;;;5;2.89;;09set2026_brucker_sei0h92.pdf
+783;2026-09;Fichas set/2026;SEI0H92;2026-09-24;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;222.01;;3;1514.11;;09set2026_brucker_sei0h92.pdf
+784;2026-09;Fichas set/2026;SEI0H92;2026-09-24;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;20.69;;3;59.79;;09set2026_brucker_sei0h92.pdf
+785;2026-09;Fichas set/2026;SEI0H92;2026-09-24;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8815;;;5;3.88;;09set2026_brucker_sei0h92.pdf
+786;2026-09;Fichas set/2026;SEI0H92;2026-09-25;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;SERVICO DE CORRETIVA CAVALO;;NORDICA;NOTA FISCAL DE ENTRADA;11034;;;4;138.28;;09set2026_brucker_sei0h92.pdf
+787;2026-09;Fichas set/2026;SEI0H92;2026-09-25;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;FILTRO;;NORDICA;NOTA FISCAL DE ENTRADA;436396;;;4;526.65;;09set2026_brucker_sei0h92.pdf
+788;2026-09;Fichas set/2026;SEI0H92;2026-09-26;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;480.0;;3;3273.6;;09set2026_brucker_sei0h92.pdf
+789;2026-09;Fichas set/2026;SEI0H92;2026-09-26;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;50.14;;3;144.9;;09set2026_brucker_sei0h92.pdf
+790;2026-09;Fichas set/2026;SEI0H92;2026-09-26;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8824;;;5;3.82;;09set2026_brucker_sei0h92.pdf
+791;2026-09;Fichas set/2026;SEI0H92;2026-09-29;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;236.38;;3;1612.11;;09set2026_brucker_sei0h92.pdf
+792;2026-09;Fichas set/2026;SEI0H92;2026-09-29;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;23.26;;3;67.22;;09set2026_brucker_sei0h92.pdf
+793;2026-09;Fichas set/2026;SEI0H92;2026-09-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8854;;;5;4.34;;09set2026_brucker_sei0h92.pdf
+794;2026-09;Fichas set/2026;SEI2B52;2025-11-10;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;MENSALIDADE CAMERAS EM 36X;;Lançamento;52;;;5;170.0;;09set2026_brucker_sei2b52.pdf
+795;2026-09;Fichas set/2026;SEI2B52;2026-02-14;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;09set2026_brucker_sei2b52.pdf
+796;2026-09;Fichas set/2026;SEI2B52;2026-06-13;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;IPVA + LICENCIAMENTO EM 8X;;Lançamento;52;;;5;1030.7;;09set2026_brucker_sei2b52.pdf
+797;2026-09;Fichas set/2026;SEI2B52;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;09set2026_brucker_sei2b52.pdf
+798;2026-09;Fichas set/2026;SEI2B52;2026-09-01;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;370.0;;3;2349.5;;09set2026_brucker_sei2b52.pdf
+799;2026-09;Fichas set/2026;SEI2B52;2026-09-01;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;37.09;;3;107.19;;09set2026_brucker_sei2b52.pdf
+800;2026-09;Fichas set/2026;SEI2B52;2026-09-01;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8696;;;5;0.0;;09set2026_brucker_sei2b52.pdf
+801;2026-09;Fichas set/2026;SEI2B52;2026-09-03;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;360.0;;3;2286.0;;09set2026_brucker_sei2b52.pdf
+802;2026-09;Fichas set/2026;SEI2B52;2026-09-03;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;33.75;;3;97.54;;09set2026_brucker_sei2b52.pdf
+803;2026-09;Fichas set/2026;SEI2B52;2026-09-05;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8719;;;5;3.75;;09set2026_brucker_sei2b52.pdf
+804;2026-09;Fichas set/2026;SEI2B52;2026-09-06;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;41.43;;3;119.73;;09set2026_brucker_sei2b52.pdf
+805;2026-09;Fichas set/2026;SEI2B52;2026-09-06;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;356.0;;3;2331.8;;09set2026_brucker_sei2b52.pdf
+806;2026-09;Fichas set/2026;SEI2B52;2026-09-09;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8728;;;5;2.9;;09set2026_brucker_sei2b52.pdf
+807;2026-09;Fichas set/2026;SEI2B52;2026-09-09;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO;;Lançamento;52;;;5;859.67;;09set2026_brucker_sei2b52.pdf
+808;2026-09;Fichas set/2026;SEI2B52;2026-09-10;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;360.0;;3;2358.0;;09set2026_brucker_sei2b52.pdf
+809;2026-09;Fichas set/2026;SEI2B52;2026-09-10;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8736;;;5;2.84;;09set2026_brucker_sei2b52.pdf
+810;2026-09;Fichas set/2026;SEI2B52;2026-09-11;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;SERVICO DE RASTREAMENTO;;SASCAR;NOTA FISCAL DE ENTRADA;1030132;;;4;401.8;;09set2026_brucker_sei2b52.pdf
+811;2026-09;Fichas set/2026;SEI2B52;2026-09-12;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;355.0;;3;2367.85;;09set2026_brucker_sei2b52.pdf
+812;2026-09;Fichas set/2026;SEI2B52;2026-09-12;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;64.76;;3;187.16;;09set2026_brucker_sei2b52.pdf
+813;2026-09;Fichas set/2026;SEI2B52;2026-09-14;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8750;;;5;2.59;;09set2026_brucker_sei2b52.pdf
+814;2026-09;Fichas set/2026;SEI2B52;2026-09-16;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;230.0;;3;1534.1;;09set2026_brucker_sei2b52.pdf
+815;2026-09;Fichas set/2026;SEI2B52;2026-09-16;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;24.56;;3;70.98;;09set2026_brucker_sei2b52.pdf
+816;2026-09;Fichas set/2026;SEI2B52;2026-09-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8763;;;5;3.82;;09set2026_brucker_sei2b52.pdf
+817;2026-09;Fichas set/2026;SEI2B52;2026-09-18;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;464.01;;3;3094.95;;09set2026_brucker_sei2b52.pdf
+818;2026-09;Fichas set/2026;SEI2B52;2026-09-18;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;46.16;;3;133.4;;09set2026_brucker_sei2b52.pdf
+819;2026-09;Fichas set/2026;SEI2B52;2026-09-19;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;232.0;;3;1582.24;;09set2026_brucker_sei2b52.pdf
+820;2026-09;Fichas set/2026;SEI2B52;2026-09-19;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;26.06;;3;75.31;;09set2026_brucker_sei2b52.pdf
+821;2026-09;Fichas set/2026;SEI2B52;2026-09-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8789;;;5;3.96;;09set2026_brucker_sei2b52.pdf
+822;2026-09;Fichas set/2026;SEI2B52;2026-09-21;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8799;;;5;3.2;;09set2026_brucker_sei2b52.pdf
+823;2026-09;Fichas set/2026;SEI2B52;2026-09-23;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;350.0;;3;2387.0;;09set2026_brucker_sei2b52.pdf
+824;2026-09;Fichas set/2026;SEI2B52;2026-09-23;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;32.22;;3;93.12;;09set2026_brucker_sei2b52.pdf
+825;2026-09;Fichas set/2026;SEI2B52;2026-09-24;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8812;;;5;3.76;;09set2026_brucker_sei2b52.pdf
+826;2026-09;Fichas set/2026;SEI2B52;2026-09-26;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;320.0;;3;2182.4;;09set2026_brucker_sei2b52.pdf
+827;2026-09;Fichas set/2026;SEI2B52;2026-09-26;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;34.14;;3;98.66;;09set2026_brucker_sei2b52.pdf
+828;2026-09;Fichas set/2026;SEI2B52;2026-09-28;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8825;;;5;2.69;;09set2026_brucker_sei2b52.pdf
+829;2026-09;Fichas set/2026;SEI2B52;2026-09-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8853;;;5;3.81;;09set2026_brucker_sei2b52.pdf
+830;2026-09;Fichas set/2026;SEI2B52;2026-09-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8857;;;5;0.0;;09set2026_brucker_sei2b52.pdf
+831;2026-09;Fichas set/2026;SEI2B52;2026-10-14;Débito;Manutenção/IPVA/Seguro;Outros;Outros;DEMAIS DÉBITOS;;;Lançamento;52;;;5;504.32;;09set2026_brucker_sei2b52.pdf
+832;2026-09;Fichas set/2026;SEI2B52;2026-10-14;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MOLA PNEUMATICA 1T17GKA-55, SERVICO DE CORRETIVA CAVALO;;Lançamento;52;;;5;874.76;;09set2026_brucker_sei2b52.pdf
+833;2026-09;Fichas set/2026;SEI2B52;2026-10-14;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;SERVICO DE CORRETIVA CAVALO, MOLA PNEUMATICA VOLVO;;Lançamento;52;;;5;437.38;;09set2026_brucker_sei2b52.pdf
+834;2026-09;Fichas set/2026;SEI2B55;2025-11-13;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;MENSALIDADE CAMERAS EM 36X;;Lançamento;52;;;5;170.0;;09set2026_brucker_sei2b55.pdf
+835;2026-09;Fichas set/2026;SEI2B55;2026-03-11;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;09set2026_brucker_sei2b55.pdf
+836;2026-09;Fichas set/2026;SEI2B55;2026-06-13;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;IPVA + LICENCIAMENTO EM 8X;;Lançamento;52;;;5;1030.7;;09set2026_brucker_sei2b55.pdf
+837;2026-09;Fichas set/2026;SEI2B55;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;09set2026_brucker_sei2b55.pdf
+838;2026-09;Fichas set/2026;SEI2B55;2026-08-10;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO EM 3X;;Lançamento;52;;;5;893.0;;09set2026_brucker_sei2b55.pdf
+839;2026-09;Fichas set/2026;SEI2B55;2026-09-01;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;COMERCIAL BUFFON;NOTA FISCAL SIMPLIFICADA;0;464.02;;3;2626.34;;09set2026_brucker_sei2b55.pdf
+840;2026-09;Fichas set/2026;SEI2B55;2026-09-01;Débito;Combustível;Combustível;Arla 32;ARLA 32;;COMERCIAL BUFFON;NOTA FISCAL SIMPLIFICADA;0;42.38;;3;118.24;;09set2026_brucker_sei2b55.pdf
+841;2026-09;Fichas set/2026;SEI2B55;2026-09-01;Débito;Manutenção/IPVA/Seguro;Multas;Multa;MULTA DE TRÂNSITO ADMIN;;DETRAN PR;NOTA FISCAL DE ENTRADA;1521204;;;4;156.18;;09set2026_brucker_sei2b55.pdf
+842;2026-09;Fichas set/2026;SEI2B55;2026-09-02;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;157.0;;3;996.95;;09set2026_brucker_sei2b55.pdf
+843;2026-09;Fichas set/2026;SEI2B55;2026-09-02;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;19.74;;3;57.05;;09set2026_brucker_sei2b55.pdf
+844;2026-09;Fichas set/2026;SEI2B55;2026-09-02;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8704;;;5;3.85;;09set2026_brucker_sei2b55.pdf
+845;2026-09;Fichas set/2026;SEI2B55;2026-09-03;Débito;Manutenção/IPVA/Seguro;Manutenção;Lavagem;SERVIÇO LAVAGEM EXTERNA;;RENOVAR CAMINHOES;NOTA FISCAL DE ENTRADA;2626;;;4;350.0;;09set2026_brucker_sei2b55.pdf
+846;2026-09;Fichas set/2026;SEI2B55;2026-09-05;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;414.02;;3;2711.83;;09set2026_brucker_sei2b55.pdf
+847;2026-09;Fichas set/2026;SEI2B55;2026-09-05;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;36.78;;3;106.29;;09set2026_brucker_sei2b55.pdf
+848;2026-09;Fichas set/2026;SEI2B55;2026-09-08;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8725;;;5;5.08;;09set2026_brucker_sei2b55.pdf
+849;2026-09;Fichas set/2026;SEI2B55;2026-09-10;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;395.0;;3;2587.25;;09set2026_brucker_sei2b55.pdf
+850;2026-09;Fichas set/2026;SEI2B55;2026-09-10;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;43.0;;3;124.27;;09set2026_brucker_sei2b55.pdf
+851;2026-09;Fichas set/2026;SEI2B55;2026-09-10;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8735;;;5;3.83;;09set2026_brucker_sei2b55.pdf
+852;2026-09;Fichas set/2026;SEI2B55;2026-09-12;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;454.0;;3;3028.18;;09set2026_brucker_sei2b55.pdf
+853;2026-09;Fichas set/2026;SEI2B55;2026-09-12;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;46.61;;3;134.7;;09set2026_brucker_sei2b55.pdf
+854;2026-09;Fichas set/2026;SEI2B55;2026-09-12;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8745;;;5;4.44;;09set2026_brucker_sei2b55.pdf
+855;2026-09;Fichas set/2026;SEI2B55;2026-09-15;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;390.0;;3;2601.3;;09set2026_brucker_sei2b55.pdf
+856;2026-09;Fichas set/2026;SEI2B55;2026-09-15;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;35.92;;3;103.81;;09set2026_brucker_sei2b55.pdf
+857;2026-09;Fichas set/2026;SEI2B55;2026-09-15;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8754;;;5;3.84;;09set2026_brucker_sei2b55.pdf
+858;2026-09;Fichas set/2026;SEI2B55;2026-09-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8762;;;5;5.03;;09set2026_brucker_sei2b55.pdf
+859;2026-09;Fichas set/2026;SEI2B55;2026-09-18;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;510.01;;3;3401.77;;09set2026_brucker_sei2b55.pdf
+860;2026-09;Fichas set/2026;SEI2B55;2026-09-18;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;56.97;;3;164.64;;09set2026_brucker_sei2b55.pdf
+861;2026-09;Fichas set/2026;SEI2B55;2026-09-19;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8790;;;5;4.76;;09set2026_brucker_sei2b55.pdf
+862;2026-09;Fichas set/2026;SEI2B55;2026-09-21;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;434.01;;3;2959.95;;09set2026_brucker_sei2b55.pdf
+863;2026-09;Fichas set/2026;SEI2B55;2026-09-21;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;40.27;;3;116.38;;09set2026_brucker_sei2b55.pdf
+864;2026-09;Fichas set/2026;SEI2B55;2026-09-21;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8800;;;5;3.65;;09set2026_brucker_sei2b55.pdf
+865;2026-09;Fichas set/2026;SEI2B55;2026-09-24;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;480.0;;3;3273.6;;09set2026_brucker_sei2b55.pdf
+866;2026-09;Fichas set/2026;SEI2B55;2026-09-24;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;37.46;;3;108.26;;09set2026_brucker_sei2b55.pdf
+867;2026-09;Fichas set/2026;SEI2B55;2026-09-24;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8811;;;5;3.81;;09set2026_brucker_sei2b55.pdf
+868;2026-09;Fichas set/2026;SEI2B55;2026-09-26;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;254.0;;3;1732.28;;09set2026_brucker_sei2b55.pdf
+869;2026-09;Fichas set/2026;SEI2B55;2026-09-26;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;22.64;;3;65.43;;09set2026_brucker_sei2b55.pdf
+870;2026-09;Fichas set/2026;SEI2B55;2026-09-26;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8823;;;5;4.39;;09set2026_brucker_sei2b55.pdf
+871;2026-09;Fichas set/2026;SEI2B55;2026-09-29;Débito;Manutenção/IPVA/Seguro;Multas;Multa;MULTA DE TRÂNSITO ADMIN;;DETRAN PR;NOTA FISCAL DE ENTRADA;467142;;;4;156.18;;09set2026_brucker_sei2b55.pdf
+872;2026-09;Fichas set/2026;SEI2B55;2026-09-30;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;415.01;;3;2830.37;;09set2026_brucker_sei2b55.pdf
+873;2026-09;Fichas set/2026;SEI2B55;2026-09-30;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;33.52;;3;96.87;;09set2026_brucker_sei2b55.pdf
+874;2026-09;Fichas set/2026;SEI2B55;2026-09-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;26679;;;5;0.0;;09set2026_brucker_sei2b55.pdf
+875;2026-09;Fichas set/2026;SEI2B55;2026-09-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8839;;;5;3.89;;09set2026_brucker_sei2b55.pdf
+876;2026-09;Fichas set/2026;SEI2B55;2026-09-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8856;;;5;0.0;;09set2026_brucker_sei2b55.pdf
+877;2026-09;Fichas set/2026;SEI2B55;2026-09-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8859;;;5;0.0;;09set2026_brucker_sei2b55.pdf
+878;2026-09;Fichas set/2026;SEI2B55;2026-09-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;26677;;;5;0.0;;09set2026_brucker_sei2b55.pdf
+879;2026-09;Fichas set/2026;SEI2B55;2026-10-14;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;DEMAIS DÉBITOS;Rastreador Sascar;;Lançamento;52;;;5;401.26;;09set2026_brucker_sei2b55.pdf
+880;2026-09;Fichas set/2026;SEI2B55;2026-10-14;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;SERVICO DE CORRETIVA CARRETA, GRAMPO, PARAFUSO, PINO CENTRO;;Lançamento;52;;;5;136.87;;09set2026_brucker_sei2b55.pdf
+881;2026-09;Fichas set/2026;SEI2B55;2026-10-14;Débito;Manutenção/IPVA/Seguro;Outros;Outros;DEMAIS DÉBITOS;;;Lançamento;52;;;5;2154.15;;09set2026_brucker_sei2b55.pdf
+882;2026-09;Fichas set/2026;SEI2B55;2026-10-14;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;SERVICO DE CORRETIVA CAVALO, APOIO ESTRUTURAL;;Lançamento;52;;;5;1293.51;;09set2026_brucker_sei2b55.pdf
+883;2026-09;Fichas set/2026;SEI2B56;2025-11-10;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;MENSALIDADE CAMERAS EM 36X;;Lançamento;52;;;5;170.0;;09set2026_brucker_sei2b56.pdf
+884;2026-09;Fichas set/2026;SEI2B56;2026-03-11;Débito;Parcela;Parcela;Parcela do veículo;DEMAIS DÉBITOS;PRESTAÇÃO;;Lançamento;52;;;5;10000.0;;09set2026_brucker_sei2b56.pdf
+885;2026-09;Fichas set/2026;SEI2B56;2026-06-13;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;IPVA + LICENCIAMENTO EM 8X;;Lançamento;52;;;5;1030.7;;09set2026_brucker_sei2b56.pdf
+886;2026-09;Fichas set/2026;SEI2B56;2026-07-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;SEGURO EM 14X;;Lançamento;52;;;5;1882.76;;09set2026_brucker_sei2b56.pdf
+887;2026-09;Fichas set/2026;SEI2B56;2026-09-01;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;362.05;;3;2299.02;;09set2026_brucker_sei2b56.pdf
+888;2026-09;Fichas set/2026;SEI2B56;2026-09-01;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;32.35;;3;93.49;;09set2026_brucker_sei2b56.pdf
+889;2026-09;Fichas set/2026;SEI2B56;2026-09-02;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;353.0;;3;2241.55;;09set2026_brucker_sei2b56.pdf
+890;2026-09;Fichas set/2026;SEI2B56;2026-09-02;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;36.49;;3;105.46;;09set2026_brucker_sei2b56.pdf
+891;2026-09;Fichas set/2026;SEI2B56;2026-09-03;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8707;;;5;4.57;;09set2026_brucker_sei2b56.pdf
+892;2026-09;Fichas set/2026;SEI2B56;2026-09-04;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;236.0;;3;1498.6;;09set2026_brucker_sei2b56.pdf
+893;2026-09;Fichas set/2026;SEI2B56;2026-09-04;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;22.45;;3;64.88;;09set2026_brucker_sei2b56.pdf
+894;2026-09;Fichas set/2026;SEI2B56;2026-09-04;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8715;;;5;4.47;;09set2026_brucker_sei2b56.pdf
+895;2026-09;Fichas set/2026;SEI2B56;2026-09-09;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;555.01;;3;3635.32;;09set2026_brucker_sei2b56.pdf
+896;2026-09;Fichas set/2026;SEI2B56;2026-09-09;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;54.02;;3;156.12;;09set2026_brucker_sei2b56.pdf
+897;2026-09;Fichas set/2026;SEI2B56;2026-09-09;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;MANUTENÇÃO;;Lançamento;52;;;5;282.75;;09set2026_brucker_sei2b56.pdf
+898;2026-09;Fichas set/2026;SEI2B56;2026-09-11;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8739;;;5;4.32;;09set2026_brucker_sei2b56.pdf
+899;2026-09;Fichas set/2026;SEI2B56;2026-09-12;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;371.0;;3;2474.57;;09set2026_brucker_sei2b56.pdf
+900;2026-09;Fichas set/2026;SEI2B56;2026-09-12;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;35.53;;3;102.68;;09set2026_brucker_sei2b56.pdf
+901;2026-09;Fichas set/2026;SEI2B56;2026-09-12;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8743;;;5;4.64;;09set2026_brucker_sei2b56.pdf
+902;2026-09;Fichas set/2026;SEI2B56;2026-09-14;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8753;;;5;4.39;;09set2026_brucker_sei2b56.pdf
+903;2026-09;Fichas set/2026;SEI2B56;2026-09-15;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;260.0;;3;1734.2;;09set2026_brucker_sei2b56.pdf
+904;2026-09;Fichas set/2026;SEI2B56;2026-09-15;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;26.14;;3;75.54;;09set2026_brucker_sei2b56.pdf
+905;2026-09;Fichas set/2026;SEI2B56;2026-09-16;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;352.0;;3;2347.84;;09set2026_brucker_sei2b56.pdf
+906;2026-09;Fichas set/2026;SEI2B56;2026-09-16;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;33.45;;3;96.67;;09set2026_brucker_sei2b56.pdf
+907;2026-09;Fichas set/2026;SEI2B56;2026-09-16;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8765;;;5;4.29;;09set2026_brucker_sei2b56.pdf
+908;2026-09;Fichas set/2026;SEI2B56;2026-09-18;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8786;;;5;4.45;;09set2026_brucker_sei2b56.pdf
+909;2026-09;Fichas set/2026;SEI2B56;2026-09-20;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8796;;;5;4.07;;09set2026_brucker_sei2b56.pdf
+910;2026-09;Fichas set/2026;SEI2B56;2026-09-21;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;469.01;;3;3198.65;;09set2026_brucker_sei2b56.pdf
+911;2026-09;Fichas set/2026;SEI2B56;2026-09-21;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;48.0;;3;138.72;;09set2026_brucker_sei2b56.pdf
+912;2026-09;Fichas set/2026;SEI2B56;2026-09-22;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;418.0;;3;2850.76;;09set2026_brucker_sei2b56.pdf
+913;2026-09;Fichas set/2026;SEI2B56;2026-09-22;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;37.38;;3;108.03;;09set2026_brucker_sei2b56.pdf
+914;2026-09;Fichas set/2026;SEI2B56;2026-09-22;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8806;;;5;4.28;;09set2026_brucker_sei2b56.pdf
+915;2026-09;Fichas set/2026;SEI2B56;2026-09-24;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;377.0;;3;2571.14;;09set2026_brucker_sei2b56.pdf
+916;2026-09;Fichas set/2026;SEI2B56;2026-09-24;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;34.55;;3;99.85;;09set2026_brucker_sei2b56.pdf
+917;2026-09;Fichas set/2026;SEI2B56;2026-09-24;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8816;;;5;3.34;;09set2026_brucker_sei2b56.pdf
+918;2026-09;Fichas set/2026;SEI2B56;2026-09-25;Débito;Combustível;Combustível;Diesel S-10;OLEO DIESEL B S 10;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;370.01;;3;2523.47;;09set2026_brucker_sei2b56.pdf
+919;2026-09;Fichas set/2026;SEI2B56;2026-09-25;Débito;Combustível;Combustível;Arla 32;ARLA 32;;POSTO TIO ZICO IV LTDA;NOTA FISCAL SIMPLIFICADA;0;39.23;;3;113.37;;09set2026_brucker_sei2b56.pdf
+920;2026-09;Fichas set/2026;SEI2B56;2026-09-26;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8819;;;5;4.26;;09set2026_brucker_sei2b56.pdf
+921;2026-09;Fichas set/2026;SEI2B56;2026-09-30;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro;obs;;Conhecimento;8861;;;5;3.23;;09set2026_brucker_sei2b56.pdf
+922;2026-09;Fichas set/2026;SEI2B56;2026-10-14;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;DEMAIS DÉBITOS;Rastreador Sascar;;Lançamento;52;;;5;392.49;;09set2026_brucker_sei2b56.pdf
+923;2026-10;Excel out/2026;JCF7A22;;Débito;Combustível;Combustível;Diesel + Arla (total do mês);Combustível (total do mês);Valor da aba Faturamento por Placa;;;;;;;18027.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+924;2026-10;Excel out/2026;JCF7A22;;Débito;Parcela;Parcela;Parcela do veículo;Parcela;Valor fixo da aba Faturamento por Placa;;;;;;;10000.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+925;2026-10;Excel out/2026;JCF7A22;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços (sem descrição);Item sem descrição;"Valor extraído da fórmula do Excel; descrição não disponível";;;;;;;850.86;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+926;2026-10;Excel out/2026;JCF7A22;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: FILTRO, ELEMENTO FILTRO COMBUSTIVEL;;;;;;;2262.38;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+927;2026-10;Excel out/2026;JCF7A22;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: MANUTENÇÃO EM 3X;;;;;;;884.23;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+928;2026-10;Excel out/2026;JCF7A22;;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: SEGURO EM 14X;;;;;;;1416.09;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+929;2026-10;Excel out/2026;JCF7A22;;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro por CT-e (soma do mês);Inferido: último termo < R$ 100;;;;;;;44.11;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+930;2026-10;Excel out/2026;JCF7A27;;Débito;Combustível;Combustível;Diesel + Arla (total do mês);Combustível (total do mês);Valor da aba Faturamento por Placa;;;;;;;16599.57;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+931;2026-10;Excel out/2026;JCF7A27;;Débito;Parcela;Parcela;Parcela do veículo;Parcela;Valor fixo da aba Faturamento por Placa;;;;;;;10000.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+932;2026-10;Excel out/2026;JCF7A27;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços (sem descrição);Item sem descrição;"Valor extraído da fórmula do Excel; descrição não disponível";;;;;;;1641.98;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+933;2026-10;Excel out/2026;JCF7A27;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços (sem descrição);Item sem descrição;"Valor extraído da fórmula do Excel; descrição não disponível";;;;;;;2347.55;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+934;2026-10;Excel out/2026;JCG0H51;;Débito;Combustível;Combustível;Diesel + Arla (total do mês);Combustível (total do mês);Valor da aba Faturamento por Placa;;;;;;;20843.5;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+935;2026-10;Excel out/2026;JCG0H51;;Débito;Parcela;Parcela;Parcela do veículo;Parcela;Valor fixo da aba Faturamento por Placa;;;;;;;10000.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+936;2026-10;Excel out/2026;JCG0H51;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços (sem descrição);Item sem descrição;"Valor extraído da fórmula do Excel; descrição não disponível";;;;;;;2363.8;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+937;2026-10;Excel out/2026;JCG0H51;;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: SEGURO EM 14X;;;;;;;1416.09;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+938;2026-10;Excel out/2026;JCG0H51;;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro por CT-e (soma do mês);Inferido: último termo < R$ 100;;;;;;;38.02;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+939;2026-10;Excel out/2026;JCG8H84;;Débito;Combustível;Combustível;Diesel + Arla (total do mês);Combustível (total do mês);Valor da aba Faturamento por Placa;;;;;;;28418.18;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+940;2026-10;Excel out/2026;JCG8H84;;Débito;Parcela;Parcela;Parcela do veículo;Parcela;Valor fixo da aba Faturamento por Placa;;;;;;;10000.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+941;2026-10;Excel out/2026;JCG8H84;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: FROTA ESTOURO DE PNEU, PORCA, ARRUELA LISA 1/2;;;;;;;606.9;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+942;2026-10;Excel out/2026;JCG8H84;;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: RASTREAMENTO;;;;;;;401.8;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+943;2026-10;Excel out/2026;JCG8H84;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: MANUTENÇÃO;;;;;;;428.67;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+944;2026-10;Excel out/2026;JCG8H84;;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: MENSALIDADE CAMERAS EM 36X;;;;;;;170.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+945;2026-10;Excel out/2026;JCG8H84;;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: SEGURO EM 14X;;;;;;;1882.76;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+946;2026-10;Excel out/2026;JCG8H84;;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro por CT-e (soma do mês);Inferido: último termo < R$ 100;;;;;;;35.9;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+947;2026-10;Excel out/2026;SEI0H92;;Débito;Combustível;Combustível;Diesel + Arla (total do mês);Combustível (total do mês);Valor da aba Faturamento por Placa;;;;;;;28048.06;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+948;2026-10;Excel out/2026;SEI0H92;;Débito;Parcela;Parcela;Parcela do veículo;Parcela;Valor fixo da aba Faturamento por Placa;;;;;;;10000.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+949;2026-10;Excel out/2026;SEI0H92;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços (sem descrição);Item sem descrição;"Valor extraído da fórmula do Excel; descrição não disponível";;;;;;;1912.24;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+950;2026-10;Excel out/2026;SEI0H92;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: MANUTENÇÃO;;;;;;;859.67;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+951;2026-10;Excel out/2026;SEI0H92;;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: SEGURO EM 14X;;;;;;;1882.76;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+952;2026-10;Excel out/2026;SEI0H92;;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: IPVA + LICENCIAMENTO EM 8X;;;;;;;1030.7;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+953;2026-10;Excel out/2026;SEI0H92;;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: MENSALIDADE CAMERAS EM 36X;;;;;;;170.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+954;2026-10;Excel out/2026;SEI0H92;;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro por CT-e (soma do mês);Inferido: último termo < R$ 100;;;;;;;49.06;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+955;2026-10;Excel out/2026;SEI2B52;;Débito;Combustível;Combustível;Diesel + Arla (total do mês);Combustível (total do mês);Valor da aba Faturamento por Placa;;;;;;;26389.64;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+956;2026-10;Excel out/2026;SEI2B52;;Débito;Parcela;Parcela;Parcela do veículo;Parcela;Valor fixo da aba Faturamento por Placa;;;;;;;10000.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+957;2026-10;Excel out/2026;SEI2B52;;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: RASTREAMENTO;;;;;;;401.8;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+958;2026-10;Excel out/2026;SEI2B52;;Débito;Manutenção/IPVA/Seguro;Outros;Outros;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: ;;;;;;;504.32;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+959;2026-10;Excel out/2026;SEI2B52;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: MOLA PNEUMATICA 1T17GKA-55, SERVICO DE CORRETIVA CAVALO;;;;;;;874.76;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+960;2026-10;Excel out/2026;SEI2B52;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: SERVICO DE CORRETIVA CAVALO, MOLA PNEUMATICA VOLVO;;;;;;;437.38;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+961;2026-10;Excel out/2026;SEI2B52;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: MANUTENÇÃO;;;;;;;859.67;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+962;2026-10;Excel out/2026;SEI2B52;;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: SEGURO EM 14X;;;;;;;1882.76;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+963;2026-10;Excel out/2026;SEI2B52;;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: IPVA + LICENCIAMENTO EM 8X;;;;;;;1030.7;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+964;2026-10;Excel out/2026;SEI2B52;;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: MENSALIDADE CAMERAS EM 36X;;;;;;;170.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+965;2026-10;Excel out/2026;SEI2B52;;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro por CT-e (soma do mês);Inferido: último termo < R$ 100;;;;;;;33.3;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+966;2026-10;Excel out/2026;SEI2B55;;Débito;Combustível;Combustível;Diesel + Arla (total do mês);Combustível (total do mês);Valor da aba Faturamento por Placa;;;;;;;31298.78;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+967;2026-10;Excel out/2026;SEI2B55;;Débito;Parcela;Parcela;Parcela do veículo;Parcela;Valor fixo da aba Faturamento por Placa;;;;;;;10000.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+968;2026-10;Excel out/2026;SEI2B55;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços (sem descrição);Item sem descrição;"Valor extraído da fórmula do Excel; descrição não disponível";;;;;;;662.36;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+969;2026-10;Excel out/2026;SEI2B55;;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: RASTREAMENTO;;;;;;;401.26;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+970;2026-10;Excel out/2026;SEI2B55;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: SERVICO DE CORRETIVA CARRETA, GRAMPO, PARAFUSO, PINO CENTRO;;;;;;;136.87;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+971;2026-10;Excel out/2026;SEI2B55;;Débito;Manutenção/IPVA/Seguro;Outros;Outros;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: ;;;;;;;2154.15;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+972;2026-10;Excel out/2026;SEI2B55;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: SERVICO DE CORRETIVA CAVALO, APOIO ESTRUTURAL;;;;;;;1293.51;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+973;2026-10;Excel out/2026;SEI2B55;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: MANUTENÇÃO EM 3X;;;;;;;893.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+974;2026-10;Excel out/2026;SEI2B55;;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: SEGURO EM 14X;;;;;;;1882.76;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+975;2026-10;Excel out/2026;SEI2B55;;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: IPVA + LICENCIAMENTO EM 8X;;;;;;;1030.7;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+976;2026-10;Excel out/2026;SEI2B55;;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: MENSALIDADE CAMERAS EM 36X;;;;;;;170.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+977;2026-10;Excel out/2026;SEI2B55;;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro por CT-e (soma do mês);Inferido: último termo < R$ 100;;;;;;;46.57;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+978;2026-10;Excel out/2026;SEI2B56;;Débito;Combustível;Combustível;Diesel + Arla (total do mês);Combustível (total do mês);Valor da aba Faturamento por Placa;;;;;;;29562.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+979;2026-10;Excel out/2026;SEI2B56;;Débito;Parcela;Parcela;Parcela do veículo;Parcela;Valor fixo da aba Faturamento por Placa;;;;;;;10000.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+980;2026-10;Excel out/2026;SEI2B56;;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Rastreamento;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: Rastreamento;;;;;;;392.49;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+981;2026-10;Excel out/2026;SEI2B56;;Débito;Manutenção/IPVA/Seguro;Manutenção;Manutenção/serviços;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: MANUTENÇÃO;;;;;;;282.75;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+982;2026-10;Excel out/2026;SEI2B56;;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro da frota (parcelado);DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: SEGURO EM 14X;;;;;;;1882.76;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+983;2026-10;Excel out/2026;SEI2B56;;Débito;Manutenção/IPVA/Seguro;IPVA/Licenciamento;IPVA + licenciamento;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: IPVA + LICENCIAMENTO EM 8X;;;;;;;1030.7;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+984;2026-10;Excel out/2026;SEI2B56;;Débito;Manutenção/IPVA/Seguro;Rastreamento/Câmeras;Câmeras;DEMAIS DÉBITOS;Inferido pelo mesmo valor nas fichas: MENSALIDADE CAMERAS EM 36X;;;;;;;170.0;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa
+985;2026-10;Excel out/2026;SEI2B56;;Débito;Manutenção/IPVA/Seguro;Seguro;Seguro por CT-e;Seguro por CT-e (soma do mês);Inferido: último termo < R$ 100;;;;;;;50.29;;FaturamentoG1ALP-10-2026 completo.xlsb.xlsx | aba Faturamento por Placa

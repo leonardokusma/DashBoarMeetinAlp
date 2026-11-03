@@ -1,0 +1,13 @@
+﻿id_extra;mes_ref;data;tipo;categoria;descricao;valor;fonte
+1;2026-07;2026-07-05;Fixa (Adm);Aluguel;Aluguel Escritório;2563.0;DespesaasExtras.xlsx
+2;2026-07;2026-07-05;Fixa (Adm);Conta  Telefone;Vivo;1200.0;DespesaasExtras.xlsx
+3;2026-07;2026-07-05;Fixa (Adm);Salário;Salario Ts;3000.0;DespesaasExtras.xlsx
+4;2026-08;2026-08-05;Fixa (Adm);Aluguel;Aluguel Escritório;2563.0;DespesaasExtras.xlsx
+5;2026-08;2026-08-05;Fixa (Adm);Conta  Telefone;Vivo;1200.0;DespesaasExtras.xlsx
+6;2026-08;2026-08-05;Fixa (Adm);Salário;Salario Ts;3000.0;DespesaasExtras.xlsx
+7;2026-09;2026-09-05;Fixa (Adm);Aluguel;Aluguel Escritório;2563.0;DespesaasExtras.xlsx
+8;2026-09;2026-09-05;Fixa (Adm);Conta  Telefone;Vivo;1200.0;DespesaasExtras.xlsx
+9;2026-09;2026-09-05;Fixa (Adm);Salário;Salario Ts;3000.0;DespesaasExtras.xlsx
+10;2026-10;2026-10-05;Fixa (Adm);Aluguel;Aluguel Escritório;2563.0;DespesaasExtras.xlsx
+11;2026-10;2026-10-05;Fixa (Adm);Conta  Telefone;Vivo;1200.0;DespesaasExtras.xlsx
+12;2026-10;2026-10-05;Fixa (Adm);Salário;Salario Ts;3000.0;DespesaasExtras.xlsx

@@ -1,0 +1,7 @@
+services:
+  web:
+    build: .
+    restart: unless-stopped
+    ports:
+      # só acessível pelo próprio servidor; o nginx do host faz o proxy
+      - "127.0.0.1:5245:80"

@@ -19,7 +19,7 @@
    "JCF7A27",
    "JCG0H51"
   ],
-  "gerado": "2026-11-02",
+  "gerado": "2026-11-03",
   "estimativas": {
    "2026-07": "Sem relatório do Sienge. Despesas G1 estimadas com o modelo de agosto, já com a folha, mais R$ 10.000.",
    "2026-08": "Folha de pagamento completada com o modelo de setembro, com salários, INSS e FGTS, e R$ 2.500 a mais na JCG0H51."
@@ -824,15 +824,15 @@
    "semCte": 0,
    "pesoKg": 280630.0,
    "faturamento": 83630.21,
-   "despesaAlp": 20000.16,
+   "despesaAlp": 20907.55,
    "pctAlp": 0.25,
    "combustivel": 28048.06,
    "parcela": 10000.0,
    "manutencaoIpvaSeguro": 5904.43,
-   "livreG1": 19677.56,
+   "livreG1": 18770.17,
    "despesasExtrasRateio": 845.38,
    "alertas": [
-    "Despesa ALP do Excel, R$ 20.000,16, digitada à mão: 23,9% do frete, não 25%."
+    "Despesa ALP recalculada a 25% do frete (R$ 20.907,55); o Excel tem R$ 20.000,16 digitado."
    ],
    "manutencaoAlp": 5904.43,
    "sienge": {
@@ -843,7 +843,7 @@
    },
    "siengeTotal": 17272.21,
    "siengeEstimado": 0.0,
-   "resultadoG1": 1559.97,
+   "resultadoG1": 652.58,
    "manutencaoG1": 1403.57,
    "manutencaoTotal": 7308.0
   },
@@ -906,16 +906,16 @@
   {
    "mes": "2026-10",
    "placa": "SEI2B56",
-   "fretes": 10,
+   "fretes": 12,
    "semCte": 0,
    "pesoKg": 258350.0,
-   "faturamento": 67210.84,
-   "despesaAlp": 16802.71,
+   "faturamento": 81387.05,
+   "despesaAlp": 20346.76,
    "pctAlp": 0.25,
    "combustivel": 29562.0,
    "parcela": 10000.0,
    "manutencaoIpvaSeguro": 3808.99,
-   "livreG1": 7037.14,
+   "livreG1": 17669.3,
    "despesasExtrasRateio": 845.38,
    "alertas": [],
    "manutencaoAlp": 3808.99,
@@ -927,7 +927,7 @@
    },
    "siengeTotal": 19338.31,
    "siengeEstimado": 0.0,
-   "resultadoG1": -13146.55,
+   "resultadoG1": -2514.39,
    "manutencaoG1": 3273.41,
    "manutencaoTotal": 7082.4
   }
@@ -8719,17 +8719,17 @@
    {
     "mes": "2026-10",
     "placa": "SEI2B56",
-    "fretes": 10
+    "fretes": 12
    }
   ]
  },
  "conferencias": [
   {
-   "descricao": "Faturamento por mês = soma dos fretes (jul 650.476,06 | ago 762.758,53 | set 605.630,37 | out 602.984,84)",
+   "descricao": "Faturamento por mês = soma dos fretes (jul 650.476,06 | ago 762.758,53 | set 605.630,37 | out 617.161,05)",
    "ok": true
   },
   {
-   "descricao": "Livre G1 de outubro = R$ 129.844,49 (Excel de faturamento atualizado)",
+   "descricao": "Livre G1 de outubro = R$ 139.569,26 (Excel de faturamento atualizado, SEI0H92 a 25%)",
    "ok": true
   },
   {

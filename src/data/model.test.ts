@@ -30,7 +30,7 @@ describe('receita (valores de referência do guia)', () => {
     expect(near(f('2026-07'), 650476.06)).toBe(true);
     expect(near(f('2026-08'), 762758.53)).toBe(true);
     expect(near(f('2026-09'), 605630.37)).toBe(true);
-    expect(near(f('2026-10'), 602984.84)).toBe(true);
+    expect(near(f('2026-10'), 617161.05)).toBe(true);
   });
 
   it('8 placas em cada mês', () => {
@@ -46,9 +46,9 @@ describe('Livre G1 e Resultado G1', () => {
     }
   });
 
-  it('Outubro: Livre G1 = R$ 129.844,49 e combustível R$ 199.186,73 (aba resumo do Excel atualizado)', () => {
+  it('Outubro: Livre G1 = R$ 139.569,26 e combustível R$ 199.186,73 (aba resumo do Excel atualizado)', () => {
     const t = totalsOf(selectPlacaMes({ mes: '2026-10', placa: ALL_PLATES }));
-    expect(near(t.livreG1, 129844.49)).toBe(true);
+    expect(near(t.livreG1, 139569.26)).toBe(true);
     expect(near(t.combustivel, 199186.73)).toBe(true);
   });
 
@@ -74,7 +74,7 @@ describe('Livre G1 e Resultado G1', () => {
     expect(near(r('2026-07'), 33771.44, 0.1)).toBe(true);
     expect(near(r('2026-08'), 100194.36, 0.1)).toBe(true);
     expect(near(r('2026-09'), 5922.53, 0.1)).toBe(true);
-    expect(near(r('2026-10'), -49952.84, 0.1)).toBe(true);
+    expect(near(r('2026-10'), -40228.07, 0.1)).toBe(true);
   });
 
   it('Resultado G1 = Livre G1 - Sienge - extras (Set)', () => {

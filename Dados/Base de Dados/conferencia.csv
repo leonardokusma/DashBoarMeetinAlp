@@ -108,23 +108,23 @@
 2026-10;JCG8H84;Manutenção/IPVA/Seguro;3526.03;3526.03;0.0;OK;
 2026-10;JCG8H84;Livre G1;20696.04;20696.04;0.0;OK;
 2026-10;SEI0H92;Faturamento;83630.21;83630.21;0.0;OK;
-2026-10;SEI0H92;% Alp (valor);20000.16;20000.16;0.0;OK;Valor digitado no Excel (não é 25%): 0.2391
+2026-10;SEI0H92;% Alp (valor);20000.16;20907.55;907.39;RECALCULADO;Excel tem valor digitado (23,9%); base usa 25% do frete
 2026-10;SEI0H92;Combustível;28048.06;28048.06;0.0;OK;Excel atualizado: confere com a soma da aba Abastecimento
 2026-10;SEI0H92;Parcela (débito);10000.0;10000.0;0.0;OK;
 2026-10;SEI0H92;Manutenção/IPVA/Seguro;5904.43;5904.43;0.0;OK;
-2026-10;SEI0H92;Livre G1;19677.56;19677.56;0.0;OK;
+2026-10;SEI0H92;Livre G1;19677.56;18770.17;-907.39;RECALCULADO;Reflete o contrato a 25%
 2026-10;SEI2B52;Faturamento;82118.33;82118.33;0.0;OK;
 2026-10;SEI2B52;% Alp (valor);20529.58;20529.58;-0.0;OK;
 2026-10;SEI2B52;Combustível;26389.64;26389.64;0.0;OK;Excel atualizado: confere com a soma da aba Abastecimento
 2026-10;SEI2B52;Parcela (débito);10000.0;10000.0;0.0;OK;
 2026-10;SEI2B52;Manutenção/IPVA/Seguro;6194.69;6194.69;-0.0;OK;
 2026-10;SEI2B52;Livre G1;19004.42;19004.42;0.0;OK;
-2026-10;SEI2B56;Faturamento;67210.84;67210.84;0.0;OK;
-2026-10;SEI2B56;% Alp (valor);16802.71;16802.71;0.0;OK;
+2026-10;SEI2B56;Faturamento;81387.05;81387.05;0.0;OK;
+2026-10;SEI2B56;% Alp (valor);20346.76;20346.76;0.0;OK;
 2026-10;SEI2B56;Combustível;29562.0;29562.0;0.0;OK;Excel atualizado: confere com a soma da aba Abastecimento
 2026-10;SEI2B56;Parcela (débito);10000.0;10000.0;0.0;OK;
 2026-10;SEI2B56;Manutenção/IPVA/Seguro;3808.99;3808.99;0.0;OK;
-2026-10;SEI2B56;Livre G1;7037.14;7037.14;0.0;OK;
+2026-10;SEI2B56;Livre G1;17669.3;17669.3;0.0;OK;
 2026-10;JCF7A27;Faturamento;43935.88;43935.88;-0.0;OK;
 2026-10;JCF7A27;% Alp (valor);10983.97;10983.97;-0.0;OK;
 2026-10;JCF7A27;Combustível;16599.57;16599.57;0.0;OK;Excel atualizado: confere com a soma da aba Abastecimento

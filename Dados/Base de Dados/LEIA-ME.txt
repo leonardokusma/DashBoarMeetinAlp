@@ -9,8 +9,8 @@ descontos_alp.csv                1 linha por desconto no pagamento da Alp. jul-s
                                  "grupo" segue os 3 baldes do Excel: Combustível | Parcela | Manutenção/IPVA/Seguro. "categoria/subcategoria" detalha.
 despesas_extras_adm.csv          Despesas fixas Adm (salário TS, aluguel do escritório, telefone) de jul a out.
 resumo_mes_placa.csv             Mês x placa (extras Adm rateadas igualmente entre as 8 placas): faturamento, % Alp, valor Alp, combustível, parcela, manutenção/IPVA/seguro, total de descontos, livre G1, despesas G1 (Sienge), resultado G1.
-                                 Em out, faturamento vem da aba Base e os descontos/% Alp da aba Faturamento por Placa; Livre G1 de out = R$ 129.844,49 (confere com o Excel atualizado).
-                                 % Alp de out segue o Excel (28% SEI2B55, 25% demais; SEI0H92 com valor digitado de R$ 20.000,16).
+                                 Em out, faturamento vem da aba Base e os descontos/% Alp da aba Faturamento por Placa; Livre G1 de out = R$ 139.569,26 (Excel atualizado, com a SEI0H92 recalculada a 25%; o Excel dá R$ 140.476,65).
+                                 % Alp de out segue o Excel (28% SEI2B55, 25% demais; SEI0H92 recalculada a 25% = R$ 20.907,55; o Excel tem R$ 20.000,16 digitado).
                                  Livre G1 = faturamento - valor Alp - descontos (= "Líquido a Receber" da ficha). Coluna descontos_completos avisa que out está incompleto.
 dim_placa.csv                    Placas, fornecedor (BRUCKER TRANSPORTES LTDA) e % Alp do contrato (28% SEI2B55, 25% demais).
 conferencia.csv                  Confronto da base com os totais das fichas e com o resumo do Excel de out. status OK / DIVERGE + observação.
@@ -30,7 +30,7 @@ ESTIMATIVAS (origem_dado = Estimativa em despesas_g1_sienge.csv):
 CONFERÊNCIA (o que foi validado)
 - Receitas do Sienge (ignoradas na base) = Livre G1 do mês anterior calculado pelas fichas, centavo a centavo, em todas as placas, exceto SEI2B55 (+R$ 22.110,9 em ago e set no Sienge).
 - 24 fichas: fretes, subtotais de cada seção, contrato (% Alp), débito, crédito e líquido a receber batem ao centavo.
-- Faturamento por mês: jul 650.476,06 | ago 762.758,53 | set 605.630,37 | out 602.984,84 (out bate com o total do Excel).
+- Faturamento por mês: jul 650.476,06 | ago 762.758,53 | set 605.630,37 | out 617.161,05 (out bate com o total do Excel).
 
 PONTOS DE ATENÇÃO
 0. Ago/jul - despesas G1 parcialmente estimadas (ver ESTIMATIVAS). Em ago a conta Benefícios (R$ 25,7 mil) fica 100% (sem corte), como pedido.

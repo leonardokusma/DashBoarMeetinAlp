@@ -4,7 +4,7 @@ Rodar:  python -I tools/build_dataset.py      (precisa de openpyxl, só para o c
 
 Regras já aplicadas na Base de Dados (ver LEIA-ME.txt dela):
 - Jul-Set: fichas de acerto. Out: Excel de faturamento (aba Base + resumo por placa).
-- Despesa ALP = valor do contrato (25%; 28% na SEI2B55). Out segue o Excel (SEI0H92 com valor digitado).
+- Despesa ALP = valor do contrato (25%; 28% na SEI2B55). Out segue o Excel, exceto SEI0H92 recalculada a 25%.
 - Livre G1 = faturamento - ALP - combustível - parcela - manutenção/IPVA/seguro.
 - Despesas G1 (Sienge, PDFs): só contas filhas de saídas; impostos fora (exceto INSS e FGTS);
   ajuda de custo x0,5; Ago com folha completada com setembro + R$ 2.500 na JCG0H51; Jul estimado (modelo de Ago + R$ 10.000).
@@ -203,7 +203,7 @@ def main():
         fat = float(r["faturamento_bruto"])
         flags = sorted(alertas.get((mes, placa), []))
         if mes == "2026-10" and placa == "SEI0H92":
-            flags.append("Despesa ALP do Excel, R$ 20.000,16, digitada à mão: 23,9% do frete, não 25%.")
+            flags.append("Despesa ALP recalculada a 25% do frete (R$ 20.907,55); o Excel tem R$ 20.000,16 digitado.")
         pm = {
             "mes": mes,
             "placa": placa,
@@ -397,10 +397,10 @@ def main():
     fr_mes = collections.defaultdict(float)
     for f in fretes:
         fr_mes[f["mes_ref"]] += float(f["valor_frete"])
-    checks.append(("Faturamento por mês = soma dos fretes (jul 650.476,06 | ago 762.758,53 | set 605.630,37 | out 602.984,84)",
-                   all(abs(fat_mes[m] - fr_mes[m]) < 0.05 for m in MESES) and abs(fat_mes["2026-07"] - 650476.06) < 0.05 and abs(fat_mes["2026-10"] - 602984.84) < 0.05))
+    checks.append(("Faturamento por mês = soma dos fretes (jul 650.476,06 | ago 762.758,53 | set 605.630,37 | out 617.161,05)",
+                   all(abs(fat_mes[m] - fr_mes[m]) < 0.05 for m in MESES) and abs(fat_mes["2026-07"] - 650476.06) < 0.05 and abs(fat_mes["2026-10"] - 617161.05) < 0.05))
     out_livre = sum(pm["livreG1"] for pm in placa_mes if pm["mes"] == "2026-10")
-    checks.append(("Livre G1 de outubro = R$ 129.844,49 (Excel de faturamento atualizado)", abs(out_livre - 129844.49) < 0.05))
+    checks.append(("Livre G1 de outubro = R$ 139.569,26 (Excel de faturamento atualizado, SEI0H92 a 25%)", abs(out_livre - 139569.26) < 0.05))
     p55 = next(p for p in placa_mes if p["mes"] == "2026-09" and p["placa"] == "SEI2B55")
     p27 = next(p for p in placa_mes if p["mes"] == "2026-09" and p["placa"] == "JCF7A27")
     checks.append(("Setembro pelas fichas: SEI2B55 Livre 17.438,13 e JCF7A27 Livre 35.572,81", abs(p55["livreG1"] - 17438.13) < 0.05 and abs(p27["livreG1"] - 35572.81) < 0.05))

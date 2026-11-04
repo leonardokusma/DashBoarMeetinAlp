@@ -30,7 +30,6 @@ export function freightPage(ctx: PageContext): HTMLElement[] {
     kpi({ label: 'Perda de frete', value: formatBRL(total.perda), sub: `${formatPct(total.perdaPct)} sobre o frete anterior`, tone: 'loss' }),
     kpi({ label: 'Frete anterior', value: formatBRL(total.freteAnterior), sub: `${formatInt(total.comparaveis)} fretes com CTE anterior` }),
     kpi({ label: 'Frete atual', value: formatBRL(total.freteAtual), sub: 'mesmos fretes' }),
-    kpi({ label: 'Não comparáveis', value: formatInt(total.naoComparaveis), sub: 'sem CTE anterior' }),
   ]);
 
   const meses = perdaPorMes(filter);

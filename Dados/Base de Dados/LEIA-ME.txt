@@ -2,18 +2,17 @@ BASE DE DADOS G1 x ALP  -  jul a out/2026
 Gerada em 02/11/2026. CSV com separador ";" , decimal com ponto, UTF-8 (com BOM, abre direto no Excel e no Power BI).
 
 TABELAS
-fretes.csv                       1 linha por CT-e (jul-set: fichas | out: aba Base do Excel). Chave: id_frete. Campos de ligação: mes_ref (AAAA-MM) e placa.
-                                 Em out há 3 lançamentos "Sem CT-e" (R$ 1.450 + 1.450 + 4.350 = R$ 7.250) que o Excel soma no faturamento; estão em tipo_receita.
-descontos_alp.csv                1 linha por desconto no pagamento da Alp. jul-set: seções 3, 4 e 5 das fichas (e 1 crédito da seção 2, valor negativo).
-                                 out: valores da aba Faturamento por Placa do Excel (combustível, parcela e manutenção/IPVA/seguro item a item, a partir das fórmulas).
+fretes.csv                       1 linha por CT-e (jul-out: fichas). Chave: id_frete. Campos de ligação: mes_ref (AAAA-MM) e placa.
+                                 Out: peso, motorista e carreta herdados da aba Base do Excel pelo CT-e (fretes que só estão na ficha ficam sem peso);
+                                 a coluna obs mostra onde o Excel tinha outro valor/CT-e. Os 3 "Sem CT-e" do Excel são os CT-e 8958, 8951 e 8959 das fichas.
+descontos_alp.csv                1 linha por desconto no pagamento da Alp. jul-out: seções 3, 4 e 5 das fichas (e 1 crédito da seção 2 em set, valor negativo).
                                  "grupo" segue os 3 baldes do Excel: Combustível | Parcela | Manutenção/IPVA/Seguro. "categoria/subcategoria" detalha.
 despesas_extras_adm.csv          Despesas fixas Adm (salário TS, aluguel do escritório, telefone) de jul a out.
 resumo_mes_placa.csv             Mês x placa (extras Adm rateadas igualmente entre as 8 placas): faturamento, % Alp, valor Alp, combustível, parcela, manutenção/IPVA/seguro, total de descontos, livre G1, despesas G1 (Sienge), resultado G1.
-                                 Em out, faturamento vem da aba Base e os descontos/% Alp da aba Faturamento por Placa; Livre G1 de out = R$ 139.569,26 (Excel atualizado, com a SEI0H92 recalculada a 25%; o Excel dá R$ 140.476,65).
-                                 % Alp de out segue o Excel (28% SEI2B55, 25% demais; SEI0H92 recalculada a 25% = R$ 20.907,55; o Excel tem R$ 20.000,16 digitado).
+                                 Livre G1 de out = R$ 130.935,82 (fichas; JCG8H84 recalculada a 25% = R$ 20.880,21, a ficha cobra 28% = R$ 23.385,84).
                                  Livre G1 = faturamento - valor Alp - descontos (= "Líquido a Receber" da ficha). Coluna descontos_completos avisa que out está incompleto.
 dim_placa.csv                    Placas, fornecedor (BRUCKER TRANSPORTES LTDA) e % Alp do contrato (28% SEI2B55, 25% demais).
-conferencia.csv                  Confronto da base com os totais das fichas e com o resumo do Excel de out. status OK / DIVERGE + observação.
+conferencia.csv                  Confronto da base com os totais das fichas (e, em out, com o faturamento do Excel). status OK / DIVERGE / RECALCULADO + observação.
 
 DESPESAS G1 (SIENGE)  -  fonte: PDFs "Fluxo de Caixa por Plano de Contas" (ago, set, out; 8 placas; análise Comprometido)
 despesas_g1_sienge.csv           Só saídas (grupo 2) e só contas filhas (tipo R); contas pai (tipo T) ignoradas, sem somar pai + filha. Receitas (grupo 1) ignoradas.
@@ -29,15 +28,16 @@ ESTIMATIVAS (origem_dado = Estimativa em despesas_g1_sienge.csv):
 
 CONFERÊNCIA (o que foi validado)
 - Receitas do Sienge (ignoradas na base) = Livre G1 do mês anterior calculado pelas fichas, centavo a centavo, em todas as placas, exceto SEI2B55 (+R$ 22.110,9 em ago e set no Sienge).
-- 24 fichas: fretes, subtotais de cada seção, contrato (% Alp), débito, crédito e líquido a receber batem ao centavo.
-- Faturamento por mês: jul 650.476,06 | ago 762.758,53 | set 605.630,37 | out 617.161,05 (out bate com o total do Excel).
+- 32 fichas: fretes, subtotais de cada seção, contrato (% Alp), débito, crédito e líquido a receber batem ao centavo.
+- Faturamento por mês: jul 650.476,06 | ago 762.758,53 | set 605.630,37 | out 634.029,18 (fichas; o Excel de out dava 617.161,05).
+- Out importada das fichas com tools/importar_fichas.py 2026-10 (substitui as linhas do mês; rodar depois tools/build_dataset.py).
 
 PONTOS DE ATENÇÃO
 0. Ago/jul - despesas G1 parcialmente estimadas (ver ESTIMATIVAS). Em ago a conta Benefícios (R$ 25,7 mil) fica 100% (sem corte), como pedido.
-1. Out - o combustível (R$ 199.186,73, atualizado no Excel em 02/11) é a soma da aba Abastecimento, placa a placa; a manutenção/IPVA/seguro (R$ 41.370,43) segue igual às fichas de setembro.
-2. Out - JCF7A27 fica com Livre G1 negativo (-R$ 1.015,08) no Excel atual.
-4. Out - JCG0H51: 4 abastecimentos (07/10 e 09/10, R$ 4.490,52) estão só no Excel, não no FrotaCore.
+1. Out - combustível das fichas R$ 216.591,89 (a aba Abastecimento do Excel somava R$ 199.186,73); manutenção/IPVA/seguro R$ 35.249,75.
+2. Out - JCF7A27 tem 2 prestações (R$ 20.000; uma "ref. a cobrança incorreta novembro", que compensa o crédito de R$ 10.000 de set) e Livre G1 -R$ 2.331,67.
+3. Out - CT-e 9004 (SEI2B52, R$ 7.088,11) estava no Excel e não está em nenhuma ficha; ficou fora.
 5. Datas x mês: a ficha de set traz lançamentos datados de outubro (ex.: 13/10) e parcelas antigas (ex.: seguro em 14x de 16/07). mes_ref = mês da ficha; "data" = data do lançamento.
 
 NÃO USADOS (fora do escopo pedido): Comparativo_version_2.xlsx, abastecimentos-julho/agosto-2026.xlsx.
-abastecimentos_out_referencia.csv: 142 abastecimentos de out linha a linha (aba Abastecimento), somam R$ 199.186,73. O combustível de out na base é o do Excel, que agora bate com essa soma. O CSV do FrotaCore só serviu para conferir o combustível de out.
+abastecimentos_out_referencia.csv: 142 abastecimentos de out linha a linha (aba Abastecimento do Excel), somam R$ 199.186,73. Só referência: combustível e preço do diesel de out vêm das fichas.

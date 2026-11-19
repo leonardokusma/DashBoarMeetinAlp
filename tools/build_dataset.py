@@ -3,8 +3,8 @@
 Rodar:  python -I tools/build_dataset.py      (precisa de openpyxl, só para o comparativo de fretes e o km)
 
 Regras já aplicadas na Base de Dados (ver LEIA-ME.txt dela):
-- Jul-Set: fichas de acerto. Out: Excel de faturamento (aba Base + resumo por placa).
-- Despesa ALP = valor do contrato (25%; 28% na SEI2B55). Out segue o Excel, exceto SEI0H92 recalculada a 25%.
+- Jul-Out: fichas de acerto (out importada com tools/importar_fichas.py).
+- Despesa ALP = valor do contrato (25%; 28% na SEI2B55). Se a ficha cobrar outro %, recalcula (JCG8H84 em out: ficha a 28%).
 - Livre G1 = faturamento - ALP - combustível - parcela - manutenção/IPVA/seguro.
 - Despesas G1 (Sienge, PDFs): só contas filhas de saídas; impostos fora (exceto INSS e FGTS);
   ajuda de custo x0,5; Ago com folha completada com setembro + R$ 2.500 na JCG0H51; Jul estimado (modelo de Ago + R$ 10.000).
@@ -34,18 +34,20 @@ AJUSTE_DIVISAO = (
     ("2.01.05.99", "Ajuste estimado: metade em peças e pneus"),
     ("2.01.03.99", "Ajuste estimado: metade em mão de obra"),
 )
+# CT-e digitado diferente na planilha do comparativo (planilha -> ficha)
+CTE_COMPARATIVO = {("2026-10", 9862): 8962, ("2026-10", 25420): 8952}
 ESTIMATIVAS = {
     "2026-07": "Sem relatório do Sienge. Despesas G1 estimadas com o modelo de agosto, já com a folha, mais R$ 10.000.",
     "2026-08": "Folha de pagamento completada com o modelo de setembro, com salários, INSS e FGTS, e R$ 2.500 a mais na JCG0H51.",
 }
 PREMISSAS = [
-    "Julho a setembro vêm das fichas de acerto da ALP. Outubro vem do Excel de faturamento, com combustível, parcela e manutenção, IPVA e seguro do resumo por placa.",
+    "Julho a outubro vêm das fichas de acerto da ALP. Despesa ALP a 25% do frete (28% na SEI2B55); em outubro a ficha da JCG8H84 cobra 28% e a base recalcula a 25%.",
     "Despesas G1 vêm dos relatórios do Sienge, só contas filhas de saídas. Contas pai não são somadas e as receitas são ignoradas.",
     "Impostos fora da conta: PIS, COFINS, CSLL, ICMS, reparcelamentos e retenções. Ficam apenas INSS e FGTS.",
     "Ajuda de custo cortada pela metade em setembro e outubro. Em agosto, a conta Benefícios fica integral.",
     "Despesas extras Adm somadas ao resultado e rateadas igualmente entre as 8 placas: salário TS, aluguel e telefone, R$ 6.763 por mês.",
     "Agosto: folha completada com a de setembro e R$ 2.500 a mais na JCG0H51. Julho: sem relatório, usa o modelo de agosto mais R$ 10.000. Os ajustes estimados entram metade em peças e pneus e metade em mão de obra. Meses marcados com * têm parte estimada.",
-    "Peso só existe para outubro. Para julho a setembro não há fonte de peso na pasta de dados.",
+    "Peso só existe para outubro, vindo da aba Base do Excel de outubro. Fretes de outubro que só estão nas fichas ficam sem peso. Para julho a setembro não há fonte de peso na pasta de dados.",
     "Km rodado: julho e agosto vêm das planilhas de abastecimento. Setembro e outubro são a diferença entre as últimas leituras de hodômetro de cada mês (relatório do cartão e aba Abastecimento do Excel de outubro). A JCG0H51 não tem leitura em setembro, então o km de setembro e outubro dela é o rodado entre agosto e outubro dividido pelos litros de cada mês.",
 ]
 
@@ -152,7 +154,7 @@ def main():
     sg = rd("despesas_g1_sienge.csv")
     extras = rd("despesas_extras_adm.csv")
     conf_sienge = rd("conferencia_sienge.csv")
-    abast = rd("abastecimentos_out_referencia.csv")
+    conf = rd("conferencia.csv")
 
     # ---------- Sienge (linhas) ----------
     sienge_det = collections.OrderedDict()
@@ -202,8 +204,9 @@ def main():
         mes, placa = r["mes_ref"], r["placa"]
         fat = float(r["faturamento_bruto"])
         flags = sorted(alertas.get((mes, placa), []))
-        if mes == "2026-10" and placa == "SEI0H92":
-            flags.append("Despesa ALP recalculada a 25% do frete (R$ 20.907,55); o Excel tem R$ 20.000,16 digitado.")
+        for c in conf:
+            if c["mes_ref"] == mes and c["placa"] == placa and c["item"] == "Contrato (% Alp)" and c["status"] == "RECALCULADO":
+                flags.append(f"Despesa ALP recalculada: {c['observacao']} (ficha R$ {c['valor_ficha_ou_excel']}, base R$ {c['valor_base']}).")
         pm = {
             "mes": mes,
             "placa": placa,
@@ -257,6 +260,9 @@ def main():
             atual = float(row[5])
             obs = row[10] if len(row) > 10 else None
             data = row[0].strftime("%Y-%m-%d") if isinstance(row[0], datetime.datetime) else None
+            if (mes, cte) in CTE_COMPARATIVO:
+                obs = f"CTE corrigido: planilha {cte}, ficha {CTE_COMPARATIVO[(mes, cte)]}."
+                cte = CTE_COMPARATIVO[(mes, cte)]; corrigidos += 1
             ref = by_cte.get((mes, str(cte)))
             if ref is not None and ref["placa"] != placa:
                 if usados[cte] > 1:
@@ -300,17 +306,11 @@ def main():
         comp_resumo.append({"mes": mes, "fretes": len(rs), "comCteAnterior": len(cm), "semCteAnterior": len(rs) - len(cm),
                             "freteAnteriorComparavel": r2(ant), "perda": r2(perda), "perdaPct": round(perda / ant, 4) if ant else None})
 
-    # ---------- Diesel (fichas jul-set + aba Abastecimento out) ----------
+    # ---------- Diesel (fichas jul-out) ----------
     linhas = []
     for r in desc:
-        if r["grupo"] == "Combustível" and r["subcategoria"] == "Diesel S-10" and r["mes_ref"] != "2026-10":
+        if r["grupo"] == "Combustível" and r["subcategoria"] == "Diesel S-10":
             linhas.append((r["mes_ref"], r["placa"], r["data"], float(r["quantidade"]), float(r["valor"])))
-    for r in abast:
-        if r["produto"].startswith("Diesel"):
-            lit, val = float(r["litros"]), float(r["valor_total"])
-            if r["placa"] == "JCG0H51" and r["data"] == "2026-10-29" and abs(lit - 400.04) < 0.01 and abs(val - 272.03) < 0.01:
-                val = 2720.27  # faltava um dígito no lançamento (corrigido só no preço do diesel)
-            linhas.append((r["mes_ref"], r["placa"], r["data"], lit, val))
     diesel = collections.defaultdict(lambda: {"litros": 0.0, "valor": 0.0, "n": 0})
     diesel_pl = collections.defaultdict(lambda: {"litros": 0.0, "valor": 0.0})
     excluidos = []
@@ -390,6 +390,24 @@ def main():
         "geral": [{"mes": m, "placa": pl, "fretes": n} for (m, pl), n in sorted(ret_geral.items())],
     }
 
+    # ---------- Fretes sem reajuste (Dados/Relação de Fretes sem Reajuste*.xlsx, abr-mai/2026) ----------
+    arq_sr = sorted(DADOS.glob("Relação de Fretes sem Reajuste*.xlsx"))[-1]
+    ws_sr = openpyxl.load_workbook(arq_sr, data_only=True)["Relação de Fretes Sem Reajuste "]
+    cab = " ".join(str(c) for row in ws_sr.iter_rows(max_row=2, values_only=True) for c in row if c)
+    pct_sr = float(re.search(r"Reajuste de ([\d,]+)%", cab).group(1).replace(",", ".")) / 100
+    sr_itens = []
+    for row in ws_sr.iter_rows(min_row=4, values_only=True):
+        if not hasattr(row[1], "date") or not isinstance(row[5], (int, float)):
+            continue
+        frete = float(row[5])
+        sr_itens.append({"data": row[1].date().isoformat(), "cte": int(row[2]), "cliente": clean(row[3]), "pesoKg": row[4],
+                         "frete": r2(frete), "freteReajustado": r2(frete * (1 + pct_sr)), "diferenca": r2(frete * pct_sr)})
+    ctes_rep = sorted(c for c, n in collections.Counter(i["cte"] for i in sr_itens).items() if n > 1)
+    sem_reajuste = {"reajuste": pct_sr, "arquivo": arq_sr.name, "itens": sr_itens, "ctesRepetidos": ctes_rep}
+    tot_sr = sum(i["frete"] for i in sr_itens)
+    if ctes_rep:
+        print("AVISO fretes sem reajuste: CTE repetido na planilha:", ctes_rep)
+
     # ---------- Conferências ----------
     fat_mes = collections.defaultdict(float)
     for pm in placa_mes:
@@ -397,10 +415,10 @@ def main():
     fr_mes = collections.defaultdict(float)
     for f in fretes:
         fr_mes[f["mes_ref"]] += float(f["valor_frete"])
-    checks.append(("Faturamento por mês = soma dos fretes (jul 650.476,06 | ago 762.758,53 | set 605.630,37 | out 617.161,05)",
-                   all(abs(fat_mes[m] - fr_mes[m]) < 0.05 for m in MESES) and abs(fat_mes["2026-07"] - 650476.06) < 0.05 and abs(fat_mes["2026-10"] - 617161.05) < 0.05))
+    checks.append(("Faturamento por mês = soma dos fretes (jul 650.476,06 | ago 762.758,53 | set 605.630,37 | out 634.029,18)",
+                   all(abs(fat_mes[m] - fr_mes[m]) < 0.05 for m in MESES) and abs(fat_mes["2026-07"] - 650476.06) < 0.05 and abs(fat_mes["2026-10"] - 634029.18) < 0.05))
     out_livre = sum(pm["livreG1"] for pm in placa_mes if pm["mes"] == "2026-10")
-    checks.append(("Livre G1 de outubro = R$ 139.569,26 (Excel de faturamento atualizado, SEI0H92 a 25%)", abs(out_livre - 139569.26) < 0.05))
+    checks.append(("Livre G1 de outubro = R$ 130.935,82 (fichas, JCG8H84 recalculada a 25%)", abs(out_livre - 130935.82) < 0.05))
     p55 = next(p for p in placa_mes if p["mes"] == "2026-09" and p["placa"] == "SEI2B55")
     p27 = next(p for p in placa_mes if p["mes"] == "2026-09" and p["placa"] == "JCF7A27")
     checks.append(("Setembro pelas fichas: SEI2B55 Livre 17.438,13 e JCF7A27 Livre 35.572,81", abs(p55["livreG1"] - 17438.13) < 0.05 and abs(p27["livreG1"] - 35572.81) < 0.05))
@@ -414,6 +432,7 @@ def main():
                    abs(tot_s["2026-07"] - 162948.05) < 0.05 and abs(tot_s["2026-08"] - 155448.05) < 0.05 and abs(tot_s["2026-09"] - 140612.98) < 0.05 and abs(tot_s["2026-10"] - 173034.29) < 0.05))
     checks.append(("Placas por mês = 8", all(sum(1 for p in placa_mes if p["mes"] == m) == 8 for m in MESES)))
     checks.append((f"Comparativo de fretes: CTEs e valores conferidos com a base ({corrigidos} correções)", True))
+    checks.append((f"Fretes sem reajuste: {len(sr_itens)} fretes, faturado R$ 310.232,41 (total da planilha)", len(sr_itens) == 36 and abs(tot_sr - 310232.41) < 0.05))
 
     dataset = {
         "meta": {"cliente": "ALP / Brucker", "transportadora": "G1 Transporte", "periodo": "jul a out/2026", "meses": MESES, "placas": PLACAS,
@@ -430,6 +449,7 @@ def main():
         "dieselExcluidos": excluidos,
         "km": km,
         "retornoCarregado": retorno,
+        "semReajuste": sem_reajuste,
         "conferencias": [{"descricao": d, "ok": ok} for d, ok in checks],
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)

@@ -5,6 +5,7 @@ import type {
   DieselMes,
   Filter,
   FreteComparado,
+  FreteSemReajuste,
   KmPlaca,
   ManutencaoLinha,
   PlacaMes,
@@ -563,4 +564,54 @@ export function retornoResumo(f: Filter, ds: Dataset = dataset): RetornoResumo {
     kgRetorno: sum(itens.map((i) => i.kgRetorno)),
     inicio: r.inicio,
   };
+}
+
+// ---------- Fretes sem reajuste ----------
+
+export interface SemReajusteGrupo {
+  key: string;
+  fretes: number;
+  frete: number;
+  freteReajustado: number;
+  diferenca: number;
+}
+
+/** O reajuste é aplicado sobre a soma do grupo (como na planilha), não somando linhas já arredondadas. */
+function grupoSemReajuste(key: string, itens: readonly FreteSemReajuste[], pct: number): SemReajusteGrupo {
+  const frete = sum(itens.map((i) => i.frete));
+  return {
+    key,
+    fretes: itens.length,
+    frete: round2(frete),
+    freteReajustado: round2(frete * (1 + pct)),
+    diferenca: round2(frete * pct),
+  };
+}
+
+export function semReajusteTotal(ds: Dataset = dataset): SemReajusteGrupo {
+  return grupoSemReajuste('Total', ds.semReajuste.itens, ds.semReajuste.reajuste);
+}
+
+/** Por mês ('YYYY-MM') e cliente, em ordem. */
+export function semReajustePorMesCliente(ds: Dataset = dataset): { meses: string[]; clientes: string[]; valor: (mes: string, cliente: string) => SemReajusteGrupo } {
+  const itens = ds.semReajuste.itens;
+  const meses = [...new Set(itens.map((i) => i.data.slice(0, 7)))].sort();
+  const clientes = [...new Set(itens.map((i) => i.cliente))].sort();
+  return {
+    meses,
+    clientes,
+    valor: (mes, cliente) =>
+      grupoSemReajuste(`${mes} ${cliente}`, itens.filter((i) => i.data.startsWith(mes) && i.cliente === cliente), ds.semReajuste.reajuste),
+  };
+}
+
+/** Diferença acumulada em ordem de data. */
+export function semReajusteAcumulado(ds: Dataset = dataset): Array<FreteSemReajuste & { acumulado: number }> {
+  let acc = 0;
+  return [...ds.semReajuste.itens]
+    .sort((a, b) => a.data.localeCompare(b.data) || a.cte - b.cte)
+    .map((i) => {
+      acc += i.diferenca;
+      return { ...i, acumulado: round2(acc) };
+    });
 }

@@ -8,6 +8,7 @@ import { formatMonthLong } from './format';
 import { costsPage } from './pages/costs';
 import { freightPage } from './pages/freight';
 import { overviewPage } from './pages/overview';
+import { semReajustePage } from './pages/semReajuste';
 import { trucksPage } from './pages/trucks';
 import type { PageContext } from './pages/types';
 
@@ -24,6 +25,7 @@ const PAGES: PageDef[] = [
   { id: 'caminhao', label: 'Por caminhão', build: trucksPage, filters: { mes: true, placa: false } },
   { id: 'frete', label: 'Queda de frete', build: freightPage, filters: { mes: true, placa: true } },
   { id: 'custos', label: 'Custos e diesel', build: costsPage, filters: { mes: true, placa: true } },
+  { id: 'reajuste', label: 'Fretes sem reajuste', build: semReajustePage, filters: { mes: false, placa: false } },
 ];
 
 interface State {

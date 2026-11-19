@@ -130,6 +130,26 @@ export interface RetornoCarregado {
   geral: Array<{ mes: string; placa: string; fretes: number }>;
 }
 
+export interface FreteSemReajuste {
+  data: string;
+  cte: number;
+  cliente: string;
+  pesoKg: number;
+  frete: number;
+  freteReajustado: number;
+  /** freteReajustado - frete */
+  diferenca: number;
+}
+
+/** Fretes cobrados sem o reajuste combinado (planilha "Relação de Fretes sem Reajuste"). Fora do período jul-out e sem placa. */
+export interface SemReajuste {
+  /** fração, ex.: 0.076 */
+  reajuste: number;
+  arquivo: string;
+  itens: FreteSemReajuste[];
+  ctesRepetidos: number[];
+}
+
 export interface Conferencia {
   descricao: string;
   ok: boolean;
@@ -160,6 +180,7 @@ export interface Dataset {
   dieselExcluidos: DieselExcluido[];
   km: KmPlaca[];
   retornoCarregado: RetornoCarregado;
+  semReajuste: SemReajuste;
   conferencias: Conferencia[];
 }
 

@@ -19,19 +19,19 @@
    "JCF7A27",
    "JCG0H51"
   ],
-  "gerado": "2026-11-03",
+  "gerado": "2026-11-19",
   "estimativas": {
    "2026-07": "Sem relatório do Sienge. Despesas G1 estimadas com o modelo de agosto, já com a folha, mais R$ 10.000.",
    "2026-08": "Folha de pagamento completada com o modelo de setembro, com salários, INSS e FGTS, e R$ 2.500 a mais na JCG0H51."
   },
   "premissas": [
-   "Julho a setembro vêm das fichas de acerto da ALP. Outubro vem do Excel de faturamento, com combustível, parcela e manutenção, IPVA e seguro do resumo por placa.",
+   "Julho a outubro vêm das fichas de acerto da ALP. Despesa ALP a 25% do frete (28% na SEI2B55); em outubro a ficha da JCG8H84 cobra 28% e a base recalcula a 25%.",
    "Despesas G1 vêm dos relatórios do Sienge, só contas filhas de saídas. Contas pai não são somadas e as receitas são ignoradas.",
    "Impostos fora da conta: PIS, COFINS, CSLL, ICMS, reparcelamentos e retenções. Ficam apenas INSS e FGTS.",
    "Ajuda de custo cortada pela metade em setembro e outubro. Em agosto, a conta Benefícios fica integral.",
    "Despesas extras Adm somadas ao resultado e rateadas igualmente entre as 8 placas: salário TS, aluguel e telefone, R$ 6.763 por mês.",
    "Agosto: folha completada com a de setembro e R$ 2.500 a mais na JCG0H51. Julho: sem relatório, usa o modelo de agosto mais R$ 10.000. Os ajustes estimados entram metade em peças e pneus e metade em mão de obra. Meses marcados com * têm parte estimada.",
-   "Peso só existe para outubro. Para julho a setembro não há fonte de peso na pasta de dados.",
+   "Peso só existe para outubro, vindo da aba Base do Excel de outubro. Fretes de outubro que só estão nas fichas ficam sem peso. Para julho a setembro não há fonte de peso na pasta de dados.",
    "Km rodado: julho e agosto vêm das planilhas de abastecimento. Setembro e outubro são a diferença entre as últimas leituras de hodômetro de cada mês (relatório do cartão e aba Abastecimento do Excel de outubro). A JCG0H51 não tem leitura em setembro, então o km de setembro e outubro dela é o rodado entre agosto e outubro dividido pelos litros de cada mês."
   ]
  },
@@ -710,16 +710,16 @@
    "fretes": 16,
    "semCte": 0,
    "pesoKg": 381190.0,
-   "faturamento": 73538.27,
-   "despesaAlp": 18384.57,
+   "faturamento": 72338.88,
+   "despesaAlp": 18084.69,
    "pctAlp": 0.25,
-   "combustivel": 18027.0,
+   "combustivel": 20448.1,
    "parcela": 10000.0,
-   "manutencaoIpvaSeguro": 5457.67,
-   "livreG1": 21669.03,
+   "manutencaoIpvaSeguro": 1920.08,
+   "livreG1": 21886.01,
    "despesasExtrasRateio": 845.38,
    "alertas": [],
-   "manutencaoAlp": 5457.67,
+   "manutencaoAlp": 1920.08,
    "sienge": {
     "Materiais": 429.16,
     "Mão de obra": 10771.28,
@@ -728,26 +728,26 @@
    },
    "siengeTotal": 22567.81,
    "siengeEstimado": 0.0,
-   "resultadoG1": -1744.16,
+   "resultadoG1": -1527.18,
    "manutencaoG1": 6822.02,
-   "manutencaoTotal": 12279.69
+   "manutencaoTotal": 8742.1
   },
   {
    "mes": "2026-10",
    "placa": "JCF7A27",
-   "fretes": 6,
-   "semCte": 1,
+   "fretes": 9,
+   "semCte": 0,
    "pesoKg": 147340.0,
-   "faturamento": 43935.88,
-   "despesaAlp": 10983.97,
+   "faturamento": 54845.07,
+   "despesaAlp": 13711.28,
    "pctAlp": 0.25,
-   "combustivel": 16599.57,
-   "parcela": 10000.0,
-   "manutencaoIpvaSeguro": 3989.53,
-   "livreG1": 2362.81,
+   "combustivel": 19671.94,
+   "parcela": 20000.0,
+   "manutencaoIpvaSeguro": 3793.52,
+   "livreG1": -2331.67,
    "despesasExtrasRateio": 845.38,
    "alertas": [],
-   "manutencaoAlp": 3989.53,
+   "manutencaoAlp": 3793.52,
    "sienge": {
     "Outros": 360.0,
     "Materiais": 429.16,
@@ -757,26 +757,26 @@
    },
    "siengeTotal": 27018.48,
    "siengeEstimado": 0.0,
-   "resultadoG1": -25501.05,
+   "resultadoG1": -30195.53,
    "manutencaoG1": 8037.41,
-   "manutencaoTotal": 12026.94
+   "manutencaoTotal": 11830.93
   },
   {
    "mes": "2026-10",
    "placa": "JCG0H51",
-   "fretes": 10,
-   "semCte": 1,
+   "fretes": 14,
+   "semCte": 0,
    "pesoKg": 252090.0,
-   "faturamento": 77551.78,
-   "despesaAlp": 19387.94,
+   "faturamento": 91887.69,
+   "despesaAlp": 22971.93,
    "pctAlp": 0.25,
-   "combustivel": 20843.5,
+   "combustivel": 31073.91,
    "parcela": 10000.0,
-   "manutencaoIpvaSeguro": 3817.91,
-   "livreG1": 23502.43,
+   "manutencaoIpvaSeguro": 1916.49,
+   "livreG1": 25925.36,
    "despesasExtrasRateio": 845.38,
    "alertas": [],
-   "manutencaoAlp": 3817.91,
+   "manutencaoAlp": 1916.49,
    "sienge": {
     "Materiais": 429.16,
     "Mão de obra": 11615.58,
@@ -785,26 +785,28 @@
    },
    "siengeTotal": 23528.75,
    "siengeEstimado": 0.0,
-   "resultadoG1": -871.7,
+   "resultadoG1": 1551.23,
    "manutencaoG1": 6938.66,
-   "manutencaoTotal": 10756.57
+   "manutencaoTotal": 8855.15
   },
   {
    "mes": "2026-10",
    "placa": "JCG8H84",
-   "fretes": 9,
-   "semCte": 1,
+   "fretes": 10,
+   "semCte": 0,
    "pesoKg": 244440.0,
-   "faturamento": 83520.33,
-   "despesaAlp": 20880.08,
+   "faturamento": 83520.83,
+   "despesaAlp": 20880.21,
    "pctAlp": 0.25,
-   "combustivel": 28418.18,
+   "combustivel": 30209.47,
    "parcela": 10000.0,
-   "manutencaoIpvaSeguro": 3526.03,
-   "livreG1": 20696.04,
+   "manutencaoIpvaSeguro": 3335.67,
+   "livreG1": 19095.48,
    "despesasExtrasRateio": 845.38,
-   "alertas": [],
-   "manutencaoAlp": 3526.03,
+   "alertas": [
+    "Despesa ALP recalculada: Ficha cobra 28% do frete; base usa 25% do contrato (ficha R$ 23385.84, base R$ 20880.21)."
+   ],
+   "manutencaoAlp": 3335.67,
    "sienge": {
     "Materiais": 429.16,
     "Mão de obra": 12198.21,
@@ -813,9 +815,9 @@
    },
    "siengeTotal": 21562.81,
    "siengeEstimado": 0.0,
-   "resultadoG1": -1712.15,
+   "resultadoG1": -3312.71,
    "manutencaoG1": 4330.09,
-   "manutencaoTotal": 7856.12
+   "manutencaoTotal": 7665.76
   },
   {
    "mes": "2026-10",
@@ -823,18 +825,16 @@
    "fretes": 12,
    "semCte": 0,
    "pesoKg": 280630.0,
-   "faturamento": 83630.21,
-   "despesaAlp": 20907.55,
+   "faturamento": 83730.22,
+   "despesaAlp": 20932.57,
    "pctAlp": 0.25,
-   "combustivel": 28048.06,
+   "combustivel": 28048.11,
    "parcela": 10000.0,
-   "manutencaoIpvaSeguro": 5904.43,
-   "livreG1": 18770.17,
+   "manutencaoIpvaSeguro": 3467.17,
+   "livreG1": 21282.37,
    "despesasExtrasRateio": 845.38,
-   "alertas": [
-    "Despesa ALP recalculada a 25% do frete (R$ 20.907,55); o Excel tem R$ 20.000,16 digitado."
-   ],
-   "manutencaoAlp": 5904.43,
+   "alertas": [],
+   "manutencaoAlp": 3467.17,
    "sienge": {
     "Materiais": 941.04,
     "Mão de obra": 10382.25,
@@ -843,26 +843,26 @@
    },
    "siengeTotal": 17272.21,
    "siengeEstimado": 0.0,
-   "resultadoG1": 652.58,
+   "resultadoG1": 3164.78,
    "manutencaoG1": 1403.57,
-   "manutencaoTotal": 7308.0
+   "manutencaoTotal": 4870.74
   },
   {
    "mes": "2026-10",
    "placa": "SEI2B52",
-   "fretes": 13,
+   "fretes": 12,
    "semCte": 0,
-   "pesoKg": 289070.0,
-   "faturamento": 82118.33,
-   "despesaAlp": 20529.58,
+   "pesoKg": 267010.0,
+   "faturamento": 74840.23,
+   "despesaAlp": 18710.06,
    "pctAlp": 0.25,
-   "combustivel": 26389.64,
+   "combustivel": 26269.42,
    "parcela": 10000.0,
-   "manutencaoIpvaSeguro": 6194.69,
-   "livreG1": 19004.42,
+   "manutencaoIpvaSeguro": 5342.51,
+   "livreG1": 14518.24,
    "despesasExtrasRateio": 845.38,
    "alertas": [],
-   "manutencaoAlp": 6194.69,
+   "manutencaoAlp": 5342.51,
    "sienge": {
     "Materiais": 429.16,
     "Mão de obra": 11099.68,
@@ -871,9 +871,9 @@
    },
    "siengeTotal": 21891.06,
    "siengeEstimado": 0.0,
-   "resultadoG1": -3732.02,
+   "resultadoG1": -8218.2,
    "manutencaoG1": 5816.87,
-   "manutencaoTotal": 12011.56
+   "manutencaoTotal": 11159.38
   },
   {
    "mes": "2026-10",
@@ -882,15 +882,15 @@
    "semCte": 0,
    "pesoKg": 294550.0,
    "faturamento": 91479.2,
-   "despesaAlp": 25614.18,
+   "despesaAlp": 25614.2,
    "pctAlp": 0.28,
    "combustivel": 31298.78,
    "parcela": 10000.0,
-   "manutencaoIpvaSeguro": 8671.18,
-   "livreG1": 15895.06,
+   "manutencaoIpvaSeguro": 7784.38,
+   "livreG1": 16781.84,
    "despesasExtrasRateio": 845.38,
    "alertas": [],
-   "manutencaoAlp": 8671.18,
+   "manutencaoAlp": 7784.38,
    "sienge": {
     "Materiais": 431.57,
     "Mão de obra": 12239.07,
@@ -899,9 +899,9 @@
    },
    "siengeTotal": 19854.86,
    "siengeEstimado": 0.0,
-   "resultadoG1": -4805.18,
+   "resultadoG1": -3918.4,
    "manutencaoG1": 2578.87,
-   "manutencaoTotal": 11250.05
+   "manutencaoTotal": 10363.25
   },
   {
    "mes": "2026-10",
@@ -909,16 +909,16 @@
    "fretes": 12,
    "semCte": 0,
    "pesoKg": 258350.0,
-   "faturamento": 81387.05,
-   "despesaAlp": 20346.76,
+   "faturamento": 81387.06,
+   "despesaAlp": 20346.78,
    "pctAlp": 0.25,
-   "combustivel": 29562.0,
+   "combustivel": 29572.16,
    "parcela": 10000.0,
-   "manutencaoIpvaSeguro": 3808.99,
-   "livreG1": 17669.3,
+   "manutencaoIpvaSeguro": 7689.93,
+   "livreG1": 13778.19,
    "despesasExtrasRateio": 845.38,
    "alertas": [],
-   "manutencaoAlp": 3808.99,
+   "manutencaoAlp": 7689.93,
    "sienge": {
     "Materiais": 429.16,
     "Mão de obra": 11090.39,
@@ -927,9 +927,9 @@
    },
    "siengeTotal": 19338.31,
    "siengeEstimado": 0.0,
-   "resultadoG1": -2514.39,
+   "resultadoG1": -6405.5,
    "manutencaoG1": 3273.41,
-   "manutencaoTotal": 7082.4
+   "manutencaoTotal": 10963.34
   }
  ],
  "extras": [
@@ -4487,43 +4487,64 @@
    "mes": "2026-10",
    "placa": "JCF7A22",
    "origem": "ALP",
-   "conta": "Manutenção",
-   "valor": 3997.47
+   "conta": "Rastreamento/Câmeras",
+   "valor": 450.86
   },
   {
    "mes": "2026-10",
    "placa": "JCF7A22",
    "origem": "ALP",
    "conta": "Seguro",
-   "valor": 1460.2
+   "valor": 1469.22
   },
   {
    "mes": "2026-10",
    "placa": "JCF7A27",
    "origem": "ALP",
    "conta": "Manutenção",
-   "valor": 3989.53
+   "valor": 1274.67
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "origem": "ALP",
+   "conta": "Multas",
+   "valor": 624.78
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "origem": "ALP",
+   "conta": "Rastreamento/Câmeras",
+   "valor": 450.86
+  },
+  {
+   "mes": "2026-10",
+   "placa": "JCF7A27",
+   "origem": "ALP",
+   "conta": "Seguro",
+   "valor": 1443.21
   },
   {
    "mes": "2026-10",
    "placa": "JCG0H51",
    "origem": "ALP",
-   "conta": "Manutenção",
-   "valor": 2363.8
+   "conta": "Rastreamento/Câmeras",
+   "valor": 450.86
   },
   {
    "mes": "2026-10",
    "placa": "JCG0H51",
    "origem": "ALP",
    "conta": "Seguro",
-   "valor": 1454.11
+   "valor": 1465.63
   },
   {
    "mes": "2026-10",
    "placa": "JCG8H84",
    "origem": "ALP",
    "conta": "Manutenção",
-   "valor": 1035.57
+   "valor": 848.0
   },
   {
    "mes": "2026-10",
@@ -4537,7 +4558,7 @@
    "placa": "JCG8H84",
    "origem": "ALP",
    "conta": "Seguro",
-   "valor": 1918.66
+   "valor": 1915.87
   },
   {
    "mes": "2026-10",
@@ -4545,27 +4566,20 @@
    "origem": "ALP",
    "conta": "IPVA/Licenciamento",
    "valor": 1030.7
-  },
-  {
-   "mes": "2026-10",
-   "placa": "SEI0H92",
-   "origem": "ALP",
-   "conta": "Manutenção",
-   "valor": 2771.91
   },
   {
    "mes": "2026-10",
    "placa": "SEI0H92",
    "origem": "ALP",
    "conta": "Rastreamento/Câmeras",
-   "valor": 170.0
+   "valor": 511.74
   },
   {
    "mes": "2026-10",
    "placa": "SEI0H92",
    "origem": "ALP",
    "conta": "Seguro",
-   "valor": 1931.82
+   "valor": 1924.73
   },
   {
    "mes": "2026-10",
@@ -4579,14 +4593,7 @@
    "placa": "SEI2B52",
    "origem": "ALP",
    "conta": "Manutenção",
-   "valor": 2171.81
-  },
-  {
-   "mes": "2026-10",
-   "placa": "SEI2B52",
-   "origem": "ALP",
-   "conta": "Outros",
-   "valor": 504.32
+   "valor": 1816.46
   },
   {
    "mes": "2026-10",
@@ -4600,7 +4607,7 @@
    "placa": "SEI2B52",
    "origem": "ALP",
    "conta": "Seguro",
-   "valor": 1916.06
+   "valor": 1923.55
   },
   {
    "mes": "2026-10",
@@ -4614,14 +4621,14 @@
    "placa": "SEI2B55",
    "origem": "ALP",
    "conta": "Manutenção",
-   "valor": 2985.74
+   "valor": 3944.54
   },
   {
    "mes": "2026-10",
    "placa": "SEI2B55",
    "origem": "ALP",
-   "conta": "Outros",
-   "valor": 2154.15
+   "conta": "Multas",
+   "valor": 312.36
   },
   {
    "mes": "2026-10",
@@ -4635,7 +4642,7 @@
    "placa": "SEI2B55",
    "origem": "ALP",
    "conta": "Seguro",
-   "valor": 1929.33
+   "valor": 1925.52
   },
   {
    "mes": "2026-10",
@@ -4649,7 +4656,7 @@
    "placa": "SEI2B56",
    "origem": "ALP",
    "conta": "Manutenção",
-   "valor": 282.75
+   "valor": 4168.39
   },
   {
    "mes": "2026-10",
@@ -4663,7 +4670,7 @@
    "placa": "SEI2B56",
    "origem": "ALP",
    "conta": "Seguro",
-   "valor": 1933.05
+   "valor": 1928.35
   },
   {
    "mes": "2026-07",
@@ -6837,11 +6844,11 @@
    "placa": "JCF7A22",
    "destino": "Ponta Grossa",
    "kg": 25290,
-   "freteAtual": 2690.0,
+   "freteAtual": 2690.62,
    "cteAnterior": null,
    "freteAnterior": null,
    "perda": null,
-   "observacao": "Sem CTE anterior na base (placa + destino)"
+   "observacao": "Valor corrigido pela base, planilha R$ 2.690,00."
   },
   {
    "mes": "2026-10",
@@ -6850,11 +6857,11 @@
    "placa": "JCF7A27",
    "destino": "São Lourenço",
    "kg": 24700,
-   "freteAtual": 8159.52,
+   "freteAtual": 8169.52,
    "cteAnterior": 8630,
    "freteAnterior": 8148.54,
-   "perda": -10.98,
-   "observacao": null
+   "perda": -20.98,
+   "observacao": "Valor corrigido pela base, planilha R$ 8.159,52."
   },
   {
    "mes": "2026-10",
@@ -6928,11 +6935,11 @@
    "placa": "JCF7A22",
    "destino": "São Matheus",
    "kg": 25770,
-   "freteAtual": 5557.94,
+   "freteAtual": 4557.94,
    "cteAnterior": 8580,
    "freteAnterior": 4867.46,
-   "perda": -690.48,
-   "observacao": "Base: ARLINDO DAI 07 /10"
+   "perda": 309.52,
+   "observacao": "Valor corrigido pela base, planilha R$ 5.557,94."
   },
   {
    "mes": "2026-10",
@@ -7006,11 +7013,11 @@
    "placa": "SEI2B52",
    "destino": "Ponta Grossa",
    "kg": 22070,
-   "freteAtual": 2890.62,
+   "freteAtual": 2690.62,
    "cteAnterior": null,
    "freteAnterior": null,
    "perda": null,
-   "observacao": "Sem CTE anterior na base (placa + destino)"
+   "observacao": "Valor corrigido pela base, planilha R$ 2.890,62."
   },
   {
    "mes": "2026-10",
@@ -7097,11 +7104,11 @@
    "placa": "SEI0H92",
    "destino": "Palhoça",
    "kg": 22970,
-   "freteAtual": 5924.76,
+   "freteAtual": 5924.77,
    "cteAnterior": 8460,
    "freteAnterior": 6254.68,
-   "perda": 329.92,
-   "observacao": null
+   "perda": 329.91,
+   "observacao": "Valor corrigido pela base, planilha R$ 5.924,76."
   },
   {
    "mes": "2026-10",
@@ -7136,11 +7143,11 @@
    "placa": "JCG0H51",
    "destino": "Londrina",
    "kg": 26400,
-   "freteAtual": 7088.11,
+   "freteAtual": 4663.12,
    "cteAnterior": 8343,
    "freteAnterior": 7357.68,
-   "perda": 269.57,
-   "observacao": null
+   "perda": 2694.56,
+   "observacao": "Valor corrigido pela base, planilha R$ 7.088,11."
   },
   {
    "mes": "2026-10",
@@ -7214,11 +7221,11 @@
    "placa": "SEI2B52",
    "destino": "Palhoça",
    "kg": 21990,
-   "freteAtual": 5924.76,
+   "freteAtual": 5924.77,
    "cteAnterior": 8342,
    "freteAnterior": 6103.11,
-   "perda": 178.35,
-   "observacao": "CTE anterior com mais de uma opção; usado 8342 (alt.: 8646)"
+   "perda": 178.34,
+   "observacao": "Valor corrigido pela base, planilha R$ 5.924,76."
   },
   {
    "mes": "2026-10",
@@ -7305,11 +7312,11 @@
    "placa": "SEI2B52",
    "destino": "São Lourenço",
    "kg": 22250,
-   "freteAtual": 8159.52,
+   "freteAtual": 8169.52,
    "cteAnterior": 8300,
    "freteAnterior": 8151.63,
-   "perda": -7.89,
-   "observacao": null
+   "perda": -17.89,
+   "observacao": "Valor corrigido pela base, planilha R$ 8.159,52."
   },
   {
    "mes": "2026-10",
@@ -7457,7 +7464,7 @@
   {
    "mes": "2026-10",
    "data": "2026-10-22",
-   "cte": 25420,
+   "cte": 8952,
    "placa": "SEI2B56",
    "destino": "Londrina",
    "kg": 25420,
@@ -7465,7 +7472,7 @@
    "cteAnterior": 8632,
    "freteAnterior": 7582.71,
    "perda": 494.6,
-   "observacao": "CTE anterior com mais de uma opção; usado 8632 (alt.: 8543)"
+   "observacao": "CTE corrigido: planilha 25420, ficha 8952."
   },
   {
    "mes": "2026-10",
@@ -7539,24 +7546,24 @@
    "placa": "JCG0H51",
    "destino": "Araucária",
    "kg": 24980,
-   "freteAtual": 13791.06,
+   "freteAtual": 13134.45,
    "cteAnterior": null,
    "freteAnterior": null,
    "perda": null,
-   "observacao": "Origem: Canoas; Sem CTE anterior na base (placa + destino)"
+   "observacao": "Valor corrigido pela base, planilha R$ 13.791,06."
   },
   {
    "mes": "2026-10",
    "data": "2026-10-24",
-   "cte": 9862,
+   "cte": 8962,
    "placa": "JCF7A22",
    "destino": "São Matheus",
    "kg": 20530,
-   "freteAtual": 3831.15,
+   "freteAtual": 3631.14,
    "cteAnterior": 8580,
    "freteAnterior": 4867.46,
-   "perda": 1036.31,
-   "observacao": null
+   "perda": 1236.32,
+   "observacao": "Valor corrigido pela base, planilha R$ 3.831,15."
   },
   {
    "mes": "2026-10",
@@ -7682,11 +7689,11 @@
    "placa": "JCG0H51",
    "destino": "Araucária",
    "kg": 23370,
-   "freteAtual": 11848.59,
+   "freteAtual": 10426.76,
    "cteAnterior": null,
    "freteAnterior": null,
    "perda": null,
-   "observacao": "Origem: São Jose dos Campos; Sem CTE anterior na base (placa + destino)"
+   "observacao": "Valor corrigido pela base, planilha R$ 11.848,59."
   },
   {
    "mes": "2026-10",
@@ -7708,11 +7715,11 @@
    "placa": "SEI0H92",
    "destino": "São Lourenço",
    "kg": 24480,
-   "freteAtual": 8069.52,
+   "freteAtual": 8169.52,
    "cteAnterior": null,
    "freteAnterior": null,
    "perda": null,
-   "observacao": "Sem CTE anterior na base (placa + destino)"
+   "observacao": "Valor corrigido pela base, planilha R$ 8.069,52."
   },
   {
    "mes": "2026-10",
@@ -7760,11 +7767,11 @@
    "placa": "JCG8H84",
    "destino": "Palhoça",
    "kg": 27000,
-   "freteAtual": 5924.27,
+   "freteAtual": 5924.77,
    "cteAnterior": 8646,
    "freteAnterior": 6702.8,
-   "perda": 778.53,
-   "observacao": null
+   "perda": 778.03,
+   "observacao": "Valor corrigido pela base, planilha R$ 5.924,27."
   },
   {
    "mes": "2026-10",
@@ -7844,8 +7851,8 @@
    "comCteAnterior": 67,
    "semCteAnterior": 19,
    "freteAnteriorComparavel": 466636.64,
-   "perda": 34514.5,
-   "perdaPct": 0.074
+   "perda": 38118.98,
+   "perdaPct": 0.0817
   }
  ],
  "dieselMes": [
@@ -7872,10 +7879,10 @@
   },
   {
    "mes": "2026-10",
-   "litros": 28509.23,
-   "valor": 194242.42,
-   "precoMedio": 6.8133,
-   "abastecimentos": 74
+   "litros": 30630.21,
+   "valor": 208603.98,
+   "precoMedio": 6.8104,
+   "abastecimentos": 80
   }
  ],
  "dieselPlaca": [
@@ -8026,37 +8033,37 @@
   {
    "mes": "2026-10",
    "placa": "JCF7A22",
-   "litros": 2606.93,
-   "precoMedio": 6.8163
+   "litros": 2961.93,
+   "precoMedio": 6.8167
   },
   {
    "mes": "2026-10",
    "placa": "JCF7A27",
-   "litros": 2338.0,
+   "litros": 2774.04,
    "precoMedio": 6.82
   },
   {
    "mes": "2026-10",
    "placa": "JCG0H51",
-   "litros": 3312.04,
-   "precoMedio": 6.7723
+   "litros": 4391.69,
+   "precoMedio": 6.7826
   },
   {
    "mes": "2026-10",
    "placa": "JCG8H84",
-   "litros": 4023.91,
-   "precoMedio": 6.8273
+   "litros": 4273.92,
+   "precoMedio": 6.8023
   },
   {
    "mes": "2026-10",
    "placa": "SEI0H92",
    "litros": 3946.2,
-   "precoMedio": 6.8162
+   "precoMedio": 6.8163
   },
   {
    "mes": "2026-10",
    "placa": "SEI2B52",
-   "litros": 3700.27,
+   "litros": 3700.21,
    "precoMedio": 6.8181
   },
   {
@@ -8068,20 +8075,11 @@
   {
    "mes": "2026-10",
    "placa": "SEI2B56",
-   "litros": 4163.25,
-   "precoMedio": 6.8171
+   "litros": 4163.59,
+   "precoMedio": 6.8189
   }
  ],
- "dieselExcluidos": [
-  {
-   "mes": "2026-10",
-   "data": "2026-10-05",
-   "placa": "JCF7A22",
-   "litros": 26.97,
-   "precoUnit": 2.89,
-   "valor": 77.94
-  }
- ],
+ "dieselExcluidos": [],
  "km": [
   {
    "mes": "2026-07",
@@ -8219,7 +8217,7 @@
   {
    "mes": "2026-10",
    "placa": "SEI2B56",
-   "litros": 4163.25,
+   "litros": 4163.59,
    "km": 9569,
    "kmPorLitro": 2.298
   },
@@ -8233,7 +8231,7 @@
   {
    "mes": "2026-10",
    "placa": "SEI2B52",
-   "litros": 3700.27,
+   "litros": 3700.21,
    "km": 9304,
    "kmPorLitro": 2.514
   },
@@ -8261,9 +8259,9 @@
   {
    "mes": "2026-10",
    "placa": "JCG8H84",
-   "litros": 4023.91,
+   "litros": 4273.92,
    "km": 10224,
-   "kmPorLitro": 2.541
+   "kmPorLitro": 2.392
   },
   {
    "mes": "2026-09",
@@ -8275,9 +8273,9 @@
   {
    "mes": "2026-10",
    "placa": "JCF7A22",
-   "litros": 2606.93,
+   "litros": 2961.93,
    "km": 6861,
-   "kmPorLitro": 2.632
+   "kmPorLitro": 2.316
   },
   {
    "mes": "2026-09",
@@ -8289,24 +8287,24 @@
   {
    "mes": "2026-10",
    "placa": "JCF7A27",
-   "litros": 2338.0,
+   "litros": 2774.04,
    "km": 6079,
-   "kmPorLitro": 2.6
+   "kmPorLitro": 2.191
   },
   {
    "mes": "2026-09",
    "placa": "JCG0H51",
    "litros": 3386.28,
-   "km": 8739,
-   "kmPorLitro": 2.581,
+   "km": 7526,
+   "kmPorLitro": 2.222,
    "estimado": true
   },
   {
    "mes": "2026-10",
    "placa": "JCG0H51",
-   "litros": 3312.04,
-   "km": 8547,
-   "kmPorLitro": 2.581,
+   "litros": 4391.69,
+   "km": 9760,
+   "kmPorLitro": 2.222,
    "estimado": true
   }
  ],
@@ -8568,7 +8566,7 @@
    },
    {
     "mes": "2026-10",
-    "data": "2026-10-19",
+    "data": "2026-10-17",
     "cte": 8933,
     "placa": "SEI2B56",
     "cliente": "Fast Ariam",
@@ -8689,17 +8687,17 @@
    {
     "mes": "2026-10",
     "placa": "JCF7A27",
-    "fretes": 6
+    "fretes": 9
    },
    {
     "mes": "2026-10",
     "placa": "JCG0H51",
-    "fretes": 10
+    "fretes": 14
    },
    {
     "mes": "2026-10",
     "placa": "JCG8H84",
-    "fretes": 9
+    "fretes": 10
    },
    {
     "mes": "2026-10",
@@ -8709,7 +8707,7 @@
    {
     "mes": "2026-10",
     "placa": "SEI2B52",
-    "fretes": 13
+    "fretes": 12
    },
    {
     "mes": "2026-10",
@@ -8723,13 +8721,346 @@
    }
   ]
  },
+ "semReajuste": {
+  "reajuste": 0.076,
+  "arquivo": "Relação de Fretes sem Reajuste 2.0 (1).xlsx",
+  "itens": [
+   {
+    "data": "2026-04-18",
+    "cte": 602,
+    "cliente": "Parati",
+    "pesoKg": 29250,
+    "frete": 8861.61,
+    "freteReajustado": 9535.09,
+    "diferenca": 673.48
+   },
+   {
+    "data": "2026-04-21",
+    "cte": 607,
+    "cliente": "Alcast",
+    "pesoKg": 26410,
+    "frete": 8219.06,
+    "freteReajustado": 8843.71,
+    "diferenca": 624.65
+   },
+   {
+    "data": "2026-04-22",
+    "cte": 610,
+    "cliente": "Alcast",
+    "pesoKg": 26540,
+    "frete": 8259.51,
+    "freteReajustado": 8887.23,
+    "diferenca": 627.72
+   },
+   {
+    "data": "2026-04-23",
+    "cte": 634,
+    "cliente": "Parati",
+    "pesoKg": 30140,
+    "frete": 8917.82,
+    "freteReajustado": 9595.57,
+    "diferenca": 677.75
+   },
+   {
+    "data": "2026-04-24",
+    "cte": 618,
+    "cliente": "Alcast",
+    "pesoKg": 25780,
+    "frete": 8022.99,
+    "freteReajustado": 8632.74,
+    "diferenca": 609.75
+   },
+   {
+    "data": "2026-04-26",
+    "cte": 620,
+    "cliente": "Parati",
+    "pesoKg": 30290,
+    "frete": 8962.21,
+    "freteReajustado": 9643.34,
+    "diferenca": 681.13
+   },
+   {
+    "data": "2026-04-26",
+    "cte": 622,
+    "cliente": "Alcast",
+    "pesoKg": 26130,
+    "frete": 8131.92,
+    "freteReajustado": 8749.95,
+    "diferenca": 618.03
+   },
+   {
+    "data": "2026-04-27",
+    "cte": 624,
+    "cliente": "Parati",
+    "pesoKg": 26680,
+    "frete": 7894.08,
+    "freteReajustado": 8494.03,
+    "diferenca": 599.95
+   },
+   {
+    "data": "2026-04-29",
+    "cte": 630,
+    "cliente": "Alcast",
+    "pesoKg": 27250,
+    "frete": 8480.47,
+    "freteReajustado": 9124.99,
+    "diferenca": 644.52
+   },
+   {
+    "data": "2026-04-30",
+    "cte": 634,
+    "cliente": "Parati",
+    "pesoKg": 31100,
+    "frete": 9201.87,
+    "freteReajustado": 9901.21,
+    "diferenca": 699.34
+   },
+   {
+    "data": "2026-04-30",
+    "cte": 637,
+    "cliente": "Alcast",
+    "pesoKg": 26490,
+    "frete": 8243.6,
+    "freteReajustado": 8870.11,
+    "diferenca": 626.51
+   },
+   {
+    "data": "2026-05-02",
+    "cte": 640,
+    "cliente": "Parati",
+    "pesoKg": 31030,
+    "frete": 9181.16,
+    "freteReajustado": 9878.93,
+    "diferenca": 697.77
+   },
+   {
+    "data": "2026-05-04",
+    "cte": 648,
+    "cliente": "Parati",
+    "pesoKg": 30130,
+    "frete": 8914.86,
+    "freteReajustado": 9592.39,
+    "diferenca": 677.53
+   },
+   {
+    "data": "2026-05-05",
+    "cte": 651,
+    "cliente": "Alcast",
+    "pesoKg": 26190,
+    "frete": 8150.59,
+    "freteReajustado": 8770.03,
+    "diferenca": 619.44
+   },
+   {
+    "data": "2026-05-06",
+    "cte": 655,
+    "cliente": "Parati",
+    "pesoKg": 30470,
+    "frete": 9015.46,
+    "freteReajustado": 9700.63,
+    "diferenca": 685.17
+   },
+   {
+    "data": "2026-05-07",
+    "cte": 660,
+    "cliente": "Parati",
+    "pesoKg": 29690,
+    "frete": 8784.65,
+    "freteReajustado": 9452.28,
+    "diferenca": 667.63
+   },
+   {
+    "data": "2026-05-09",
+    "cte": 663,
+    "cliente": "Parati",
+    "pesoKg": 30720,
+    "frete": 9089.43,
+    "freteReajustado": 9780.23,
+    "diferenca": 690.8
+   },
+   {
+    "data": "2026-05-09",
+    "cte": 667,
+    "cliente": "Alcast",
+    "pesoKg": 27320,
+    "frete": 8502.26,
+    "freteReajustado": 9148.43,
+    "diferenca": 646.17
+   },
+   {
+    "data": "2026-05-11",
+    "cte": 674,
+    "cliente": "Alcast",
+    "pesoKg": 27050,
+    "frete": 8416.23,
+    "freteReajustado": 9055.86,
+    "diferenca": 639.63
+   },
+   {
+    "data": "2026-05-11",
+    "cte": 672,
+    "cliente": "Parati",
+    "pesoKg": 31220,
+    "frete": 9237.37,
+    "freteReajustado": 9939.41,
+    "diferenca": 702.04
+   },
+   {
+    "data": "2026-05-13",
+    "cte": 679,
+    "cliente": "Parati",
+    "pesoKg": 31150,
+    "frete": 9216.66,
+    "freteReajustado": 9917.13,
+    "diferenca": 700.47
+   },
+   {
+    "data": "2026-05-13",
+    "cte": 680,
+    "cliente": "Alcast",
+    "pesoKg": 26520,
+    "frete": 8253.29,
+    "freteReajustado": 8880.54,
+    "diferenca": 627.25
+   },
+   {
+    "data": "2026-05-13",
+    "cte": 681,
+    "cliente": "Alcast",
+    "pesoKg": 26550,
+    "frete": 8262.63,
+    "freteReajustado": 8890.59,
+    "diferenca": 627.96
+   },
+   {
+    "data": "2026-05-14",
+    "cte": 686,
+    "cliente": "Parati",
+    "pesoKg": 31390,
+    "frete": 9287.67,
+    "freteReajustado": 9993.53,
+    "diferenca": 705.86
+   },
+   {
+    "data": "2026-05-16",
+    "cte": 692,
+    "cliente": "Alcast",
+    "pesoKg": 26590,
+    "frete": 8275.07,
+    "freteReajustado": 8903.98,
+    "diferenca": 628.91
+   },
+   {
+    "data": "2026-05-16",
+    "cte": 691,
+    "cliente": "Parati",
+    "pesoKg": 30440,
+    "frete": 9006.59,
+    "freteReajustado": 9691.09,
+    "diferenca": 684.5
+   },
+   {
+    "data": "2026-05-18",
+    "cte": 697,
+    "cliente": "Parati",
+    "pesoKg": 31040,
+    "frete": 9184.12,
+    "freteReajustado": 9882.11,
+    "diferenca": 697.99
+   },
+   {
+    "data": "2026-05-20",
+    "cte": 702,
+    "cliente": "Alcast",
+    "pesoKg": 26560,
+    "frete": 8265.74,
+    "freteReajustado": 8893.94,
+    "diferenca": 628.2
+   },
+   {
+    "data": "2026-05-21",
+    "cte": 707,
+    "cliente": "Alcast",
+    "pesoKg": 29970,
+    "frete": 9326.96,
+    "freteReajustado": 10035.81,
+    "diferenca": 708.85
+   },
+   {
+    "data": "2026-05-21",
+    "cte": 714,
+    "cliente": "Parati",
+    "pesoKg": 27420,
+    "frete": 8113.03,
+    "freteReajustado": 8729.62,
+    "diferenca": 616.59
+   },
+   {
+    "data": "2026-05-22",
+    "cte": 717,
+    "cliente": "Alcast",
+    "pesoKg": 26140,
+    "frete": 8135.03,
+    "freteReajustado": 8753.29,
+    "diferenca": 618.26
+   },
+   {
+    "data": "2026-05-25",
+    "cte": 7947,
+    "cliente": "Alcast",
+    "pesoKg": 31000,
+    "frete": 9647.51,
+    "freteReajustado": 10380.72,
+    "diferenca": 733.21
+   },
+   {
+    "data": "2026-05-27",
+    "cte": 7962,
+    "cliente": "Alcast",
+    "pesoKg": 26420,
+    "frete": 8222.17,
+    "freteReajustado": 8847.05,
+    "diferenca": 624.88
+   },
+   {
+    "data": "2026-05-28",
+    "cte": 7970,
+    "cliente": "Parati",
+    "pesoKg": 27610,
+    "frete": 8169.25,
+    "freteReajustado": 8790.11,
+    "diferenca": 620.86
+   },
+   {
+    "data": "2026-05-28",
+    "cte": 7973,
+    "cliente": "Alcast",
+    "pesoKg": 26040,
+    "frete": 8254.68,
+    "freteReajustado": 8882.04,
+    "diferenca": 627.36
+   },
+   {
+    "data": "2026-05-30",
+    "cte": 8013,
+    "cliente": "Parati",
+    "pesoKg": 27460,
+    "frete": 8124.86,
+    "freteReajustado": 8742.35,
+    "diferenca": 617.49
+   }
+  ],
+  "ctesRepetidos": [
+   634
+  ]
+ },
  "conferencias": [
   {
-   "descricao": "Faturamento por mês = soma dos fretes (jul 650.476,06 | ago 762.758,53 | set 605.630,37 | out 617.161,05)",
+   "descricao": "Faturamento por mês = soma dos fretes (jul 650.476,06 | ago 762.758,53 | set 605.630,37 | out 634.029,18)",
    "ok": true
   },
   {
-   "descricao": "Livre G1 de outubro = R$ 139.569,26 (Excel de faturamento atualizado, SEI0H92 a 25%)",
+   "descricao": "Livre G1 de outubro = R$ 130.935,82 (fichas, JCG8H84 recalculada a 25%)",
    "ok": true
   },
   {
@@ -8753,7 +9084,11 @@
    "ok": true
   },
   {
-   "descricao": "Comparativo de fretes: CTEs e valores conferidos com a base (6 correções)",
+   "descricao": "Comparativo de fretes: CTEs e valores conferidos com a base (21 correções)",
+   "ok": true
+  },
+  {
+   "descricao": "Fretes sem reajuste: 36 fretes, faturado R$ 310.232,41 (total da planilha)",
    "ok": true
   }
  ]

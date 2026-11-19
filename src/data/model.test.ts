@@ -17,6 +17,9 @@ import {
   faturamentoDespesasMensal,
   kmGastoMensal,
   retornoResumo,
+  semReajusteAcumulado,
+  semReajustePorMesCliente,
+  semReajusteTotal,
   totalsOf,
   waterfallSteps,
 } from './model';
@@ -30,7 +33,7 @@ describe('receita (valores de referência do guia)', () => {
     expect(near(f('2026-07'), 650476.06)).toBe(true);
     expect(near(f('2026-08'), 762758.53)).toBe(true);
     expect(near(f('2026-09'), 605630.37)).toBe(true);
-    expect(near(f('2026-10'), 617161.05)).toBe(true);
+    expect(near(f('2026-10'), 634029.18)).toBe(true);
   });
 
   it('8 placas em cada mês', () => {
@@ -46,10 +49,12 @@ describe('Livre G1 e Resultado G1', () => {
     }
   });
 
-  it('Outubro: Livre G1 = R$ 139.569,26 e combustível R$ 199.186,73 (aba resumo do Excel atualizado)', () => {
+  it('Outubro pelas fichas: Livre G1 = R$ 130.935,82 (JCG8H84 a 25%) e combustível R$ 216.591,89', () => {
     const t = totalsOf(selectPlacaMes({ mes: '2026-10', placa: ALL_PLATES }));
-    expect(near(t.livreG1, 139569.26)).toBe(true);
-    expect(near(t.combustivel, 199186.73)).toBe(true);
+    expect(near(t.livreG1, 130935.82)).toBe(true);
+    expect(near(t.combustivel, 216591.89)).toBe(true);
+    const jcg = dataset.placaMes.find((r) => r.mes === '2026-10' && r.placa === 'JCG8H84')!;
+    expect(near(jcg.despesaAlp, 20880.21)).toBe(true);
   });
 
   it('Setembro: SEI2B55 pela ficha e JCF7A27 sem os R$10.000 digitados', () => {
@@ -74,7 +79,7 @@ describe('Livre G1 e Resultado G1', () => {
     expect(near(r('2026-07'), 33771.44, 0.1)).toBe(true);
     expect(near(r('2026-08'), 100194.36, 0.1)).toBe(true);
     expect(near(r('2026-09'), 5922.53, 0.1)).toBe(true);
-    expect(near(r('2026-10'), -40228.07, 0.1)).toBe(true);
+    expect(near(r('2026-10'), -48861.51, 0.1)).toBe(true);
   });
 
   it('Resultado G1 = Livre G1 - Sienge - extras (Set)', () => {
@@ -101,8 +106,8 @@ describe('queda de frete', () => {
     const [ago, set, out] = perdaPorMes(all);
     expect(near(ago!.perda, 5235.43)).toBe(true);
     expect(near(set!.perda, 47431.74)).toBe(true);
-    expect(near(out!.perda, 34514.5)).toBe(true);
-    expect(near(perdaTotal(all).perda, 87181.67)).toBe(true);
+    expect(near(out!.perda, 38118.98)).toBe(true);
+    expect(near(perdaTotal(all).perda, 90786.15)).toBe(true);
   });
 
   it('fretes sem CTE anterior ficam fora da perda (19 em Out, 13 em Set, 1 em Ago)', () => {
@@ -259,5 +264,25 @@ describe('retorno carregado', () => {
     expect(porMes.reduce((a, r) => a + r.comRetorno, 0)).toBe(26);
     expect(porMes.reduce((a, r) => a + r.fretes, 0)).toBe(retornoResumo(all).fretes);
     expect(porMes[0]!.comRetorno).toBe(0);
+  });
+});
+
+describe('fretes sem reajuste', () => {
+  it('totais iguais à aba Total da planilha (36 fretes, reajuste 7,6%)', () => {
+    const t = semReajusteTotal();
+    expect(dataset.semReajuste.reajuste).toBeCloseTo(0.076, 6);
+    expect(t.fretes).toBe(36);
+    expect(near(t.frete, 310232.41, 0.001)).toBe(true);
+    expect(near(t.freteReajustado, 333810.07, 0.001)).toBe(true);
+    expect(near(t.diferenca, 23577.66, 0.001)).toBe(true);
+  });
+
+  it('mês × cliente soma o total e o acumulado termina no total', () => {
+    const { meses, clientes, valor } = semReajustePorMesCliente();
+    expect(meses).toEqual(['2026-04', '2026-05']);
+    const soma = meses.flatMap((m) => clientes.map((c) => valor(m, c).frete)).reduce((a, b) => a + b, 0);
+    expect(near(soma, 310232.41)).toBe(true);
+    const acc = semReajusteAcumulado();
+    expect(near(acc[acc.length - 1]!.acumulado, 23577.66, 0.02)).toBe(true);
   });
 });
